@@ -8,7 +8,7 @@ source("scripts/_helper_read_task_results.R")
 data_lt <- read_task_results("website/results/cell_cell_communication_ligand_target/data")
 data_st <- read_task_results("website/results/cell_cell_communication_source_target/data")
 
-figure_path <- paste0("figures/figure2c/plot.pdf")
+figure_path <- paste0("figures/figure2/fig2c.pdf")
 if (!dir.exists(dirname(figure_path))) {
   dir.create(dirname(figure_path), recursive = TRUE, showWarnings = FALSE)
 }
@@ -28,19 +28,18 @@ summary_all <-
 column_info <-
   bind_rows(
     tribble(
-      ~id, ~name, ~group, ~geom,
-      "method_name", "Name", "method", "text",
-      "mean_score", "Score", "mean", "bar",
-      "lt_dataset_tnbc_data", "Dataset: TNBC atlas", "lt", "funkyrect",
-      "lt_metric_auprc", "Metric: PR-AUC", "lt", "funkyrect",
-      "lt_metric_odds_ratio", "Metric: Odds Ratio", "lt", "funkyrect",
-      "st_dataset_mouse_brain_atlas", "Dataset: Mouse brain atlas", "st", "funkyrect",
-      "st_metric_auprc", "Metric: PR-AUC", "st", "funkyrect",
-      "st_metric_odds_ratio", "Metric: Odds Ratio", "st", "funkyrect",
+      ~id, ~name, ~group, ~geom, ~palette,
+      "method_name", "Name", "method", "text", NA_character_,
+      "mean_score", "Score", "mean", "bar", "mean",
+      "lt_dataset_tnbc_data", "TNBC atlas", "ltd", "funkyrect", "lt",
+      "lt_metric_auprc", "PR-AUC", "ltm", "funkyrect", "st",
+      "lt_metric_odds_ratio", "Odds Ratio", "ltm", "funkyrect", "st",
+      "st_dataset_mouse_brain_atlas", "Mouse brain atlas", "std", "funkyrect", "lt",
+      "st_metric_auprc", "PR-AUC", "stm", "funkyrect", "st",
+      "st_metric_odds_ratio", "Odds Ratio", "stm", "funkyrect", "st"
     )
   ) %>%
   mutate(
-    palette = ifelse(group %in% c("mean", "lt", "st"), group, NA_character_),
     options = map2(id, geom, function(id, geom) {
       if (id == "method_name") {
         list(width = 15, hjust = 0)
@@ -58,8 +57,10 @@ column_groups <- tribble(
   ~Category, ~group, ~palette,
   "", "method", NA_character_,
   "Overall", "mean", "mean",
-  "Ligand-Target", "lt", "lt",
-  "Source-Target", "st", "st"
+  "Ligand-Target", "ltd", "mean",
+  "Ligand-Target", "ltm", "mean",
+  "Source-Target", "std", "mean",
+  "Source-Target", "stm", "mean"
 )
 
 palettes <- list(
