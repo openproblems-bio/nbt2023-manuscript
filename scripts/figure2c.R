@@ -21,7 +21,10 @@ data <-
     left_join(data_lt$per_dataset %>% rename(lt_dataset_tnbc_data = dataset_tnbc_data), by = "method_id") %>%
     left_join(data_lt$per_metric %>% rename(lt_metric_auprc = metric_auprc, lt_metric_odds_ratio = metric_odds_ratio), by = "method_id") %>%
     left_join(data_st$per_dataset %>% rename(st_dataset_mouse_brain_atlas = dataset_mouse_brain_atlas), by = "method_id") %>%
-    left_join(data_st$per_metric %>% rename(st_metric_auprc = metric_auprc, st_metric_odds_ratio = metric_odds_ratio), by = "method_id")
+    left_join(data_st$per_metric %>% rename(st_metric_auprc = metric_auprc, st_metric_odds_ratio = metric_odds_ratio), by = "method_id") %>%
+    mutate(mean_score = (lt_dataset_tnbc_data + st_dataset_mouse_brain_atlas) / 2) %>%
+    select(method_id, method_name, mean_score, everything()) %>%
+    arrange(desc(mean_score))
 
 # add ranks
 for (cn in colnames(data)) {
@@ -30,19 +33,13 @@ for (cn in colnames(data)) {
   }
 }
 
-# add mean score
-data <- data %>%
-    mutate(mean_score = (lt_dataset_tnbc_data + st_dataset_mouse_brain_atlas) / 2) %>%
-    select(method_id, method_name, mean_score, everything()) %>%
-    arrange(desc(mean_score))
-
 # determine column info
 column_info <-
   bind_rows(
     tribble(
       ~id, ~id_color, ~name, ~group, ~geom, ~palette,
       "method_name", NA_character_, "Name", "method", "text", NA_character_,
-      "mean_score", NA_character_, "Score", "mean", "bar", "mean",
+      "mean_score", "mean_score_rank", "Mean score", "mean", "bar", "mean",
       "lt_dataset_tnbc_data", "lt_dataset_tnbc_data_rank", "TNBC atlas", "ltd", "funkyrect", "lt",
       "lt_metric_auprc", "lt_metric_auprc_rank", "PR-AUC", "ltm", "funkyrect", "st",
       "lt_metric_odds_ratio", "lt_metric_odds_ratio_rank", "Odds Ratio", "ltm", "funkyrect", "st",
@@ -97,6 +94,13 @@ legends <- list(
     title = "Source-Target rank",
     geom = "funkyrect",
     palette = "st",
+    labels = c("N", "", "", "", "1"),
+    size = 1
+  ),
+  list(
+    title = "Mean score rank",
+    geom = "rect",
+    palette = "mean",
     labels = c("N", "", "", "", "1"),
     size = 1
   ),
