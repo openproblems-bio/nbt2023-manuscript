@@ -75,17 +75,21 @@ walk(task_info_jsons, function(task_info_json) {
       metric = "Reds"
     )
 
+    legends <- NULL # TODO
+
     g_all <- funky_heatmap(
       data = summary_all,
       column_info = column_info %>% filter(id %in% colnames(summary_all)),
       column_groups = column_groups,
       palettes = palettes,
-      # determine xmax expand heuristically
-      expand = c(xmax = max(str_length(tail(column_info$name, 4))) / 5),
-      # determine offset heuristically
-      col_annot_offset = max(str_length(column_info$name)) / 5,
+      legends = legends,
       add_abc = FALSE,
-      scale_column = TRUE
+      scale_column = TRUE,
+      # determine position args heuristically
+      position_args = position_arguments(
+        col_annot_offset = max(str_length(column_info$name)) / 5,
+        expand_xmax = max(str_length(tail(column_info$name, 4))) / 5
+      )
     )
 
     ggsave(figure_path, g_all, width = g_all$width, height = g_all$height)
