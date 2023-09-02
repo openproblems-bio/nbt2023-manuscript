@@ -39,12 +39,12 @@ column_info <-
       ~id, ~id_color, ~name, ~group, ~geom, ~palette,
       "method_name", NA_character_, "Name", "method", "text", NA_character_,
       "mean_score", "mean_score_rank", "Mean score", "mean", "bar", "mean",
-      "lt_dataset_tnbc_data", "lt_dataset_tnbc_data_rank", "TNBC atlas", "ltd", "funkyrect", "lt",
-      "lt_metric_auprc", "lt_metric_auprc_rank", "PR-AUC", "ltm", "funkyrect", "st",
-      "lt_metric_odds_ratio", "lt_metric_odds_ratio_rank", "Odds Ratio", "ltm", "funkyrect", "st",
-      "st_dataset_mouse_brain_atlas", "st_dataset_mouse_brain_atlas_rank", "Mouse brain atlas", "std", "funkyrect", "lt",
-      "st_metric_auprc", "st_metric_auprc_rank", "PR-AUC", "stm", "funkyrect", "st",
-      "st_metric_odds_ratio", "st_metric_odds_ratio_rank", "Odds Ratio", "stm", "funkyrect", "st"
+      "lt_dataset_tnbc_data", "lt_dataset_tnbc_data_rank", "TNBC atlas", "ltd", "funkyrect", "dataset",
+      "lt_metric_auprc", "lt_metric_auprc_rank", "PR-AUC", "ltm", "funkyrect", "metric",
+      "lt_metric_odds_ratio", "lt_metric_odds_ratio_rank", "Odds Ratio", "ltm", "funkyrect", "metric",
+      "st_dataset_mouse_brain_atlas", "st_dataset_mouse_brain_atlas_rank", "Mouse brain atlas", "std", "funkyrect", "dataset",
+      "st_metric_auprc", "st_metric_auprc_rank", "PR-AUC", "stm", "funkyrect", "metric",
+      "st_metric_odds_ratio", "st_metric_odds_ratio_rank", "Odds Ratio", "stm", "funkyrect", "metric"
     )
   ) %>%
   mutate(
@@ -76,28 +76,14 @@ column_groups <- tribble(
 # determine palettes
 palettes <- list(
   mean = "Greys",
-  lt = "Blues",
-  st = "Reds"
+  dataset = "Blues",
+  metric = "Reds"
 )
 
 # determine legends
 legends <- list(
   list(
-    title = "Ligand-Target rank",
-    geom = "funkyrect",
-    palette = "lt",
-    labels = c("N", "", "", "", "1"),
-    size = 1
-  ),
-  list(
-    title = "Source-Target rank",
-    geom = "funkyrect",
-    palette = "st",
-    labels = c("N", "", "", "", "1"),
-    size = 1
-  ),
-  list(
-    title = "Mean score rank",
+    title = "Rank",
     geom = "rect",
     palette = "mean",
     labels = c("N", "", "", "", "1"),
@@ -110,6 +96,23 @@ legends <- list(
     labels = c("min", "", "", "", "", "", "", "", "", "", "max"),
     size = seq(0, 1, by = .1),
     label_hjust = c(0, rep(0.5, 9), 1)
+  ),
+  list(
+    title = "Type",
+    geom = "funkyrect",
+    labels = c("Mean", "Dataset", "Metric"),
+    color = c("#7a7a7a", "#1b6aaf", "#eb372a"),
+    size = 1
+  ),
+  list(
+    geom = "funkyrect",
+    palette = "dataset",
+    enabled = FALSE
+  ),
+  list(
+    geom = "funkyrect",
+    palette = "metric",
+    enabled = FALSE
   )
 )
 
