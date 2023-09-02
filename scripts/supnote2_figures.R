@@ -12,35 +12,43 @@ walk(task_info_jsons, function(task_info_json) {
   tryCatch({
     task_data <- read_task_results(dirname(task_info_json))
 
-    figure_path <- paste0("figures/supnote2_figures/", task_info$task_id, "/plot.pdf")
+    figure_path <- paste0("figures/supnote2_figures/", task_data$task_info$task_id, "/plot.pdf")
     if (!dir.exists(dirname(figure_path))) {
       dir.create(dirname(figure_path), recursive = TRUE, showWarnings = FALSE)
     }
 
-    summary_all <-
-      task_data$method_info %>%
-        filter(!is_baseline) %>%
-        select(method_id, method_name) %>%
-        left_join(task_data$overall, by = "method_id") %>%
-        left_join(task_data$per_dataset, by = "method_id") %>%
-        left_join(task_data$per_metric, by = "method_id") %>%
-        arrange(desc(method_id))
+    data <- task_data$method_info %>%
+      filter(!is_baseline) %>%
+      select(method_id, method_name) %>%
+      left_join(task_data$overall, by = "method_id") %>%
+      left_join(task_data$per_dataset, by = "method_id") %>%
+      left_join(task_data$per_metric, by = "method_id") %>%
+      arrange(desc(method_id))
+
+    # add ranks
+    for (cn in colnames(data)) {
+      if (is.numeric(data[[cn]])) {
+        data[[paste0(cn, "_rank")]] <- rank(data[[cn]], ties.method = "min")
+      }
+    }
 
     column_info <-
       bind_rows(
         tribble(
-          ~id, ~name, ~group, ~geom,
-          "method_name", "Name", "method", "text",
-          "mean_score", "Score", "mean", "bar",
+          ~id, ~id_color, ~name, ~group, ~geom,
+          "method_name", NA_character_, "Name", "method", "text",
+          "mean_score", "mean_score_rank", "Score", "mean", "bar",
         ),
         task_data$dataset_info %>% transmute(
           id = paste0("dataset_", dataset_id),
+          id_color = paste0("dataset_", dataset_id, "_rank"),
           name = dataset_name,
           group = "dataset",
           geom = "funkyrect"
         ),
         task_data$metric_info %>% transmute(
           id = paste0("metric_", metric_id),
+          id_color = paste0("metric_", metric_id, "_rank"),
           name = metric_name,
           group = "metric",
           geom = "funkyrect"
@@ -75,11 +83,37 @@ walk(task_info_jsons, function(task_info_json) {
       metric = "Reds"
     )
 
-    legends <- NULL # TODO
+    legends <- list(
+      list(
+        title = "Rank",
+        geom = "funkyrect",
+        palette = "mean",
+        labels = c("N", "", "", "", "1"),
+        size = 1
+      ),
+      list(
+        title = "Score",
+        geom = "funkyrect",
+        color = "darkgray",
+        labels = c("min", "", "", "", "", "", "", "", "", "", "max"),
+        size = seq(0, 1, by = .1),
+        label_hjust = c(0, rep(0.5, 9), 1)
+      ),
+      list(
+        geom = "funkyrect",
+        palette = "dataset",
+        enabled = FALSE
+      ),
+      list(
+        geom = "funkyrect",
+        palette = "metric",
+        enabled = FALSE
+      )
+    )
 
     g_all <- funky_heatmap(
-      data = summary_all,
-      column_info = column_info %>% filter(id %in% colnames(summary_all)),
+      data = data,
+      column_info = column_info %>% filter(id %in% colnames(data)),
       column_groups = column_groups,
       palettes = palettes,
       legends = legends,

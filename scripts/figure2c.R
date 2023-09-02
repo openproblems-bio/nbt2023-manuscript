@@ -14,17 +14,16 @@ if (!dir.exists(dirname(figure_path))) {
 }
 
 # load scores
-data <-
-  data_lt$method_info %>%
-    filter(!is_baseline) %>%
-    select(method_id, method_name) %>%
-    left_join(data_lt$per_dataset %>% rename(lt_dataset_tnbc_data = dataset_tnbc_data), by = "method_id") %>%
-    left_join(data_lt$per_metric %>% rename(lt_metric_auprc = metric_auprc, lt_metric_odds_ratio = metric_odds_ratio), by = "method_id") %>%
-    left_join(data_st$per_dataset %>% rename(st_dataset_mouse_brain_atlas = dataset_mouse_brain_atlas), by = "method_id") %>%
-    left_join(data_st$per_metric %>% rename(st_metric_auprc = metric_auprc, st_metric_odds_ratio = metric_odds_ratio), by = "method_id") %>%
-    mutate(mean_score = (lt_dataset_tnbc_data + st_dataset_mouse_brain_atlas) / 2) %>%
-    select(method_id, method_name, mean_score, everything()) %>%
-    arrange(desc(mean_score))
+data <- data_lt$method_info %>%
+  filter(!is_baseline) %>%
+  select(method_id, method_name) %>%
+  left_join(data_lt$per_dataset %>% rename(lt_dataset_tnbc_data = dataset_tnbc_data), by = "method_id") %>%
+  left_join(data_lt$per_metric %>% rename(lt_metric_auprc = metric_auprc, lt_metric_odds_ratio = metric_odds_ratio), by = "method_id") %>%
+  left_join(data_st$per_dataset %>% rename(st_dataset_mouse_brain_atlas = dataset_mouse_brain_atlas), by = "method_id") %>%
+  left_join(data_st$per_metric %>% rename(st_metric_auprc = metric_auprc, st_metric_odds_ratio = metric_odds_ratio), by = "method_id") %>%
+  mutate(mean_score = (lt_dataset_tnbc_data + st_dataset_mouse_brain_atlas) / 2) %>%
+  select(method_id, method_name, mean_score, everything()) %>%
+  arrange(desc(mean_score))
 
 # add ranks
 for (cn in colnames(data)) {
@@ -108,8 +107,9 @@ legends <- list(
     title = "Score",
     geom = "funkyrect",
     color = "darkgray",
-    labels = c("0", "", "0.2", "", "0.4", "", "0.6", "", "0.8", "", "1"),
-    size = seq(0, 1, by = .1)
+    labels = c("min", "", "", "", "", "", "", "", "", "", "max"),
+    size = seq(0, 1, by = .1),
+    label_hjust = c(0, rep(0.5, 9), 1)
   )
 )
 
