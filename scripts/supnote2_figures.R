@@ -12,9 +12,9 @@ walk(task_info_jsons, function(task_info_json) {
   tryCatch({
     task_data <- read_task_results(dirname(task_info_json))
 
-    figure_path <- paste0("figures/supnote2_figures/", task_data$task_info$task_id, "/plot.pdf")
-    if (!dir.exists(dirname(figure_path))) {
-      dir.create(dirname(figure_path), recursive = TRUE, showWarnings = FALSE)
+    figure_prefix <- paste0("figures/supnote2_figures/", task_data$task_info$task_id, "/plot")
+    if (!dir.exists(dirname(figure_prefix))) {
+      dir.create(dirname(figure_prefix), recursive = TRUE, showWarnings = FALSE)
     }
 
     data <- task_data$method_info %>%
@@ -126,7 +126,8 @@ walk(task_info_jsons, function(task_info_json) {
       )
     )
 
-    ggsave(figure_path, g_all, width = g_all$width, height = g_all$height)
+    ggsave(paste0(figure_prefix, ".pdf"), g_all, width = g_all$width, height = g_all$height)
+    ggsave(paste0(figure_prefix, ".png"), g_all, width = g_all$width, height = g_all$height)
   }, error = function(e) {
     cat("Error: ", e$message, "\n", sep = "")
   })

@@ -8,9 +8,9 @@ source("scripts/_helper_read_task_results.R")
 data_lt <- read_task_results("website/results/cell_cell_communication_ligand_target/data")
 data_st <- read_task_results("website/results/cell_cell_communication_source_target/data")
 
-figure_path <- paste0("figures/figure2/fig2c.pdf")
-if (!dir.exists(dirname(figure_path))) {
-  dir.create(dirname(figure_path), recursive = TRUE, showWarnings = FALSE)
+figure_prefix <- paste0("figures/figure2/fig2c")
+if (!dir.exists(dirname(figure_prefix))) {
+  dir.create(dirname(figure_prefix), recursive = TRUE, showWarnings = FALSE)
 }
 
 # load scores
@@ -133,4 +133,4 @@ g_all <- funky_heatmap(
 
 g_all
 
-ggsave(figure_path, g_all, width = g_all$width, height = g_all$height)
+ggsave(paste0(figure_prefix, ".pdf"), g_all, width = g_all$width, height = g_all$height)
