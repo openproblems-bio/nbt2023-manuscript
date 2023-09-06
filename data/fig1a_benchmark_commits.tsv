@@ -1,141 +1,141 @@
 repo	message	author	date	benchmark_name
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename conclude_ARISampled_9.R to conclude_ARISampled_dat9.R	Kok Siong Ang	2022-01-24T02:50:57Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Restore file extension	Kok Siong Ang	2022-01-24T02:50:10Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Restore file extension.	Kok Siong Ang	2022-01-24T02:48:11Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-05-11T04:08:08Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename dataset2_resnet.ipynb to resnet_dataset2.ipynb	Marion Chevrier	2020-05-11T04:07:35Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-05-11T04:07:01Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update design_simulation_splatter.R	Marion Chevrier	2020-05-06T03:00:21Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Adding Seurat v2 script for dataset 4 Fill in missing script	Kok Siong Ang	2020-04-15T05:49:41Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete combat_dataset8_withoutlog.R	Marion Chevrier	2020-04-15T02:02:32Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-15T02:02:08Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/run_ARISampled_dat9.R to Script/evaluation/ARI/ARI_utils/run_ARISampled_dat9.R	Marion Chevrier	2020-04-10T13:02:39Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/run_ARISampled_dat6.R to Script/evaluation/ARI/ARI_utils/run_ARISampled_dat6.R	Marion Chevrier	2020-04-10T13:02:16Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/run_ARISampled.R to Script/evaluation/ARI/ARI_utils/run_ARISampled.R	Marion Chevrier	2020-04-10T13:01:53Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/conclude_ARISampled_dat9.R to Script/evaluation/ARI/ARI_utils/conclude_ARISampled_dat9.	Marion Chevrier	2020-04-10T13:01:35Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/conclude_ARISampled_dat6.R to Script/evaluation/ARI/ARI_utils/conclude_ARISampled_dat6.R	Marion Chevrier	2020-04-10T13:01:10Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/conclude_ARISampled.R to Script/evaluation/ARI/ARI_utils/conclude_ARISampled.R	Marion Chevrier	2020-04-10T13:00:50Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/ari_calcul_sampled_dat9.R to Script/evaluation/ARI/ARI_utils/ari_calcul_sampled_dat9.R	Marion Chevrier	2020-04-10T13:00:29Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/ari_calcul_sampled_dat6.R to Script/evaluation/ARI/ARI_utils/ari_calcul_sampled_dat6.R	Marion Chevrier	2020-04-10T13:00:09Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/ari_calcul_sampled.R to Script/evaluation/ARI/ARI_utils/ari_calcul_sampled.R	Marion Chevrier	2020-04-10T12:59:47Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/ARI_files_consolidate.R to Script/evaluation/ARI/ARI_utils/ARI_files_consolidate.R	Marion Chevrier	2020-04-10T12:58:41Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset9.R to Script/evaluation/ARI/run_ARISampled_dataset9.R	Marion Chevrier	2020-04-10T12:57:57Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset8.R to Script/evaluation/ARI/run_ARISampled_dataset8.R	Marion Chevrier	2020-04-10T12:57:31Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset7.R to Script/evaluation/ARI/run_ARISampled_dataset7.R	Marion Chevrier	2020-04-10T12:57:07Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset6.R to Script/evaluation/ARI/run_ARISampled_dataset6.R	Marion Chevrier	2020-04-10T12:56:46Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset5.R to Script/evaluation/ARI/run_ARISampled_dataset5.R	Marion Chevrier	2020-04-10T12:56:20Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset4.R to Script/evaluation/ARI/run_ARISampled_dataset4.R	Marion Chevrier	2020-04-10T12:55:42Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset2.R to Script/evaluation/ARI/run_ARISampled_dataset2.R	Marion Chevrier	2020-04-10T12:55:16Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset10.R to Script/evaluation/ARI/run_ARISampled_dataset10.R	Marion Chevrier	2020-04-10T12:54:40Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset1.R to Script/evaluation/ARI/run_ARISampled_dataset1.R	Marion Chevrier	2020-04-10T12:54:09Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:53:30Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:53:20Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:53:10Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:53:00Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:52:50Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:52:37Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:48:21Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:41:53Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset2_cellatlas.ipynb	Marion Chevrier	2020-04-10T12:19:06Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset2_cellatlas.ipynb	Marion Chevrier	2020-04-10T12:16:04Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:15:47Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:14:26Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete zinbwave_dataset3_v2.R	Marion Chevrier	2020-04-10T12:13:46Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:13:17Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:11:25Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:00:08Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_bbknn_dataset8.py	Marion Chevrier	2020-04-10T11:51:20Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T11:47:50Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_zinbwave.R	Marion Chevrier	2020-04-08T14:46:04Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_zinbwave.R	Marion Chevrier	2020-04-08T14:43:13Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_seurat3.R	Marion Chevrier	2020-04-08T14:40:10Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scmerge.R	Marion Chevrier	2020-04-08T14:39:45Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scGen.ipynb	Marion Chevrier	2020-04-08T14:38:40Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scanorama.ipynb	Marion Chevrier	2020-04-08T11:26:43Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scGen.ipynb	Marion Chevrier	2020-04-08T11:22:30Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scGen.ipynb	Marion Chevrier	2020-04-08T11:21:34Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_limma.R	Marion Chevrier	2020-04-08T11:19:10Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_combat.R	Marion Chevrier	2020-04-08T11:18:45Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_MNN.R	Marion Chevrier	2020-04-08T11:17:57Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update highly_variable_genes_from_Seurat.R	Marion Chevrier	2020-04-08T11:16:24Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update design_simulation_splatter.R	Marion Chevrier	2020-04-08T11:13:55Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-08T11:05:51Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_10.R	Marion Chevrier	2020-04-08T11:00:22Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_scMerge_09_downsample.R	Marion Chevrier	2020-04-08T10:59:51Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_scMerge_08_downsample.R	Marion Chevrier	2020-04-08T10:59:39Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_09.R	Marion Chevrier	2020-04-08T10:58:07Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_08.R	Marion Chevrier	2020-04-08T10:57:31Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_07.R	Marion Chevrier	2020-04-08T10:56:38Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_06.R	Marion Chevrier	2020-04-08T10:56:03Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_05.R	Marion Chevrier	2020-04-08T10:55:29Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_04.R	Marion Chevrier	2020-04-08T10:54:42Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_03.R	Marion Chevrier	2020-04-08T10:53:08Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_02.R	Marion Chevrier	2020-04-08T10:52:18Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_01.R	Marion Chevrier	2020-04-08T10:51:19Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-08T10:43:13Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Uploaded scGen Scripts.	xm	2020-04-08T03:52:44Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Uploaded ZINB_WaVE scripts.	xm	2020-04-08T03:31:20Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update design_simulation_splatter.R	Marion Chevrier	2020-04-07T08:07:14Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update design_simulation_splatter.R	Marion Chevrier	2020-04-07T08:03:38Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-07T03:46:14Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-07T02:00:29Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_DEGs_from_Seurat.R	Marion Chevrier	2020-04-07T01:58:27Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete confusion_matrix_Fscore.R	Marion Chevrier	2020-04-07T01:58:20Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete Seurat_DEG_analysis.R	Marion Chevrier	2020-04-07T01:58:12Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_zinbwave.R	Marion Chevrier	2020-04-07T01:58:02Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_seurat3.R	Marion Chevrier	2020-04-07T01:57:55Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_scmerge.R	Marion Chevrier	2020-04-07T01:57:48Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_limma.R	Marion Chevrier	2020-04-07T01:57:39Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_combat.R	Marion Chevrier	2020-04-07T01:57:32Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_MNN.R	Marion Chevrier	2020-04-07T01:57:24Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete design_simulation_splatter.R	Marion Chevrier	2020-04-07T01:57:09Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename simulation/01_simulated_datasets_splatter/design_simulation_splatter.R to Script/simulation/01_simulated_datasets_splatter/design_simulation_splatter.R	Marion Chevrier	2020-04-07T01:56:27Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-07T01:28:12Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-06T11:39:06Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	ARI run scripts are added	Nicole Y. S. Lee	2020-04-06T06:31:04Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete test	Nicole Y. S. Lee	2020-04-06T06:14:31Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	ARI util scripts added	Nicole Y. S. Lee	2020-04-06T06:13:52Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_ARISampled_dat9.R	Nicole Y. S. Lee	2020-04-06T06:13:02Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_ARISampled_dat6.R	Nicole Y. S. Lee	2020-04-06T06:12:53Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_ARISampled.R	Nicole Y. S. Lee	2020-04-06T06:12:46Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete conclude_ARISampled_dat9.R	Nicole Y. S. Lee	2020-04-06T06:12:38Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete conclude_ARISampled_dat6.R	Nicole Y. S. Lee	2020-04-06T06:12:30Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete conclude_ARISampled.R	Nicole Y. S. Lee	2020-04-06T06:12:21Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete ari_calcul_sampled_dat9.R	Nicole Y. S. Lee	2020-04-06T06:12:13Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete ari_calcul_sampled_dat6.R	Nicole Y. S. Lee	2020-04-06T06:12:04Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete ari_calcul_sampled.R	Nicole Y. S. Lee	2020-04-06T06:11:55Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete ARI_files_consolidate.R	Nicole Y. S. Lee	2020-04-06T06:11:36Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Create test	Nicole Y. S. Lee	2020-04-06T06:05:35Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete test	Nicole Y. S. Lee	2020-04-06T06:00:26Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Nicole Y. S. Lee	2020-04-06T05:59:27Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Create test	Nicole Y. S. Lee	2020-04-06T05:58:23Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete eval_util_ARI	Nicole Y. S. Lee	2020-04-06T05:55:26Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Create eval_util_ARI	Nicole Y. S. Lee	2020-04-06T05:55:12Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete EPIC_ASIA.R	Jinmiao Chen	2020-04-06T01:49:56Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Jinmiao Chen	2020-04-06T01:48:49Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-04-01T08:04:16Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md Transfer data from github to dockerhub.	git-xiaomeng	2020-04-01T08:02:44Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-04-01T07:51:14Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-04-01T07:43:21Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-04-01T07:42:49Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-03-31T09:59:26Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-03-31T09:58:48Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete .gitattributes Delete old .gitattributes	git-xiaomeng	2020-03-20T09:52:17Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Upload dataset 5-10 using LFS	xm	2020-03-20T09:33:38Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Upload dataset4 using LFS	xm	2020-03-20T09:27:40Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Upload dataset4 using LFS	xm	2020-03-20T09:26:00Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Upload MNNcorrect script	Kok Siong Ang	2020-03-18T04:46:16Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Test LFS	xm	2020-03-17T10:24:39Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Added fastMNN scripts	Kok Siong Ang	2020-03-17T01:47:38Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Added Seurat 2 scripts	Kok Siong Ang	2020-03-16T04:11:41Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Dataset 2	Kok Siong Ang	2020-03-16T03:26:33Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Dataset 1 upload	Kok Siong Ang	2020-03-16T03:24:09Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Seurat 3 scripts	KokSiong-Ang	2020-03-16T02:56:43Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update to repository structure	KokSiong-Ang	2020-03-16T02:52:38Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Update to repository structure	KokSiong-Ang	2020-03-16T02:50:23Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Scripts for running Harmony	Kok Siong Ang	2020-03-16T02:52:05Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload Add simulation datasets generated by splatter (R)	marionchvr	2019-09-25T09:02:45Z	Tran et al. 2020
-JinmiaoChenLab/Batch-effect-removal-benchmarking	first commit	xm	2019-09-25T08:23:32Z	Tran et al. 2020
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename conclude_ARISampled_9.R to conclude_ARISampled_dat9.R	Kok Siong Ang	2022-01-24T02:50:57Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Restore file extension	Kok Siong Ang	2022-01-24T02:50:10Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Restore file extension.	Kok Siong Ang	2022-01-24T02:48:11Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-05-11T04:08:08Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename dataset2_resnet.ipynb to resnet_dataset2.ipynb	Marion Chevrier	2020-05-11T04:07:35Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-05-11T04:07:01Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update design_simulation_splatter.R	Marion Chevrier	2020-05-06T03:00:21Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Adding Seurat v2 script for dataset 4 Fill in missing script	Kok Siong Ang	2020-04-15T05:49:41Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete combat_dataset8_withoutlog.R	Marion Chevrier	2020-04-15T02:02:32Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-15T02:02:08Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/run_ARISampled_dat9.R to Script/evaluation/ARI/ARI_utils/run_ARISampled_dat9.R	Marion Chevrier	2020-04-10T13:02:39Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/run_ARISampled_dat6.R to Script/evaluation/ARI/ARI_utils/run_ARISampled_dat6.R	Marion Chevrier	2020-04-10T13:02:16Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/run_ARISampled.R to Script/evaluation/ARI/ARI_utils/run_ARISampled.R	Marion Chevrier	2020-04-10T13:01:53Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/conclude_ARISampled_dat9.R to Script/evaluation/ARI/ARI_utils/conclude_ARISampled_dat9.	Marion Chevrier	2020-04-10T13:01:35Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/conclude_ARISampled_dat6.R to Script/evaluation/ARI/ARI_utils/conclude_ARISampled_dat6.R	Marion Chevrier	2020-04-10T13:01:10Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/conclude_ARISampled.R to Script/evaluation/ARI/ARI_utils/conclude_ARISampled.R	Marion Chevrier	2020-04-10T13:00:50Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/ari_calcul_sampled_dat9.R to Script/evaluation/ARI/ARI_utils/ari_calcul_sampled_dat9.R	Marion Chevrier	2020-04-10T13:00:29Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/ari_calcul_sampled_dat6.R to Script/evaluation/ARI/ARI_utils/ari_calcul_sampled_dat6.R	Marion Chevrier	2020-04-10T13:00:09Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/ari_calcul_sampled.R to Script/evaluation/ARI/ARI_utils/ari_calcul_sampled.R	Marion Chevrier	2020-04-10T12:59:47Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/ARI_utils/ARI_files_consolidate.R to Script/evaluation/ARI/ARI_utils/ARI_files_consolidate.R	Marion Chevrier	2020-04-10T12:58:41Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset9.R to Script/evaluation/ARI/run_ARISampled_dataset9.R	Marion Chevrier	2020-04-10T12:57:57Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset8.R to Script/evaluation/ARI/run_ARISampled_dataset8.R	Marion Chevrier	2020-04-10T12:57:31Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset7.R to Script/evaluation/ARI/run_ARISampled_dataset7.R	Marion Chevrier	2020-04-10T12:57:07Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset6.R to Script/evaluation/ARI/run_ARISampled_dataset6.R	Marion Chevrier	2020-04-10T12:56:46Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset5.R to Script/evaluation/ARI/run_ARISampled_dataset5.R	Marion Chevrier	2020-04-10T12:56:20Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset4.R to Script/evaluation/ARI/run_ARISampled_dataset4.R	Marion Chevrier	2020-04-10T12:55:42Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset2.R to Script/evaluation/ARI/run_ARISampled_dataset2.R	Marion Chevrier	2020-04-10T12:55:16Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset10.R to Script/evaluation/ARI/run_ARISampled_dataset10.R	Marion Chevrier	2020-04-10T12:54:40Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename Script/eval_util_ARI/run_ARISampled_dataset1.R to Script/evaluation/ARI/run_ARISampled_dataset1.R	Marion Chevrier	2020-04-10T12:54:09Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:53:30Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:53:20Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:53:10Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:53:00Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:52:50Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset3_scGene.ipynb	Marion Chevrier	2020-04-10T12:52:37Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:48:21Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:41:53Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset2_cellatlas.ipynb	Marion Chevrier	2020-04-10T12:19:06Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete dataset2_cellatlas.ipynb	Marion Chevrier	2020-04-10T12:16:04Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:15:47Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:14:26Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete zinbwave_dataset3_v2.R	Marion Chevrier	2020-04-10T12:13:46Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:13:17Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:11:25Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T12:00:08Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_bbknn_dataset8.py	Marion Chevrier	2020-04-10T11:51:20Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-10T11:47:50Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_zinbwave.R	Marion Chevrier	2020-04-08T14:46:04Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_zinbwave.R	Marion Chevrier	2020-04-08T14:43:13Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_seurat3.R	Marion Chevrier	2020-04-08T14:40:10Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scmerge.R	Marion Chevrier	2020-04-08T14:39:45Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scGen.ipynb	Marion Chevrier	2020-04-08T14:38:40Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scanorama.ipynb	Marion Chevrier	2020-04-08T11:26:43Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scGen.ipynb	Marion Chevrier	2020-04-08T11:22:30Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scGen.ipynb	Marion Chevrier	2020-04-08T11:21:34Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_limma.R	Marion Chevrier	2020-04-08T11:19:10Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_combat.R	Marion Chevrier	2020-04-08T11:18:45Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_MNN.R	Marion Chevrier	2020-04-08T11:17:57Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update highly_variable_genes_from_Seurat.R	Marion Chevrier	2020-04-08T11:16:24Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update design_simulation_splatter.R	Marion Chevrier	2020-04-08T11:13:55Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-08T11:05:51Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_10.R	Marion Chevrier	2020-04-08T11:00:22Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_scMerge_09_downsample.R	Marion Chevrier	2020-04-08T10:59:51Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_scMerge_08_downsample.R	Marion Chevrier	2020-04-08T10:59:39Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_09.R	Marion Chevrier	2020-04-08T10:58:07Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_08.R	Marion Chevrier	2020-04-08T10:57:31Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_07.R	Marion Chevrier	2020-04-08T10:56:38Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_06.R	Marion Chevrier	2020-04-08T10:56:03Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_05.R	Marion Chevrier	2020-04-08T10:55:29Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_04.R	Marion Chevrier	2020-04-08T10:54:42Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_03.R	Marion Chevrier	2020-04-08T10:53:08Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_02.R	Marion Chevrier	2020-04-08T10:52:18Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update run_scMerge_01.R	Marion Chevrier	2020-04-08T10:51:19Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-08T10:43:13Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Uploaded scGen Scripts.	xm	2020-04-08T03:52:44Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Uploaded ZINB_WaVE scripts.	xm	2020-04-08T03:31:20Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update design_simulation_splatter.R	Marion Chevrier	2020-04-07T08:07:14Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update design_simulation_splatter.R	Marion Chevrier	2020-04-07T08:03:38Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-07T03:46:14Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-07T02:00:29Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_DEGs_from_Seurat.R	Marion Chevrier	2020-04-07T01:58:27Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete confusion_matrix_Fscore.R	Marion Chevrier	2020-04-07T01:58:20Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete Seurat_DEG_analysis.R	Marion Chevrier	2020-04-07T01:58:12Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_zinbwave.R	Marion Chevrier	2020-04-07T01:58:02Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_seurat3.R	Marion Chevrier	2020-04-07T01:57:55Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_scmerge.R	Marion Chevrier	2020-04-07T01:57:48Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_limma.R	Marion Chevrier	2020-04-07T01:57:39Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_combat.R	Marion Chevrier	2020-04-07T01:57:32Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_MNN.R	Marion Chevrier	2020-04-07T01:57:24Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete design_simulation_splatter.R	Marion Chevrier	2020-04-07T01:57:09Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Rename simulation/01_simulated_datasets_splatter/design_simulation_splatter.R to Script/simulation/01_simulated_datasets_splatter/design_simulation_splatter.R	Marion Chevrier	2020-04-07T01:56:27Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-07T01:28:12Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Marion Chevrier	2020-04-06T11:39:06Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	ARI run scripts are added	Nicole Y. S. Lee	2020-04-06T06:31:04Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete test	Nicole Y. S. Lee	2020-04-06T06:14:31Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	ARI util scripts added	Nicole Y. S. Lee	2020-04-06T06:13:52Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_ARISampled_dat9.R	Nicole Y. S. Lee	2020-04-06T06:13:02Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_ARISampled_dat6.R	Nicole Y. S. Lee	2020-04-06T06:12:53Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete run_ARISampled.R	Nicole Y. S. Lee	2020-04-06T06:12:46Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete conclude_ARISampled_dat9.R	Nicole Y. S. Lee	2020-04-06T06:12:38Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete conclude_ARISampled_dat6.R	Nicole Y. S. Lee	2020-04-06T06:12:30Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete conclude_ARISampled.R	Nicole Y. S. Lee	2020-04-06T06:12:21Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete ari_calcul_sampled_dat9.R	Nicole Y. S. Lee	2020-04-06T06:12:13Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete ari_calcul_sampled_dat6.R	Nicole Y. S. Lee	2020-04-06T06:12:04Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete ari_calcul_sampled.R	Nicole Y. S. Lee	2020-04-06T06:11:55Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete ARI_files_consolidate.R	Nicole Y. S. Lee	2020-04-06T06:11:36Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Create test	Nicole Y. S. Lee	2020-04-06T06:05:35Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete test	Nicole Y. S. Lee	2020-04-06T06:00:26Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Nicole Y. S. Lee	2020-04-06T05:59:27Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Create test	Nicole Y. S. Lee	2020-04-06T05:58:23Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete eval_util_ARI	Nicole Y. S. Lee	2020-04-06T05:55:26Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Create eval_util_ARI	Nicole Y. S. Lee	2020-04-06T05:55:12Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete EPIC_ASIA.R	Jinmiao Chen	2020-04-06T01:49:56Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload	Jinmiao Chen	2020-04-06T01:48:49Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-04-01T08:04:16Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md Transfer data from github to dockerhub.	git-xiaomeng	2020-04-01T08:02:44Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-04-01T07:51:14Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-04-01T07:43:21Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-04-01T07:42:49Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-03-31T09:59:26Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update README.md	Jinmiao Chen	2020-03-31T09:58:48Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Delete .gitattributes Delete old .gitattributes	git-xiaomeng	2020-03-20T09:52:17Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Upload dataset 5-10 using LFS	xm	2020-03-20T09:33:38Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Upload dataset4 using LFS	xm	2020-03-20T09:27:40Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Upload dataset4 using LFS	xm	2020-03-20T09:26:00Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Upload MNNcorrect script	Kok Siong Ang	2020-03-18T04:46:16Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Test LFS	xm	2020-03-17T10:24:39Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Added fastMNN scripts	Kok Siong Ang	2020-03-17T01:47:38Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Added Seurat 2 scripts	Kok Siong Ang	2020-03-16T04:11:41Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Dataset 2	Kok Siong Ang	2020-03-16T03:26:33Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Dataset 1 upload	Kok Siong Ang	2020-03-16T03:24:09Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Seurat 3 scripts	KokSiong-Ang	2020-03-16T02:56:43Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update to repository structure	KokSiong-Ang	2020-03-16T02:52:38Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Update to repository structure	KokSiong-Ang	2020-03-16T02:50:23Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Scripts for running Harmony	Kok Siong Ang	2020-03-16T02:52:05Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	Add files via upload Add simulation datasets generated by splatter (R)	marionchvr	2019-09-25T09:02:45Z	Tran et al.
+JinmiaoChenLab/Batch-effect-removal-benchmarking	first commit	xm	2019-09-25T08:23:32Z	Tran et al.
 ati-lz/HCA_Benchmarking	ading comment on the number of iterations	ati-lz	2019-11-11T08:58:36Z	Mereu et al.
 ati-lz/HCA_Benchmarking	HCA Benchmarking codes	ati-lz	2019-09-15T17:03:25Z	Mereu et al.
 cellgeni/batchbench	Merge pull request #24 from cellgeni/feature/fixes Feature/fixes	Ruben Chazarra-Gil	2022-05-17T15:53:58Z	Chazarra-Gil et al.
@@ -1709,3 +1709,1177 @@ theislab/scib-reproducibility	Move CSS to separate file	Luke Zappia	2020-09-30T1
 theislab/scib-reproducibility	Set up R Markdown website	Luke Zappia	2020-09-30T09:53:21Z	Luecken et al.
 theislab/scib-reproducibility	Prototype dataset page	Luke Zappia	2020-09-30T09:42:20Z	Luecken et al.
 theislab/scib-reproducibility	Create project	Luke Zappia	2020-09-22T08:27:42Z	Luecken et al.
+theislab/scib-pipeline	Update scvi-tools and scgen (#45) * unpin rpy2 * update scvi to scvi-tools>=0.16.1 and scgen to scgen>=2.1.0 * update scib version * pin igraph * use development scib * use default branch for scib * pin scvi-tools version	Michaela Mueller	2022-10-14T17:37:05Z	Luecken et al.
+theislab/scib-pipeline	remove timing code (#36)	Michaela Mueller	2022-10-11T15:10:31Z	Luecken et al.
+theislab/scib-pipeline	Normalise and log test data (#31) * normalise and log data * use simpler preprocessing without extra filtering * add info on input data requirements	Michaela Mueller	2022-05-13T00:29:25Z	Luecken et al.
+theislab/scib-pipeline	Create GithubActions workflow (#20) * Create pipeline.yml * Change environment creation * R env creation via micromamba command * Use docker image for mamba * Use conda command for activating & deactivating * Switch to workspace directory * Split docker command into steps and conda init * Print bashrc output * Use login shell * Use login shell * Use Setup Miniconda Github Action * Use base environment and update remaining code * Add channels * Clean up install instructions * Conda activate for pipeline run * quiet installation * Install R apcakges and run pipeline in steps * rename all environments to use specific R version * fix matrix accessor * using strings for R versions * add create environment script * install kbet through remotes * use github PAT * fix broken R package installations * fixed config file names * replaced Liger install from github with conda install * split pipeline run commands * fixed comment handling * install conos via github for R 3.6 * use cran version of conos for R 3.6 * include seurat dependencies in conda for R 4 * pin rpy2 version * add SeuratObject as dependency for conda R4.0 envs * use fix version of scib * include method subset for quick end-to-end implementation test * use single core for test subset * move detailed installation instructions to envs * update README formatting * format Notes * fix commandline block * use scib 1.0.2 * install g++ for knn_graph.cpp compilation * Use github version of scib * Use scib from github * remove mamba version call * no pip list only for quiet runs * fix formatting * updated environment description * include README for config files * Update conda/mamba recommendation * clarify recommended R version	Michaela Mueller	2022-05-06T11:06:12Z	Luecken et al.
+theislab/scib-pipeline	Use R version 4 (#21) * allow for different R dependency lists * adapt fastmnn to R 4 and Seurat v4 * tweaks for getting R methods to run through * updated README * pinned R versions * include scib-pipeline-r4 in README * reverted some README formatting * fix syntax error for R_LIBS export * update README * pin python versions for all environments * correct R4 env file name in README * remove unnecessary characters from table * pin anndata 0.8 version to due to dtype errors	Michaela Mueller	2022-04-06T17:06:43Z	Luecken et al.
+theislab/scib-pipeline	System R libraries remain set when not removed (#22) * System R libraries remain set when not removed Somehow, the system R libraries remain in `.libPaths()` this unsets the `R_LIBS` env variable so only the conda R_LIBS are used * Update env_vars_deactivate.sh * dedicated reminder of setting environment variables Co-authored-by: Michaela Mueller <michaela.mueller@helmholtz-muenchen.de>	Daniel Strobl	2022-03-29T16:26:42Z	Luecken et al.
+theislab/scib-pipeline	Use new scib package (#13) * update scib package name * fix batch variable check between integrated and nonintegraed adata * update environments to correct scib versions * using pip version of scib * fix R import issue for Harmony (as mentioned in https://github.com/immunogenomics/harmony/pull/134) * use value counts to check for batch relabeling after integration	Michaela Mueller	2022-03-03T18:22:04Z	Luecken et al.
+theislab/scib-pipeline	Update generate_data.py (#15) scIB to scib	simonmfr	2021-11-25T14:59:26Z	Luecken et al.
+theislab/scib-pipeline	update readme (#12) * update readme * Add figshare link Co-authored-by: Michaela Mueller <51025211+mumichae@users.noreply.github.com>	Maren Büttner	2021-09-09T13:16:49Z	Luecken et al.
+theislab/scib-pipeline	Update scanpy (#6) * copied current scIB-python.yml to scIB-python-paper.yml * added scib-pipeline environment for pipeline calling * update python environments * create minimal R environment and installation script * add environment variable script * document environments in README and update config files * remove install.md * update connectivity * made set_envs.sh script more robust (using env path instead of name) * version pins to fix environment * moved env vars in set_vars.sh to env_vars.sh * added code review changes * fixed export statement * Added general steps for conda env creation * Formatting changes * fixed env placeholders	Michaela Mueller	2021-08-23T15:37:01Z	Luecken et al.
+theislab/scib-pipeline	Include R package versions (#4)	Daniel Strobl	2021-05-03T15:32:50Z	Luecken et al.
+theislab/scib-pipeline	Runnable pipeline on test data (#2) * generate test data, moved config files to separate folder, snakemake dryrun working * fixed wrong R integration output matching by introducing wildcard constraint * Fix rpy2 library paths * successful full pipeline run: - preparation rule using `py_env` - code cleanup - small bugfixes * include README for data generation * added sanity check script for metrics comparison * fixed print messages, bugfix for unintegrated, cleanup * add batch effect and filtering to test data * update plot * remove scripts as rule input * remove conv_env and use py_env instead * use full-feature & unintegrated, include more integration methods * Add skeleton and more documentation to README * add config for isolated label AWS fix and set precompute_pca to False for embeddings * updated environments to scib repository * fixed LD_LIBRARY_PATH_OLD export for envs * moved DATA_SCENARIOS to bottom of config file * added documentation, code cleaning * Typo in merge_metrics rule * Documented get_hvg function and more consistent usage * updated environment variable setting * Reworded environment variable explanation * review fixes	Michaela Mueller	2021-04-30T19:25:52Z	Luecken et al.
+theislab/scib-pipeline	Pruning files from old repo (#1) * removed unused files from old scib repo * moved preprocessing scripts to reproducibility * updated figure for README	Michaela Mueller	2021-03-07T07:19:39Z	Luecken et al.
+theislab/scib-pipeline	update readme	LuckyMD	2020-12-21T20:01:29Z	Luecken et al.
+theislab/scib-pipeline	updated readme	LuckyMD	2020-12-21T19:56:56Z	Luecken et al.
+theislab/scib-pipeline	updated README	Michaela Mueller	2020-12-21T14:16:32Z	Luecken et al.
+theislab/scib-pipeline	removed get_filename_pattern function and fixed scripts paths	mumichae	2020-11-08T13:21:55Z	Luecken et al.
+theislab/scib-pipeline	moved integration rules to separate folder and removed file name specification via functions; using wildcard collection instead of file collection	mumichae	2020-10-31T23:05:35Z	Luecken et al.
+theislab/scib-pipeline	reorganised scripts into subirectories	mumichae	2020-10-31T22:01:39Z	Luecken et al.
+theislab/scib-pipeline	removed files from scIB that are not needed for pipeline	mumichae	2020-10-31T22:00:53Z	Luecken et al.
+theislab/scib-pipeline	change adata to adata_tmp in LISI_graph (#201)	Maren Büttner	2020-10-30T16:45:04Z	Luecken et al.
+theislab/scib-pipeline	Fix LISI error for small values (#188) * Fix LISI error for small values * fix multiprocessing issue * Add some small value above 1.7e-308 * increase threshold for small values * Added missing import statement in metrics.py * Set small connectivities to 3e-308 for LISI * Print message about small connectivities * Set small connectivity threshold to 3e-308 Co-authored-by: Daniel Strobl <50872326+danielStrobl@users.noreply.github.com> Co-authored-by: Luke Zappia <lazappi@users.noreply.github.com>	Maren Büttner	2020-10-27T16:45:26Z	Luecken et al.
+theislab/scib-pipeline	Bugfix in PCA regression (#197) * fixed PCA Var instead of Var^2, proper order of data/response in regression; added tests * PCR fixes * using dummy only if the values are categorical or non-numeric * specifying caught error * using different dataset for testing * check for negative r2 scores in pc_regression This avoids negative values of the PC regression score Co-authored-by: mumichae <mi.mueller@tum.de> Co-authored-by: Daniel Strobl <50872326+danielStrobl@users.noreply.github.com>	mumichae	2020-10-27T09:12:14Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #193 from theislab/embedding-plots Handle empty input files when saving embedding plots	Luke Zappia	2020-10-23T07:14:43Z	Luecken et al.
+theislab/scib-pipeline	Overwrite with empty file instead of deleting When input AnnData is empty in save_embeddings.py	Luke Zappia	2020-10-22T08:11:42Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #194 from theislab/scran_filters Error checks, no preclustering, and optional sparsification for scran normalization	MalteDLuecken	2020-10-20T18:21:41Z	Luecken et al.
+theislab/scib-pipeline	don't force sparsification after log transformation	LuckyMD	2020-10-20T18:09:04Z	Luecken et al.
+theislab/scib-pipeline	add sparsification as default option due to huge speedup	LuckyMD	2020-10-20T18:05:39Z	Luecken et al.
+theislab/scib-pipeline	fix min mean passing for no preclustering	LuckyMD	2020-10-20T17:24:06Z	Luecken et al.
+theislab/scib-pipeline	remove sparsification in normalization function	LuckyMD	2020-10-20T17:14:47Z	Luecken et al.
+theislab/scib-pipeline	switched gene and cell error calls	LuckyMD	2020-10-20T17:12:45Z	Luecken et al.
+theislab/scib-pipeline	changed min to sum	LuckyMD	2020-10-20T15:21:53Z	Luecken et al.
+theislab/scib-pipeline	added tests for 0 count cells or genes; added option to skip scanpy-based clustering to groups input	LuckyMD	2020-10-19T21:59:02Z	Luecken et al.
+theislab/scib-pipeline	Handle empty input files when saving embeddings	Luke Zappia	2020-10-16T14:44:09Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into embedding-plots * master: Filter genes without expression before reduce data in save_embeddings.py Add progress messages to merge_benchmarks.py Check for empty files when merging benchmarks Added missing import statement in metrics.py Isolated label fix (#187)	Luke Zappia	2020-10-16T14:07:27Z	Luecken et al.
+theislab/scib-pipeline	Filter genes without expression before reduce data in save_embeddings.py	Daniel Strobl	2020-10-13T07:35:32Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #190 from theislab/merge_benchmarks Check for empty files when merging benchmarks	Daniel Strobl	2020-10-09T15:59:59Z	Luecken et al.
+theislab/scib-pipeline	Add progress messages to merge_benchmarks.py	Luke Zappia	2020-10-09T15:37:53Z	Luecken et al.
+theislab/scib-pipeline	Check for empty files when merging benchmarks	Luke Zappia	2020-10-09T15:33:26Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into merge_benchmarks * master: (21 commits) Added missing import statement in metrics.py Isolated label fix (#187) Track all embeddin outputs in Snakefile Set key name when computing graph layout including knn_graph files in package installation solved typo that broke finding optimal score for clustering Add embedding stage to Snakemake Revert metrics.py to old version More embedding plots to new save_embeddings script Fix small bug in scanvi function Update runMethods.R Remove _ in ""seurat_rpca"" to facilitate parsing added seurat rpca added new methods names Fix adata references Create output directory for figures Fix method name check Output embedding coordinates as CSV Use graph embedding for CONOS when saving figures Tidy comments ...	Luke Zappia	2020-10-09T15:16:52Z	Luecken et al.
+theislab/scib-pipeline	Added missing import statement in metrics.py	Daniel Strobl	2020-10-09T10:18:51Z	Luecken et al.
+theislab/scib-pipeline	Isolated label fix (#187) * added more output for isolated label score for debugging * added more output for isolated label score for debugging * isolated label score: maximise clustering over F1-score cluster vs label * check for silhouette key set for isolated label score * cleaned up import statements from within functions Co-authored-by: mumichae <mi.mueller@tum.de>	mumichae	2020-10-08T15:32:39Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #169 from theislab/embedding-plots Add script and Snakemake stages to output embedding plots	Luke Zappia	2020-10-05T13:06:05Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into embedding-plots * master: including knn_graph files in package installation solved typo that broke finding optimal score for clustering Fix small bug in scanvi function Merge benchmarks into a single output file	Luke Zappia	2020-10-05T13:04:25Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #186 from theislab/install_lisi Include LISI files during package installation	MalteDLuecken	2020-10-05T12:22:34Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #179 from theislab/merge_benchmarks Merge benchmarks into a single output file	MalteDLuecken	2020-10-05T12:15:08Z	Luecken et al.
+theislab/scib-pipeline	Track all embeddin outputs in Snakefile	Luke Zappia	2020-10-05T11:41:58Z	Luecken et al.
+theislab/scib-pipeline	Set key name when computing graph layout	Luke Zappia	2020-10-05T09:54:15Z	Luecken et al.
+theislab/scib-pipeline	including knn_graph files in package installation	mumichae	2020-10-05T06:39:44Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #184 from theislab/fix_clustering Fix finding optimal resolution for clustering	MalteDLuecken	2020-10-04T16:35:48Z	Luecken et al.
+theislab/scib-pipeline	solved typo that broke finding optimal score for clustering	mumichae	2020-10-04T15:29:55Z	Luecken et al.
+theislab/scib-pipeline	Add embedding stage to Snakemake	Luke Zappia	2020-10-02T16:39:23Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #181 from theislab/danielStrobl-patch-2 Fix small bug in scanvi function	MalteDLuecken	2020-10-02T14:46:51Z	Luecken et al.
+theislab/scib-pipeline	Revert metrics.py to old version	Luke Zappia	2020-10-02T14:41:16Z	Luecken et al.
+theislab/scib-pipeline	More embedding plots to new save_embeddings script	Luke Zappia	2020-10-02T14:38:30Z	Luecken et al.
+theislab/scib-pipeline	Fix small bug in scanvi function The n_epochs_scANVI somehow returns a float sometimes, this fixes that behaviour.	Daniel Strobl	2020-10-02T12:16:30Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into embedding-plots * master: Update runMethods.R Remove _ in ""seurat_rpca"" to facilitate parsing added seurat rpca added new methods names	Luke Zappia	2020-10-02T11:35:33Z	Luecken et al.
+theislab/scib-pipeline	Merge benchmarks into a single output file	Luke Zappia	2020-09-29T13:26:19Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #176 from theislab/danielStrobl-patch-2 Update runMethods.R	MalteDLuecken	2020-09-28T20:37:20Z	Luecken et al.
+theislab/scib-pipeline	Update runMethods.R	Daniel Strobl	2020-09-28T20:13:41Z	Luecken et al.
+theislab/scib-pipeline	Remove _ in ""seurat_rpca"" to facilitate parsing	MalteDLuecken	2020-09-28T16:43:50Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #174 from theislab/martaint-patch-2 added new methods names	MalteDLuecken	2020-09-28T16:38:03Z	Luecken et al.
+theislab/scib-pipeline	Merge remote-tracking branch 'origin' into embedding-plots * origin: Update preprocessing.py Update preprocessing.py use own hvgs updated function Update integration.R back to old pp undid preP commit Update integration.R added PCA per batch in seurat RPCA added Seurat RPCA mode Convert to COO if nnz > 2^31-1 Coerce to Csparsematrix for C++ conversion efficiency also unload loaded only packages unload modules remove all objects in the R env after scran normalization remove data matrix in scran normalization function to free memory	Luke Zappia	2020-09-28T14:26:14Z	Luecken et al.
+theislab/scib-pipeline	added seurat rpca	martaint	2020-09-25T17:28:23Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #164 from scottgigante/patch-2 Coerce to Csparsematrix for C++ conversion efficiency	MalteDLuecken	2020-09-25T17:00:07Z	Luecken et al.
+theislab/scib-pipeline	Update preprocessing.py fix typo	MalteDLuecken	2020-09-25T16:43:07Z	Luecken et al.
+theislab/scib-pipeline	Update preprocessing.py fix typo	MalteDLuecken	2020-09-25T16:42:58Z	Luecken et al.
+theislab/scib-pipeline	added new methods names	martaint	2020-09-25T15:02:15Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #156 from theislab/scran_memory_leak_fix [WIP] Free memory after running normalize	MalteDLuecken	2020-09-25T13:40:55Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #172 from theislab/seurat_rpca added Seurat RPCA mode	Daniel Strobl	2020-09-25T11:54:38Z	Luecken et al.
+theislab/scib-pipeline	use own hvgs	danielStrobl	2020-09-25T11:16:55Z	Luecken et al.
+theislab/scib-pipeline	updated function	danielStrobl	2020-09-25T11:04:10Z	Luecken et al.
+theislab/scib-pipeline	Update integration.R adapted function to provided notebook	Daniel Strobl	2020-09-25T10:29:35Z	Luecken et al.
+theislab/scib-pipeline	back to old pp	danielStrobl	2020-09-25T10:16:40Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'seurat_rpca' of github.com:theislab/scib into seurat_rpca	danielStrobl	2020-09-25T10:09:57Z	Luecken et al.
+theislab/scib-pipeline	undid preP commit	danielStrobl	2020-09-25T10:09:43Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into embedding-plots * master: fixed typo moved error classes to beginning of file fixed typo specified errors more Update metrics.py Update metrics.py clean indentation Make indentation consistent Update metrics.py	Luke Zappia	2020-09-25T09:58:07Z	Luecken et al.
+theislab/scib-pipeline	Update integration.R add variable genes and scaling to new seurat function	Daniel Strobl	2020-09-25T09:57:24Z	Luecken et al.
+theislab/scib-pipeline	Fix adata references Check if outdir exists before creating	Luke Zappia	2020-09-25T09:19:45Z	Luecken et al.
+theislab/scib-pipeline	Create output directory for figures	Luke Zappia	2020-09-25T09:14:06Z	Luecken et al.
+theislab/scib-pipeline	Fix method name check	Luke Zappia	2020-09-25T09:11:18Z	Luecken et al.
+theislab/scib-pipeline	Output embedding coordinates as CSV	Luke Zappia	2020-09-25T09:06:49Z	Luecken et al.
+theislab/scib-pipeline	added PCA per batch in seurat RPCA	LuckyMD	2020-09-25T09:01:03Z	Luecken et al.
+theislab/scib-pipeline	Use graph embedding for CONOS when saving figures	Luke Zappia	2020-09-25T08:54:06Z	Luecken et al.
+theislab/scib-pipeline	added Seurat RPCA mode	LuckyMD	2020-09-24T18:04:14Z	Luecken et al.
+theislab/scib-pipeline	Convert to COO if nnz > 2^31-1	Scott Gigante	2020-09-22T21:01:44Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #161 from theislab/metrics_fix Catch metrics errors	Daniel Strobl	2020-09-22T15:58:30Z	Luecken et al.
+theislab/scib-pipeline	fixed typo	danielStrobl	2020-09-22T15:25:07Z	Luecken et al.
+theislab/scib-pipeline	moved error classes to beginning of file	danielStrobl	2020-09-22T15:06:02Z	Luecken et al.
+theislab/scib-pipeline	fixed typo	danielStrobl	2020-09-22T14:54:17Z	Luecken et al.
+theislab/scib-pipeline	specified errors more	danielStrobl	2020-09-22T14:48:10Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into metrics_fix	danielStrobl	2020-09-22T14:42:25Z	Luecken et al.
+theislab/scib-pipeline	Update metrics.py	Daniel Strobl	2020-09-22T14:42:13Z	Luecken et al.
+theislab/scib-pipeline	Update metrics.py changed error catching for trajectory score	Daniel Strobl	2020-09-22T14:11:06Z	Luecken et al.
+theislab/scib-pipeline	Tidy comments	Luke Zappia	2020-09-21T15:05:52Z	Luecken et al.
+theislab/scib-pipeline	Add UMAP output to metrics	Luke Zappia	2020-09-21T14:55:18Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #167 from theislab/r-error Modify how embeddings are stored in Seurat objects	MalteDLuecken	2020-09-21T08:13:20Z	Luecken et al.
+theislab/scib-pipeline	clean indentation	MalteDLuecken	2020-09-21T08:12:49Z	Luecken et al.
+theislab/scib-pipeline	Make indentation consistent	MalteDLuecken	2020-09-21T08:10:16Z	Luecken et al.
+theislab/scib-pipeline	Removed old comments	Luke Zappia	2020-09-21T07:39:46Z	Luecken et al.
+theislab/scib-pipeline	Remove commented lines	Luke Zappia	2020-09-18T12:37:49Z	Luecken et al.
+theislab/scib-pipeline	Modify how embeddings are stored in Seurat objects For Harmony and fastMNN now store embeddings using sobj[['X_emb']] instead of sobj@reductions['X_emb'] Fixes #166 (hopefully)	Luke Zappia	2020-09-18T12:35:01Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #165 from theislab/trajectory_fix changed trajectory metric to only consider largest connected component	Daniel Strobl	2020-09-18T10:00:51Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into trajectory_fix	danielStrobl	2020-09-18T08:59:37Z	Luecken et al.
+theislab/scib-pipeline	adapted trajectory function for pandas>0.25 compatibility	danielStrobl	2020-09-17T20:16:24Z	Luecken et al.
+theislab/scib-pipeline	changed trajectory metric to only consider largest connected component	danielStrobl	2020-09-17T15:19:10Z	Luecken et al.
+theislab/scib-pipeline	Coerce to Csparsematrix for C++ conversion efficiency	Scott Gigante	2020-09-11T20:50:45Z	Luecken et al.
+theislab/scib-pipeline	also unload loaded only packages	LuckyMD	2020-09-11T17:23:43Z	Luecken et al.
+theislab/scib-pipeline	unload modules	LuckyMD	2020-09-11T17:13:30Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #157 from scottgigante/patch-1 Update scran normalization for bioc 3.11, closes #141	MalteDLuecken	2020-09-11T16:43:44Z	Luecken et al.
+theislab/scib-pipeline	Update preprocessing.py clean up code	MalteDLuecken	2020-09-11T16:43:14Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #163 from theislab/revert-162-scran_bioc311_compat Revert ""Enable Bioconductor 3.11 compatibility""	MalteDLuecken	2020-09-11T16:26:32Z	Luecken et al.
+theislab/scib-pipeline	Revert ""Enable Bioconductor 3.11 compatibility""	MalteDLuecken	2020-09-11T16:26:10Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #162 from theislab/scran_bioc311_compat Enable Bioconductor 3.11 compatibility	MalteDLuecken	2020-09-11T16:25:27Z	Luecken et al.
+theislab/scib-pipeline	turn input data into SCE object for normalization, to enable compatibility with bioc 3.11+	LuckyMD	2020-09-11T16:23:06Z	Luecken et al.
+theislab/scib-pipeline	Update metrics.py catch metrics errors	Daniel Strobl	2020-09-11T16:01:31Z	Luecken et al.
+theislab/scib-pipeline	Update scran normalization for bioc 3.11, closes #141	Scott Gigante	2020-09-10T23:26:11Z	Luecken et al.
+theislab/scib-pipeline	remove all objects in the R env after scran normalization	LuckyMD	2020-09-10T17:59:18Z	Luecken et al.
+theislab/scib-pipeline	remove data matrix in scran normalization function to free memory	LuckyMD	2020-09-10T17:41:11Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #154 from theislab/isolated_label-patch-1 Fixing F1 isolated label score	MalteDLuecken	2020-09-07T16:47:13Z	Luecken et al.
+theislab/scib-pipeline	added isolated label fix (argmax indexing)	mumichae	2020-09-07T15:19:33Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #151 from theislab/danielStrobl-patch-2 Update integration.py	MalteDLuecken	2020-08-31T00:56:07Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #152 from theislab/docfix Improve documentation for isolated label score	MalteDLuecken	2020-08-31T00:55:28Z	Luecken et al.
+theislab/scib-pipeline	fixed desc for n in isolated label socre	mumichae	2020-08-30T08:48:09Z	Luecken et al.
+theislab/scib-pipeline	Update integration.py	Daniel Strobl	2020-08-28T19:32:00Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #132 from theislab/int_scanvi add scanvi to scib	Daniel Strobl	2020-08-28T16:21:24Z	Luecken et al.
+theislab/scib-pipeline	update config.yaml with new data location	LuckyMD	2020-08-28T14:57:02Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	LuckyMD	2020-08-28T14:53:18Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #149 from theislab/LisaSikkema-patch-1 added log-transform argument to normalize function	MalteDLuecken	2020-08-28T13:44:51Z	Luecken et al.
+theislab/scib-pipeline	simplification of log transf code	L Sikkema	2020-08-28T12:50:54Z	Luecken et al.
+theislab/scib-pipeline	fixed typo and cuda=False	danielStrobl	2020-08-28T12:41:57Z	Luecken et al.
+theislab/scib-pipeline	some cleanup, revision scanvi	danielStrobl	2020-08-28T12:33:23Z	Luecken et al.
+theislab/scib-pipeline	adapted snakemake config	danielStrobl	2020-08-28T10:30:56Z	Luecken et al.
+theislab/scib-pipeline	added scanvi to runintegration script	danielStrobl	2020-08-28T09:28:28Z	Luecken et al.
+theislab/scib-pipeline	restored scanvi notebook	danielStrobl	2020-08-28T09:26:48Z	Luecken et al.
+theislab/scib-pipeline	update to recent master	danielStrobl	2020-08-28T09:23:25Z	Luecken et al.
+theislab/scib-pipeline	updated scanvi function	danielStrobl	2020-08-28T09:00:20Z	Luecken et al.
+theislab/scib-pipeline	updated scanvi testing notebook	danielStrobl	2020-08-28T08:55:46Z	Luecken et al.
+theislab/scib-pipeline	added log-transform argument to normalize function good to make explicit that log-transformation is performed. Set default to True, for compatibility with rest of scripts.	L Sikkema	2020-08-27T14:33:36Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #146 from theislab/danielStrobl-patch-1 Update metrics.py	MalteDLuecken	2020-08-25T16:31:49Z	Luecken et al.
+theislab/scib-pipeline	Update metrics.py	Daniel Strobl	2020-08-25T16:28:36Z	Luecken et al.
+theislab/scib-pipeline	Update metrics.py changed max iterations for diffusion_conn and diffusion_nn	Daniel Strobl	2020-08-25T16:26:58Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #144 from scottgigante/patch-1 scIB not compatible with scanpy >= 1.5	MalteDLuecken	2020-08-23T19:57:44Z	Luecken et al.
+theislab/scib-pipeline	scIB not compatible with scanpy >= 1.5	Scott Gigante	2020-08-23T19:02:30Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #143 from theislab/rescale_lisi2 Rescale lisi (updated to latest master)	MalteDLuecken	2020-08-21T17:22:25Z	Luecken et al.
+theislab/scib-pipeline	reuse scale_lisi() for lisi()	mumichae	2020-08-21T15:40:28Z	Luecken et al.
+theislab/scib-pipeline	raw LISI values optional	Michaela Mueller	2020-08-21T14:15:06Z	Luecken et al.
+theislab/scib-pipeline	fixed bugs in testing function	Michaela Mueller	2020-08-20T17:16:48Z	Luecken et al.
+theislab/scib-pipeline	include unscaled lisi scores	Michaela Mueller	2020-08-20T14:10:43Z	Luecken et al.
+theislab/scib-pipeline	fix LISI error	Maren Büttner	2020-08-20T13:07:50Z	Luecken et al.
+theislab/scib-pipeline	merged 'rescale LISI graph' 4ff0d65daa7020285d7709b7fd67b3675a3ac59f	Michaela Mueller	2020-08-20T11:28:48Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #142 from theislab/danielStrobl-patch-1 Removed undefined palette definition	MalteDLuecken	2020-08-20T11:25:06Z	Luecken et al.
+theislab/scib-pipeline	disabled lisi rescale in Snakefile	Michaela Mueller	2020-08-20T11:10:47Z	Luecken et al.
+theislab/scib-pipeline	rescale LISI graph	Maren Büttner	2020-08-19T15:36:25Z	Luecken et al.
+theislab/scib-pipeline	removed LISI scaling commands/cleanup)	Michaela Mueller	2020-08-19T15:36:24Z	Luecken et al.
+theislab/scib-pipeline	adapted :all in snakefile	Maren Büttner	2020-08-19T15:33:43Z	Luecken et al.
+theislab/scib-pipeline	disable scale lisi rule	Maren Büttner	2020-08-19T15:33:43Z	Luecken et al.
+theislab/scib-pipeline	deprecation comment and disable	Maren Büttner	2020-08-19T15:32:36Z	Luecken et al.
+theislab/scib-pipeline	rescale LISI with number of batches	Maren Büttner	2020-08-19T15:32:36Z	Luecken et al.
+theislab/scib-pipeline	Removed undefined palette definition fix plotQC function	Daniel Strobl	2020-08-18T14:28:05Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #133 from theislab/unintegrated_metrics2 Unintegrated metrics	MalteDLuecken	2020-08-05T17:41:17Z	Luecken et al.
+theislab/scib-pipeline	renamed ignore_hvg flag to overwrite_hvg for reduce data function	Michaela Mueller	2020-08-05T17:39:20Z	Luecken et al.
+theislab/scib-pipeline	removed X_pca/X_emb fix for unintegrated metrics	Michaela Mueller	2020-08-05T17:38:21Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	LuckyMD	2020-08-05T17:11:56Z	Luecken et al.
+theislab/scib-pipeline	unint metrics only for full feature	Michaela Mueller	2020-08-05T16:42:27Z	Luecken et al.
+theislab/scib-pipeline	unintegrated metrics only for unscaled	Michaela Mueller	2020-08-05T16:39:24Z	Luecken et al.
+theislab/scib-pipeline	using latest master version of scIB/metrics.py	Michaela Mueller	2020-08-05T14:15:33Z	Luecken et al.
+theislab/scib-pipeline	changed folder structure, so all unintegrated metrics are together with the method metrics	Michaela Mueller	2020-08-05T14:14:37Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #139 from theislab/danielStrobl-patch-1 Error for saucie if input is dense	MalteDLuecken	2020-08-05T13:45:26Z	Luecken et al.
+theislab/scib-pipeline	Update integration.py	Daniel Strobl	2020-08-05T13:35:49Z	Luecken et al.
+theislab/scib-pipeline	Error for saucie if input is dense The saucie function didn't work with dense input, this fixes that	Daniel Strobl	2020-08-05T13:15:52Z	Luecken et al.
+theislab/scib-pipeline	changed order of desc args	LuckyMD	2020-08-05T10:28:40Z	Luecken et al.
+theislab/scib-pipeline	changed default saving dir for desc and added gpu=False default to function	LuckyMD	2020-08-05T10:27:39Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #127 from theislab/scgen Add scGen to data integration benchmark	MalteDLuecken	2020-08-05T09:52:35Z	Luecken et al.
+theislab/scib-pipeline	add newline in test_pipeline.py	LuckyMD	2020-08-05T09:49:15Z	Luecken et al.
+theislab/scib-pipeline	resolve merge conflicts with master	LuckyMD	2020-08-05T09:43:19Z	Luecken et al.
+theislab/scib-pipeline	add scgen to config.yaml	LuckyMD	2020-08-05T09:40:25Z	Luecken et al.
+theislab/scib-pipeline	updated scgen test notebook to test snakemake pipeline output	LuckyMD	2020-08-05T09:38:32Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #138 from theislab/danielStrobl-patch-1 don't overwrite adata.X in combat integration	MalteDLuecken	2020-08-04T20:55:41Z	Luecken et al.
+theislab/scib-pipeline	don't overwrite adata.X in combat integration	Daniel Strobl	2020-08-04T20:52:53Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	LuckyMD	2020-08-04T20:51:28Z	Luecken et al.
+theislab/scib-pipeline	ensure desc doesn't change the input adata	LuckyMD	2020-08-04T20:50:20Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #129 from theislab/saucie added saucie	Daniel Strobl	2020-08-04T20:45:14Z	Luecken et al.
+theislab/scib-pipeline	removed random space	danielStrobl	2020-08-04T20:39:27Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into saucie	Daniel Strobl	2020-08-04T20:27:10Z	Luecken et al.
+theislab/scib-pipeline	removed wrong runIntegration parameters	danielStrobl	2020-08-04T20:23:14Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #126 from theislab/fastmnn Add fastMNN prototype	MalteDLuecken	2020-08-04T19:56:04Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into fastmnn	MalteDLuecken	2020-08-04T19:54:09Z	Luecken et al.
+theislab/scib-pipeline	updated mouse brain file location	LuckyMD	2020-08-04T19:17:11Z	Luecken et al.
+theislab/scib-pipeline	fastMNN gene output assay fix	danielStrobl	2020-08-04T17:12:28Z	Luecken et al.
+theislab/scib-pipeline	removed scanvi runIntegration from saucie	danielStrobl	2020-08-04T16:47:37Z	Luecken et al.
+theislab/scib-pipeline	removed model saving	LuckyMD	2020-08-04T15:31:02Z	Luecken et al.
+theislab/scib-pipeline	passing cell type key for python integration methods; added test script for pipeline	Michaela Müller	2020-08-04T13:16:25Z	Luecken et al.
+theislab/scib-pipeline	fixed typos	Michaela Müller	2020-08-04T13:04:27Z	Luecken et al.
+theislab/scib-pipeline	clean scIB code for scgen	LuckyMD	2020-08-04T07:22:54Z	Luecken et al.
+theislab/scib-pipeline	update scgen notebook	LuckyMD	2020-08-04T07:21:25Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #135 from scottgigante/patch-1 Add louvain dependency	MalteDLuecken	2020-08-04T07:11:57Z	Luecken et al.
+theislab/scib-pipeline	Add louvain dependency	Scott Gigante	2020-08-03T22:17:56Z	Luecken et al.
+theislab/scib-pipeline	update scGen function to only include necessary parts	LuckyMD	2020-08-03T21:09:57Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #131 from theislab/desc [WIP] DESC integration	MalteDLuecken	2020-08-03T20:00:07Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #134 from scottgigante/patch-1 Add igraph to dependencies	MalteDLuecken	2020-08-03T19:56:34Z	Luecken et al.
+theislab/scib-pipeline	fixed missing import	danielStrobl	2020-08-03T19:03:27Z	Luecken et al.
+theislab/scib-pipeline	changed saucie to PCA input	danielStrobl	2020-08-03T18:28:40Z	Luecken et al.
+theislab/scib-pipeline	Add igraph to dependencies	Scott Gigante	2020-08-03T17:10:47Z	Luecken et al.
+theislab/scib-pipeline	remove hardcoding of ncores	LuckyMD	2020-08-03T15:49:13Z	Luecken et al.
+theislab/scib-pipeline	added docstring with origin of parametrization	LuckyMD	2020-08-03T15:38:10Z	Luecken et al.
+theislab/scib-pipeline	add gene output for fastMNN	danielStrobl	2020-08-03T12:35:18Z	Luecken et al.
+theislab/scib-pipeline	convert embedding to Seurat DimReduc	danielStrobl	2020-08-03T10:07:21Z	Luecken et al.
+theislab/scib-pipeline	unintegrated metrics only for output type 'full'	Michaela Mueller	2020-07-31T17:55:21Z	Luecken et al.
+theislab/scib-pipeline	set default embedding representation (None) for neighbour computation in LISI; using whichever embedding is specified in all metrics function for LISI	Michaela Mueller	2020-07-31T17:55:21Z	Luecken et al.
+theislab/scib-pipeline	removed PCA and kNN computation from runPP.py to metrics.py	Michaela Mueller	2020-07-31T17:51:10Z	Luecken et al.
+theislab/scib-pipeline	fixed typo	Michaela Mueller	2020-07-31T17:51:10Z	Luecken et al.
+theislab/scib-pipeline	make unintegrated metrics computation optional	Michaela Mueller	2020-07-31T17:51:09Z	Luecken et al.
+theislab/scib-pipeline	preprocessing of unintegrated adata now includes PCA and kNN for unintegrated metrics	Michaela Mueller	2020-07-31T17:51:09Z	Luecken et al.
+theislab/scib-pipeline	fixed metric file collection for unintegrated	Michaela Mueller	2020-07-31T17:51:09Z	Luecken et al.
+theislab/scib-pipeline	changed metrics script output to output file, requireing method name as input	Michaela Mueller	2020-07-31T17:51:09Z	Luecken et al.
+theislab/scib-pipeline	unintegrated metrics rule created, dry run successful	Michaela Mueller	2020-07-31T17:51:09Z	Luecken et al.
+theislab/scib-pipeline	corrected parsing of batch	danielStrobl	2020-07-31T15:49:03Z	Luecken et al.
+theislab/scib-pipeline	added desc to runIntegration script	LuckyMD	2020-07-31T11:37:01Z	Luecken et al.
+theislab/scib-pipeline	added desc to config	LuckyMD	2020-07-31T11:22:21Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/scib into scgen	Michaela Müller	2020-07-30T14:59:04Z	Luecken et al.
+theislab/scib-pipeline	added snakemake section for fastmnn	danielStrobl	2020-07-30T09:38:33Z	Luecken et al.
+theislab/scib-pipeline	update saucie notebook	danielStrobl	2020-07-30T09:35:43Z	Luecken et al.
+theislab/scib-pipeline	moved saucie import	danielStrobl	2020-07-30T09:16:10Z	Luecken et al.
+theislab/scib-pipeline	removed embedding from saucie output	danielStrobl	2020-07-30T09:10:02Z	Luecken et al.
+theislab/scib-pipeline	removed scanVI from saucie branch	danielStrobl	2020-07-30T09:08:47Z	Luecken et al.
+theislab/scib-pipeline	update scanvi notebook	danielStrobl	2020-07-30T09:02:17Z	Luecken et al.
+theislab/scib-pipeline	add scanvi to scib	danielStrobl	2020-07-29T21:58:30Z	Luecken et al.
+theislab/scib-pipeline	update scanvi notebook	danielStrobl	2020-07-29T21:55:59Z	Luecken et al.
+theislab/scib-pipeline	update notebooks	danielStrobl	2020-07-29T21:53:53Z	Luecken et al.
+theislab/scib-pipeline	saucie bugfixing, added scanvi (untested)	danielStrobl	2020-07-29T17:21:09Z	Luecken et al.
+theislab/scib-pipeline	add test notebook for desc	LuckyMD	2020-07-29T14:41:29Z	Luecken et al.
+theislab/scib-pipeline	copy adata in desc function	LuckyMD	2020-07-29T13:51:18Z	Luecken et al.
+theislab/scib-pipeline	added saucie	danielStrobl	2020-07-28T22:04:40Z	Luecken et al.
+theislab/scib-pipeline	updated DESC function	LuckyMD	2020-07-28T15:53:49Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration into desc	LuckyMD	2020-07-28T14:42:41Z	Luecken et al.
+theislab/scib-pipeline	change /tmp/ to /localscratch/ in preprocessing.py	LuckyMD	2020-07-28T14:42:13Z	Luecken et al.
+theislab/scib-pipeline	add DESC function	LuckyMD	2020-07-28T13:43:33Z	Luecken et al.
+theislab/scib-pipeline	correct value error message	L Sikkema	2020-07-28T08:54:29Z	Luecken et al.
+theislab/scib-pipeline	removed hardcoded godsnot_64 palette	LuckyMD	2020-07-27T21:14:12Z	Luecken et al.
+theislab/scib-pipeline	added option for cell type passing and scgen to runIntegration.py	LuckyMD	2020-07-27T17:37:57Z	Luecken et al.
+theislab/scib-pipeline	added old skeleton code for scgenn	LuckyMD	2020-07-27T17:26:51Z	Luecken et al.
+theislab/scib-pipeline	Add fastMNN prototype	Luke Zappia	2020-07-27T12:27:45Z	Luecken et al.
+theislab/scib-pipeline	Update README.md updated link to manuscript in README	Daniel Strobl	2020-05-29T07:33:06Z	Luecken et al.
+theislab/scib-pipeline	updated analysis notebooks to also include robustness of scaling choice	LuckyMD	2020-05-21T15:58:47Z	Luecken et al.
+theislab/scib-pipeline	resolved merge conflicts	LuckyMD	2020-05-20T20:54:14Z	Luecken et al.
+theislab/scib-pipeline	update analysis notebook with newest results	LuckyMD	2020-05-20T20:52:09Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	LuckyMD	2020-05-20T18:04:13Z	Luecken et al.
+theislab/scib-pipeline	change epoch scaling scvi to np min	LuckyMD	2020-05-20T18:03:57Z	Luecken et al.
+theislab/scib-pipeline	Adjust best scatter plot	Luke Zappia	2020-05-20T15:22:15Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #121 from theislab/martaint-patch-2 changed ranking	martaint	2020-05-20T08:30:00Z	Luecken et al.
+theislab/scib-pipeline	changed ranking by assigning unintegrated scores to methods that do not run on a certain atlas.	martaint	2020-05-20T08:28:40Z	Luecken et al.
+theislab/scib-pipeline	max epochs scvi 400	LuckyMD	2020-05-16T15:21:18Z	Luecken et al.
+theislab/scib-pipeline	scvi scaling update	LuckyMD	2020-05-16T01:48:00Z	Luecken et al.
+theislab/scib-pipeline	update to scVI default parametrization from version 0.6.5	LuckyMD	2020-05-15T22:25:41Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #118 from theislab/viz Viz	MalteDLuecken	2020-05-12T15:32:41Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #120 from theislab/martaint-patch-2 Add files via upload	martaint	2020-05-12T15:26:46Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-05-12T15:25:44Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-05-12T15:23:07Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-05-12T15:21:50Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-05-12T15:20:49Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-05-12T15:19:21Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #119 from theislab/martaint-patch-2 Add files via upload	martaint	2020-05-12T15:17:28Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-05-12T15:15:39Z	Luecken et al.
+theislab/scib-pipeline	deleted as no longer needed	martaint	2020-05-12T15:14:37Z	Luecken et al.
+theislab/scib-pipeline	Add NB of visualization of ATAC	Kridsadakorn Chaichoompu	2020-05-12T14:42:38Z	Luecken et al.
+theislab/scib-pipeline	cleaned up plotting notebooks	danielStrobl	2020-05-12T13:55:20Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #117 from theislab/cleanup-lisi Cleanup lisi	MalteDLuecken	2020-05-12T13:11:18Z	Luecken et al.
+theislab/scib-pipeline	Cleanup deprecated LISI functions.	mbuttner	2020-05-12T12:56:17Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #116 from theislab/scatter-vis Update plotBestScatter function	MalteDLuecken	2020-05-12T12:11:19Z	Luecken et al.
+theislab/scib-pipeline	Adjust best methods scatter text sizes	Luke Zappia	2020-05-12T11:56:42Z	Luecken et al.
+theislab/scib-pipeline	Update README.md	Daniel Strobl	2020-05-12T11:52:01Z	Luecken et al.
+theislab/scib-pipeline	updated readme figure	Daniel Strobl	2020-05-12T11:49:53Z	Luecken et al.
+theislab/scib-pipeline	added trajectory plotting script	danielStrobl	2020-05-12T11:47:55Z	Luecken et al.
+theislab/scib-pipeline	Delete LISI-R-package	Maren Büttner	2020-05-12T11:18:37Z	Luecken et al.
+theislab/scib-pipeline	Delete LISI-R-package	Maren Büttner	2020-05-12T11:18:28Z	Luecken et al.
+theislab/scib-pipeline	Delete LISI-R-package	Maren Büttner	2020-05-12T11:18:18Z	Luecken et al.
+theislab/scib-pipeline	Delete LISI-R-package	Maren Büttner	2020-05-12T11:17:32Z	Luecken et al.
+theislab/scib-pipeline	Delete LISI-R-package	Maren Büttner	2020-05-12T11:17:22Z	Luecken et al.
+theislab/scib-pipeline	Delete LISI-R-package	Maren Büttner	2020-05-12T11:17:13Z	Luecken et al.
+theislab/scib-pipeline	Delete LISI-R-package	Maren Büttner	2020-05-12T11:16:45Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	LuckyMD	2020-05-12T10:51:37Z	Luecken et al.
+theislab/scib-pipeline	added general analysis notebook for overall RNA-seq and simulation results	LuckyMD	2020-05-12T10:51:17Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #94 from theislab/cleanup Cleanup	MalteDLuecken	2020-05-12T10:27:52Z	Luecken et al.
+theislab/scib-pipeline	Update README.md Requested changes for PR	Daniel Strobl	2020-05-12T10:15:04Z	Luecken et al.
+theislab/scib-pipeline	notebooks for plotting	danielStrobl	2020-05-08T20:51:51Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #115 from theislab/scatter-vis Add functions for best methods scatter plot	MalteDLuecken	2020-05-08T15:05:38Z	Luecken et al.
+theislab/scib-pipeline	Put the file in the right place...	Luke Zappia	2020-05-08T13:03:22Z	Luecken et al.
+theislab/scib-pipeline	Add functions for best methods scatter plot	Luke Zappia	2020-05-08T13:01:43Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #113 from theislab/scatter-vis Add functions for summary scatter plot	MalteDLuecken	2020-05-05T10:28:08Z	Luecken et al.
+theislab/scib-pipeline	Add functions for summary scatter plot	Luke Zappia	2020-05-05T10:24:41Z	Luecken et al.
+theislab/scib-pipeline	umaps updated	danielStrobl	2020-05-04T19:07:10Z	Luecken et al.
+theislab/scib-pipeline	further fix for directory structure of pictograms	LuckyMD	2020-05-04T08:26:29Z	Luecken et al.
+theislab/scib-pipeline	fixed directory structure for pictograms	LuckyMD	2020-05-04T08:23:35Z	Luecken et al.
+theislab/scib-pipeline	added 40-60 weighting for scores	LuckyMD	2020-05-03T11:42:33Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #112 from theislab/martaint-patch-2 Add files via upload	martaint	2020-04-30T14:46:45Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-04-30T14:44:31Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #111 from theislab/large_metrics Large metrics	MalteDLuecken	2020-04-16T22:04:25Z	Luecken et al.
+theislab/scib-pipeline	kBET switch bug	danielStrobl	2020-04-16T12:48:01Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'large_metrics' of github.com:theislab/Benchmarking_data_integration into large_metrics	danielStrobl	2020-04-16T12:36:51Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into large_metrics	Daniel Strobl	2020-04-16T11:17:29Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'large_metrics' of github.com:theislab/Benchmarking_data_integration into large_metrics	danielStrobl	2020-04-15T19:38:33Z	Luecken et al.
+theislab/scib-pipeline	deactivate kBET if more then 300k cells	danielStrobl	2020-04-15T19:38:27Z	Luecken et al.
+theislab/scib-pipeline	merged master	Daniel Strobl	2020-04-15T16:12:28Z	Luecken et al.
+theislab/scib-pipeline	added timestamp to created tmp folder	LuckyMD	2020-04-15T16:03:02Z	Luecken et al.
+theislab/scib-pipeline	fix lisi subsample	Maren Büttner	2020-04-15T15:47:04Z	Luecken et al.
+theislab/scib-pipeline	updated viz script	danielStrobl	2020-04-15T14:52:27Z	Luecken et al.
+theislab/scib-pipeline	fix change in subsampling lisi	Maren Büttner	2020-04-15T11:38:09Z	Luecken et al.
+theislab/scib-pipeline	removed merge conflicts	LuckyMD	2020-04-15T10:33:28Z	Luecken et al.
+theislab/scib-pipeline	fixed immports for new lisi	LuckyMD	2020-04-15T10:30:26Z	Luecken et al.
+theislab/scib-pipeline	import error fix	Maren Büttner	2020-04-15T10:30:10Z	Luecken et al.
+theislab/scib-pipeline	change permissions	Maren Büttner	2020-04-15T08:44:04Z	Luecken et al.
+theislab/scib-pipeline	fixed lisi dir_path typo	LuckyMD	2020-04-15T00:28:48Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #110 from theislab/fast-lisi-graph fast lisi_graph	MalteDLuecken	2020-04-14T23:22:41Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-04-14T10:12:05Z	Luecken et al.
+theislab/scib-pipeline	Create init	martaint	2020-04-14T10:11:16Z	Luecken et al.
+theislab/scib-pipeline	update Readme	Maren Büttner	2020-04-14T09:18:38Z	Luecken et al.
+theislab/scib-pipeline	recompiled cpp on slurm node	Maren Büttner	2020-04-14T09:17:18Z	Luecken et al.
+theislab/scib-pipeline	update makefile for subdirectories Still untested	Maren Büttner	2020-04-13T09:49:52Z	Luecken et al.
+theislab/scib-pipeline	adapt range for random integers	Maren Büttner	2020-04-13T09:43:19Z	Luecken et al.
+theislab/scib-pipeline	update cpp call	Maren Büttner	2020-04-13T09:31:48Z	Luecken et al.
+theislab/scib-pipeline	correct syntax posix path	Maren Büttner	2020-04-13T08:50:34Z	Luecken et al.
+theislab/scib-pipeline	update tmp path	Maren Büttner	2020-04-13T07:43:10Z	Luecken et al.
+theislab/scib-pipeline	fix copy-paste error	Maren Büttner	2020-04-13T07:29:14Z	Luecken et al.
+theislab/scib-pipeline	rename cpp file to match compiled one	Maren Büttner	2020-04-12T20:49:22Z	Luecken et al.
+theislab/scib-pipeline	create makefile for cpp-file compilation This is my first makefile and I have honestly no clue if this is going to work.	Maren Büttner	2020-04-12T20:48:40Z	Luecken et al.
+theislab/scib-pipeline	adapt path for cpp call	Maren Büttner	2020-04-12T20:38:26Z	Luecken et al.
+theislab/scib-pipeline	update index operation	Maren Büttner	2020-04-12T13:05:16Z	Luecken et al.
+theislab/scib-pipeline	include subsampling	Maren Büttner	2020-04-12T12:57:12Z	Luecken et al.
+theislab/scib-pipeline	update subsampling	Maren Büttner	2020-04-12T12:49:01Z	Luecken et al.
+theislab/scib-pipeline	fix typo	Maren Büttner	2020-04-12T11:07:18Z	Luecken et al.
+theislab/scib-pipeline	adapt tmp dir	Maren Büttner	2020-04-12T11:05:56Z	Luecken et al.
+theislab/scib-pipeline	knn_graph post-code review	Maren Büttner	2020-04-12T10:54:15Z	Luecken et al.
+theislab/scib-pipeline	knn_oldstyle compiled on icb-mona	Maren Büttner	2020-04-12T10:44:13Z	Luecken et al.
+theislab/scib-pipeline	update readme	Maren Büttner	2020-04-11T23:17:58Z	Luecken et al.
+theislab/scib-pipeline	adapt path to cpp function	Maren Büttner	2020-04-11T23:13:48Z	Luecken et al.
+theislab/scib-pipeline	add cpp functions	Maren Büttner	2020-04-11T23:11:59Z	Luecken et al.
+theislab/scib-pipeline	create knn_graph readme	Maren Büttner	2020-04-11T23:08:19Z	Luecken et al.
+theislab/scib-pipeline	fast lisi_graph	Maren Büttner	2020-04-11T23:06:57Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	LuckyMD	2020-04-08T13:05:37Z	Luecken et al.
+theislab/scib-pipeline	fixed typo in graph_conn_score = np.nan	LuckyMD	2020-04-08T13:05:14Z	Luecken et al.
+theislab/scib-pipeline	update bbknn for large dataset	Maren Büttner	2020-04-03T11:21:26Z	Luecken et al.
+theislab/scib-pipeline	Update README.md	Daniel Strobl	2020-03-31T13:12:56Z	Luecken et al.
+theislab/scib-pipeline	renamed envs	danielStrobl	2020-03-31T12:55:53Z	Luecken et al.
+theislab/scib-pipeline	Update README.md	Daniel Strobl	2020-03-31T12:50:23Z	Luecken et al.
+theislab/scib-pipeline	removed deprecated notebooks and put mouse atlas preprocessing notebooks into common folder	Michaela Müller	2020-03-30T12:38:21Z	Luecken et al.
+theislab/scib-pipeline	removed old notebooks for testing functions	Michaela Müller	2020-03-30T12:37:13Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	LuckyMD	2020-03-30T09:54:54Z	Luecken et al.
+theislab/scib-pipeline	fixed typo in metrics script	LuckyMD	2020-03-30T09:54:35Z	Luecken et al.
+theislab/scib-pipeline	fix bug line 207 graph_conn_ line207: changed from graph_conn to graph_conn_	Kris	2020-03-30T09:25:23Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #107 from theislab/martaint-patch-2 added metric graph conn, left-aligned methods plus others	martaint	2020-03-30T09:11:13Z	Luecken et al.
+theislab/scib-pipeline	added metric graph conn, left-aligned methods	martaint	2020-03-30T09:08:23Z	Luecken et al.
+theislab/scib-pipeline	more greedy in cpu use for lisi_graph	LuckyMD	2020-03-27T12:02:57Z	Luecken et al.
+theislab/scib-pipeline	allow more iterations for diffusion and lower max kBET neighbors to save memory	LuckyMD	2020-03-27T11:50:44Z	Luecken et al.
+theislab/scib-pipeline	fixed subsample test in lisi graph	LuckyMD	2020-03-26T11:48:31Z	Luecken et al.
+theislab/scib-pipeline	correct call lisi_graph	Maren Büttner	2020-03-26T11:32:25Z	Luecken et al.
+theislab/scib-pipeline	fixed scipy import	LuckyMD	2020-03-26T10:16:19Z	Luecken et al.
+theislab/scib-pipeline	fixed lisi_graph typo	LuckyMD	2020-03-25T23:31:39Z	Luecken et al.
+theislab/scib-pipeline	trying to make silhouette score work on grahps	danielStrobl	2020-03-25T12:20:51Z	Luecken et al.
+theislab/scib-pipeline	bug fix conv LISI	Maren Büttner	2020-03-25T11:30:03Z	Luecken et al.
+theislab/scib-pipeline	bug fix for conventional lisi	Maren Büttner	2020-03-25T11:00:20Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #103 from theislab/connectivity_metric graph connectivitiy metric	MalteDLuecken	2020-03-24T13:33:36Z	Luecken et al.
+theislab/scib-pipeline	fix merge conflict with master and merge with master	LuckyMD	2020-03-24T13:33:15Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #105 from theislab/lisi_graph add lisi_graph function	MalteDLuecken	2020-03-24T13:25:35Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #106 from theislab/diff_conn_fix Diffusion method fix	MalteDLuecken	2020-03-24T11:52:02Z	Luecken et al.
+theislab/scib-pipeline	remove lisi call conventional LISI is now replaced by lisi_graph.	Maren Büttner	2020-03-24T08:13:29Z	Luecken et al.
+theislab/scib-pipeline	remove LISI call and replace by lisi_graph	Maren Büttner	2020-03-24T08:11:03Z	Luecken et al.
+theislab/scib-pipeline	change nan to 1	Maren Büttner	2020-03-24T08:07:39Z	Luecken et al.
+theislab/scib-pipeline	update defaults in compute_simpson_index_graph	Maren Büttner	2020-03-24T08:03:41Z	Luecken et al.
+theislab/scib-pipeline	add subsample check statement	Maren Büttner	2020-03-24T08:01:07Z	Luecken et al.
+theislab/scib-pipeline	update cpus for multiprocessing	Maren Büttner	2020-03-24T07:51:45Z	Luecken et al.
+theislab/scib-pipeline	import networkx in metrics	Maren Büttner	2020-03-24T07:47:10Z	Luecken et al.
+theislab/scib-pipeline	Add networkx to requirements	Maren Büttner	2020-03-24T07:43:37Z	Luecken et al.
+theislab/scib-pipeline	higher number of iterations as default	LuckyMD	2020-03-23T23:29:21Z	Luecken et al.
+theislab/scib-pipeline	sped up diffusion methods; changed to normalized connectivity matrix; fixed for case of disconnected graph	LuckyMD	2020-03-23T23:23:43Z	Luecken et al.
+theislab/scib-pipeline	speed up for lisi score	Maren Büttner	2020-03-23T18:34:08Z	Luecken et al.
+theislab/scib-pipeline	add lisi_graph to metrics script	Maren Büttner	2020-03-23T17:01:21Z	Luecken et al.
+theislab/scib-pipeline	add lisi_graph call to metrics	Maren Büttner	2020-03-23T16:55:51Z	Luecken et al.
+theislab/scib-pipeline	update initial neighborhood size to 15	Maren Büttner	2020-03-23T16:45:09Z	Luecken et al.
+theislab/scib-pipeline	add lisi_graph function	Maren Büttner	2020-03-23T16:39:58Z	Luecken et al.
+theislab/scib-pipeline	lisi pca only if necessary	Maren Büttner	2020-03-23T13:30:09Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #104 from theislab/lisi_embed adapt lisi score for embedding	Maren Büttner	2020-03-23T12:18:22Z	Luecken et al.
+theislab/scib-pipeline	add type param, add embed param	Maren Büttner	2020-03-23T11:27:03Z	Luecken et al.
+theislab/scib-pipeline	bug fix	Maren Büttner	2020-03-23T11:21:46Z	Luecken et al.
+theislab/scib-pipeline	bug fix	Maren Büttner	2020-03-23T11:11:18Z	Luecken et al.
+theislab/scib-pipeline	bug fix	Maren Büttner	2020-03-23T11:08:52Z	Luecken et al.
+theislab/scib-pipeline	add adata_tmp for knn	Maren Büttner	2020-03-23T10:58:35Z	Luecken et al.
+theislab/scib-pipeline	adapt lisi score for embedding	Maren Büttner	2020-03-23T10:56:59Z	Luecken et al.
+theislab/scib-pipeline	added graph connectitiy metric	LuckyMD	2020-03-21T21:24:06Z	Luecken et al.
+theislab/scib-pipeline	speed up for lisi_graph	Maren Büttner	2020-03-21T12:30:15Z	Luecken et al.
+theislab/scib-pipeline	remove test subsampling	Maren Büttner	2020-03-20T13:47:25Z	Luecken et al.
+theislab/scib-pipeline	add graph lisi script	Maren Büttner	2020-03-20T11:12:57Z	Luecken et al.
+theislab/scib-pipeline	changed bbknn to defaults	LuckyMD	2020-03-15T12:51:15Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #102 from theislab/bbknn-default revert bbknn to default params	MalteDLuecken	2020-03-14T19:54:34Z	Luecken et al.
+theislab/scib-pipeline	revert bbknn to default params	Maren Büttner	2020-03-14T19:14:20Z	Luecken et al.
+theislab/scib-pipeline	Fixed 'NameError: name 'adata' is not defined' Fixed 'NameError: name 'adata' is not defined' line 768, in diffusion_conn changed from all of 'data' to 'adata' in diffusion_conn()	Kris	2020-03-13T17:47:21Z	Luecken et al.
+theislab/scib-pipeline	Fixed error os is not defined added 'import os' in kBET line 1215	Kris	2020-03-13T17:31:50Z	Luecken et al.
+theislab/scib-pipeline	Fixed scripts/metrics.py changed from diffconn to diff_conn, line 237	Kris	2020-03-13T00:39:38Z	Luecken et al.
+theislab/scib-pipeline	added notebook for umap visualisation	danielStrobl	2020-03-12T17:08:56Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #101 from theislab/martaint-patch-2 Removed cLISI and enlarged margins	martaint	2020-03-12T15:00:29Z	Luecken et al.
+theislab/scib-pipeline	Removed cLISI and enlarged margins	martaint	2020-03-12T08:46:59Z	Luecken et al.
+theislab/scib-pipeline	Fix diff conn Not found for full embed	Maren Büttner	2020-03-10T19:35:40Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #100 from theislab/kBET_diffconn_param add diffconn param to metrics main	MalteDLuecken	2020-03-10T14:16:03Z	Luecken et al.
+theislab/scib-pipeline	path to integrated file for conn matrix	Maren Büttner	2020-03-10T10:00:24Z	Luecken et al.
+theislab/scib-pipeline	add diffconn param to metrics script call	Maren Büttner	2020-03-10T08:32:15Z	Luecken et al.
+theislab/scib-pipeline	add diffconn param to metrics main	Maren Büttner	2020-03-10T08:25:08Z	Luecken et al.
+theislab/scib-pipeline	read external connectivities matrix in kBET	Maren Büttner	2020-03-09T11:52:47Z	Luecken et al.
+theislab/scib-pipeline	update output precompute_conn.py	Maren Büttner	2020-03-09T11:37:44Z	Luecken et al.
+theislab/scib-pipeline	update precompute_conn.py script	Maren Büttner	2020-03-09T10:30:01Z	Luecken et al.
+theislab/scib-pipeline	made diffusion_conn take a connectivities matrix	LuckyMD	2020-03-09T10:25:34Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration into large_metrics	LuckyMD	2020-03-06T19:15:22Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #99 from theislab/kbet_adjust_1batch Kbet adjust 1batch and precompute diff_conn	MalteDLuecken	2020-03-06T19:14:45Z	Luecken et al.
+theislab/scib-pipeline	restructure kBET diff_conn assignment	Maren Büttner	2020-03-06T18:57:47Z	Luecken et al.
+theislab/scib-pipeline	add to neighbors dict in diffusion_conn	Maren Büttner	2020-03-06T18:25:09Z	Luecken et al.
+theislab/scib-pipeline	fix naming of output	Maren Büttner	2020-03-06T18:19:21Z	Luecken et al.
+theislab/scib-pipeline	fix typo	Maren Büttner	2020-03-06T18:14:29Z	Luecken et al.
+theislab/scib-pipeline	change output file	Maren Büttner	2020-03-06T18:07:36Z	Luecken et al.
+theislab/scib-pipeline	script to precompute connectivities in knn case	Maren Büttner	2020-03-06T18:04:14Z	Luecken et al.
+theislab/scib-pipeline	update structure for diff_conn	Maren Büttner	2020-03-06T17:48:22Z	Luecken et al.
+theislab/scib-pipeline	rename neighbours from diffusion_conn	Maren Büttner	2020-03-06T17:44:38Z	Luecken et al.
+theislab/scib-pipeline	save s/g2m score in precompute cell cycle	Maren Büttner	2020-03-06T17:16:36Z	Luecken et al.
+theislab/scib-pipeline	fix typo and output	Maren Büttner	2020-03-06T17:09:49Z	Luecken et al.
+theislab/scib-pipeline	add precompute cell cycle function	Maren Büttner	2020-03-06T16:57:56Z	Luecken et al.
+theislab/scib-pipeline	omit clusters of only one batch	Maren Büttner	2020-03-06T16:49:22Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'cleanup' of github.com:theislab/Benchmarking_data_integration into cleanup	danielStrobl	2020-03-06T14:52:24Z	Luecken et al.
+theislab/scib-pipeline	Update README.md	Daniel Strobl	2020-03-06T14:51:42Z	Luecken et al.
+theislab/scib-pipeline	added figure	danielStrobl	2020-03-06T14:50:51Z	Luecken et al.
+theislab/scib-pipeline	Update README.md	Daniel Strobl	2020-03-06T14:45:12Z	Luecken et al.
+theislab/scib-pipeline	Update README.md	Daniel Strobl	2020-03-06T14:44:28Z	Luecken et al.
+theislab/scib-pipeline	Update README.md	Daniel Strobl	2020-03-06T14:39:15Z	Luecken et al.
+theislab/scib-pipeline	added env files	danielStrobl	2020-03-06T14:37:55Z	Luecken et al.
+theislab/scib-pipeline	Update README.md	Daniel Strobl	2020-03-06T14:15:52Z	Luecken et al.
+theislab/scib-pipeline	Update README.md	Daniel Strobl	2020-03-06T14:14:05Z	Luecken et al.
+theislab/scib-pipeline	extended readme	danielStrobl	2020-03-06T14:11:16Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #98 from theislab/martaint-patch-2 fixed color scheme and code	martaint	2020-03-06T08:43:37Z	Luecken et al.
+theislab/scib-pipeline	fixed color scheme and code	martaint	2020-03-06T08:42:27Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #96 from theislab/large_metrics_copy Large metrics copy	Daniel Strobl	2020-03-05T17:01:36Z	Luecken et al.
+theislab/scib-pipeline	added missing arg	danielStrobl	2020-03-05T15:32:42Z	Luecken et al.
+theislab/scib-pipeline	fix precompute_hvg function	danielStrobl	2020-03-05T15:25:43Z	Luecken et al.
+theislab/scib-pipeline	more memory efficient hvg metric now works for every scenario	danielStrobl	2020-03-05T11:52:50Z	Luecken et al.
+theislab/scib-pipeline	use precomputed values for hvg_overlap metric if present	danielStrobl	2020-03-05T10:33:53Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #93 from theislab/martaint-patch-2 added gene and embed for scanorama and trvae	MalteDLuecken	2020-03-04T12:00:21Z	Luecken et al.
+theislab/scib-pipeline	pre-computed cc score as dictionary	Maren Büttner	2020-03-04T10:12:00Z	Luecken et al.
+theislab/scib-pipeline	worked on readme	danielStrobl	2020-03-04T10:00:48Z	Luecken et al.
+theislab/scib-pipeline	added gene and embed for scanorama and trvae	martaint	2020-03-04T08:52:54Z	Luecken et al.
+theislab/scib-pipeline	cleanup	Maren Büttner	2020-03-04T08:14:50Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #92 from theislab/martaint-patch-2 changed gene to window	martaint	2020-03-03T15:45:52Z	Luecken et al.
+theislab/scib-pipeline	changed gene to window	martaint	2020-03-03T15:43:10Z	Luecken et al.
+theislab/scib-pipeline	Change from ""gene"" to ""windows	Kris	2020-03-03T14:44:02Z	Luecken et al.
+theislab/scib-pipeline	fix score type in precomputed adata	Maren Büttner	2020-03-03T14:40:55Z	Luecken et al.
+theislab/scib-pipeline	Use pre-computed values for cc scoring	Maren Büttner	2020-03-03T12:16:09Z	Luecken et al.
+theislab/scib-pipeline	Delete knit_summary_metrics.pdf	martaint	2020-03-03T08:18:36Z	Luecken et al.
+theislab/scib-pipeline	deleted cause replaced by functions	martaint	2020-03-03T08:17:56Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #91 from theislab/martaint-patch-2 Add files via upload	martaint	2020-03-03T08:16:55Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-03-03T08:15:26Z	Luecken et al.
+theislab/scib-pipeline	fixed trajectory typo	LuckyMD	2020-03-02T17:52:08Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #90 from theislab/trajectory_fix Trajectory fix	MalteDLuecken	2020-03-02T17:12:14Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into trajectory_fix	Daniel Strobl	2020-03-02T17:06:50Z	Luecken et al.
+theislab/scib-pipeline	added missing import	danielStrobl	2020-03-02T17:03:45Z	Luecken et al.
+theislab/scib-pipeline	added function parameter	danielStrobl	2020-03-02T17:01:46Z	Luecken et al.
+theislab/scib-pipeline	solved issue with unconnected parts of graph for trajectory score	danielStrobl	2020-03-02T16:59:32Z	Luecken et al.
+theislab/scib-pipeline	fixed root finding for trajectory infered, added sims 2 to config, updated integration_fail_file.py for R methods	LuckyMD	2020-03-02T15:17:33Z	Luecken et al.
+theislab/scib-pipeline	fixed typos in diffusion functions	LuckyMD	2020-02-28T16:37:44Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #88 from theislab/diffusion_knn Diffusion knn	MalteDLuecken	2020-02-28T15:39:56Z	Luecken et al.
+theislab/scib-pipeline	worked on readme file	danielStrobl	2020-02-28T15:37:03Z	Luecken et al.
+theislab/scib-pipeline	bugfix in diffusion_conn call	Maren Büttner	2020-02-28T15:18:08Z	Luecken et al.
+theislab/scib-pipeline	bugfix in kBET	Maren Büttner	2020-02-28T15:07:13Z	Luecken et al.
+theislab/scib-pipeline	update comment in kBET	Maren Büttner	2020-02-28T15:02:54Z	Luecken et al.
+theislab/scib-pipeline	legibility and performance in kBET	Maren Büttner	2020-02-28T15:00:51Z	Luecken et al.
+theislab/scib-pipeline	removed files from notebooks dir	danielStrobl	2020-02-28T14:57:08Z	Luecken et al.
+theislab/scib-pipeline	clean up kBET neighbors	Maren Büttner	2020-02-28T14:56:06Z	Luecken et al.
+theislab/scib-pipeline	remvoved several old files	danielStrobl	2020-02-28T14:50:29Z	Luecken et al.
+theislab/scib-pipeline	Run kBET on knn-graph only	Maren Büttner	2020-02-28T14:31:33Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #89 from theislab/simulations Add simulation files	MalteDLuecken	2020-02-28T14:11:28Z	Luecken et al.
+theislab/scib-pipeline	Update README.md	Daniel Strobl	2020-02-28T13:44:41Z	Luecken et al.
+theislab/scib-pipeline	Add environment files	Luke Zappia	2020-02-28T13:41:10Z	Luecken et al.
+theislab/scib-pipeline	Add simulation scripts	Luke Zappia	2020-02-28T13:40:02Z	Luecken et al.
+theislab/scib-pipeline	cleaned whitespace	LuckyMD	2020-02-28T11:29:46Z	Luecken et al.
+theislab/scib-pipeline	add valueError if max_iterations is reached for diffusion functions	LuckyMD	2020-02-28T11:28:33Z	Luecken et al.
+theislab/scib-pipeline	added diffusion_conn function	LuckyMD	2020-02-28T11:18:28Z	Luecken et al.
+theislab/scib-pipeline	fix typo	Maren Büttner	2020-02-27T21:40:26Z	Luecken et al.
+theislab/scib-pipeline	bug fix	Maren Büttner	2020-02-27T20:56:51Z	Luecken et al.
+theislab/scib-pipeline	More cleanup in kBET	Maren Büttner	2020-02-27T20:46:35Z	Luecken et al.
+theislab/scib-pipeline	more cleanup in kBET	Maren Büttner	2020-02-27T17:08:25Z	Luecken et al.
+theislab/scib-pipeline	code cleanup kBET	Maren Büttner	2020-02-27T17:06:34Z	Luecken et al.
+theislab/scib-pipeline	Use diffusion_nn in kBET subsets	Maren Büttner	2020-02-27T17:04:33Z	Luecken et al.
+theislab/scib-pipeline	Use 0 matrix for kBET in knn case	Maren Büttner	2020-02-27T15:55:04Z	Luecken et al.
+theislab/scib-pipeline	adapt k0 in kBET	Maren Büttner	2020-02-27T13:54:40Z	Luecken et al.
+theislab/scib-pipeline	changed matrix obsm to n_obs/n_vars in kBET	Maren Büttner	2020-02-27T12:32:04Z	Luecken et al.
+theislab/scib-pipeline	create copy of adata in LISI	Maren Büttner	2020-02-27T11:31:00Z	Luecken et al.
+theislab/scib-pipeline	recompute neighbors in LISI	Maren Büttner	2020-02-27T11:26:58Z	Luecken et al.
+theislab/scib-pipeline	Add notebooks of mouse brain ATAC	Kridsadakorn Chaichoompu	2020-02-27T11:14:47Z	Luecken et al.
+theislab/scib-pipeline	recompute knn graph in LISI	Maren Büttner	2020-02-27T10:32:25Z	Luecken et al.
+theislab/scib-pipeline	large k large knn methods in kBET	Maren Büttner	2020-02-27T08:50:12Z	Luecken et al.
+theislab/scib-pipeline	update kBET for conos	Maren Büttner	2020-02-27T08:11:15Z	Luecken et al.
+theislab/scib-pipeline	turned off lisi for knn methods	LuckyMD	2020-02-26T21:04:01Z	Luecken et al.
+theislab/scib-pipeline	use diffusion_nn for kBET	Maren Büttner	2020-02-26T17:58:55Z	Luecken et al.
+theislab/scib-pipeline	added a nearest-neighbour function for graph-based methods via diffusion distances	LuckyMD	2020-02-26T17:34:58Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #86 from theislab/hvg_harmony_conos_fix Hvg harmony conos fix	MalteDLuecken	2020-02-25T21:52:37Z	Luecken et al.
+theislab/scib-pipeline	added seurat import for runMethod script	danielStrobl	2020-02-25T21:51:06Z	Luecken et al.
+theislab/scib-pipeline	removed unnecessary import	danielStrobl	2020-02-25T21:49:05Z	Luecken et al.
+theislab/scib-pipeline	removed whitespaces	danielStrobl	2020-02-25T21:39:00Z	Luecken et al.
+theislab/scib-pipeline	added subsetting in for harmony and conos	danielStrobl	2020-02-25T21:04:00Z	Luecken et al.
+theislab/scib-pipeline	added framework for subsetting HVGs for conos and harmony runs	LuckyMD	2020-02-25T16:22:43Z	Luecken et al.
+theislab/scib-pipeline	added lung preprocessing script	LuckyMD	2020-02-24T11:31:41Z	Luecken et al.
+theislab/scib-pipeline	use nanmedian to estimate neighbor param for conos	Maren Büttner	2020-02-21T22:13:15Z	Luecken et al.
+theislab/scib-pipeline	feed nans to kBET	Maren Büttner	2020-02-21T20:26:25Z	Luecken et al.
+theislab/scib-pipeline	ignore nan in simpson_index_py	Maren Büttner	2020-02-21T20:18:23Z	Luecken et al.
+theislab/scib-pipeline	feed nan to lisi_py	Maren Büttner	2020-02-21T20:05:36Z	Luecken et al.
+theislab/scib-pipeline	Add Hbeta and compute simpson index to metrics	Maren Büttner	2020-02-21T15:04:44Z	Luecken et al.
+theislab/scib-pipeline	Add lisi_knn_py to metrics	Maren Büttner	2020-02-21T14:58:06Z	Luecken et al.
+theislab/scib-pipeline	Import lisi_py function	Maren Büttner	2020-02-21T14:45:48Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #85 from theislab/martaint-patch-2 Add files via upload	martaint	2020-02-21T14:41:06Z	Luecken et al.
+theislab/scib-pipeline	rename pyx to py	Maren Büttner	2020-02-21T14:40:37Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-02-21T14:39:00Z	Luecken et al.
+theislab/scib-pipeline	fix kBET	Maren Büttner	2020-02-20T14:56:05Z	Luecken et al.
+theislab/scib-pipeline	added functions for ATAC results	martaint	2020-02-20T13:47:53Z	Luecken et al.
+theislab/scib-pipeline	take min neighbourhood for conos	Maren Büttner	2020-02-20T12:31:04Z	Luecken et al.
+theislab/scib-pipeline	add tmp object in kBET	Maren Büttner	2020-02-20T12:15:26Z	Luecken et al.
+theislab/scib-pipeline	Fix indexing in kBET and simplify	Maren Büttner	2020-02-20T11:54:07Z	Luecken et al.
+theislab/scib-pipeline	fixed empty file issue with trajectory method	LuckyMD	2020-02-19T23:00:07Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #84 from theislab/trajectory_score Create trajectory inference score	MalteDLuecken	2020-02-19T22:44:19Z	Luecken et al.
+theislab/scib-pipeline	changed dot to bracket column access	danielStrobl	2020-02-19T20:51:38Z	Luecken et al.
+theislab/scib-pipeline	scaled score to fit range from 0 to 1	danielStrobl	2020-02-19T20:47:15Z	Luecken et al.
+theislab/scib-pipeline	added print statement to hvg selection in reduce data and fixed doc typo	LuckyMD	2020-02-19T18:10:30Z	Luecken et al.
+theislab/scib-pipeline	penalize cells without dpt_pseudotime value	danielStrobl	2020-02-19T15:27:17Z	Luecken et al.
+theislab/scib-pipeline	added trajectory metric to metrics script	danielStrobl	2020-02-19T10:10:44Z	Luecken et al.
+theislab/scib-pipeline	added trajectory metrics function to scIB	danielStrobl	2020-02-18T23:17:15Z	Luecken et al.
+theislab/scib-pipeline	first code pieces for TI metric	Michaela Mueller	2020-02-17T18:36:26Z	Luecken et al.
+theislab/scib-pipeline	integration_fail_file.py also generates .benchmark files now	LuckyMD	2020-02-17T17:28:12Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #82 from theislab/metrics_latest Metrics latest	MalteDLuecken	2020-02-17T16:55:58Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #83 from theislab/martaint-patch-1 plot best methods - fixed ranking steps	MalteDLuecken	2020-02-17T16:19:24Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-02-17T15:33:27Z	Luecken et al.
+theislab/scib-pipeline	prevent ASW iso label score on knn ouput and deal with empty input h5ad files for integration failure	LuckyMD	2020-02-17T15:04:26Z	Luecken et al.
+theislab/scib-pipeline	updated conversion env	LuckyMD	2020-02-17T12:54:14Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #80 from theislab/hvg tested and adapted hvg conservation metric	MalteDLuecken	2020-02-14T22:43:22Z	Luecken et al.
+theislab/scib-pipeline	check # of hvgs pre and post, small fixes	danielStrobl	2020-02-14T22:38:22Z	Luecken et al.
+theislab/scib-pipeline	removed comments	danielStrobl	2020-02-14T22:22:37Z	Luecken et al.
+theislab/scib-pipeline	changed way of comparing if gene sets are the same	danielStrobl	2020-02-14T22:14:45Z	Luecken et al.
+theislab/scib-pipeline	fix type error in lisi for conos	Maren Büttner	2020-02-14T15:47:02Z	Luecken et al.
+theislab/scib-pipeline	divide by real number of hvgs	danielStrobl	2020-02-14T10:32:50Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #81 from theislab/martaint-patch-1 Add files via upload	martaint	2020-02-14T09:18:32Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-02-14T09:17:47Z	Luecken et al.
+theislab/scib-pipeline	bugfixes update_timestamp.py	LuckyMD	2020-02-13T22:45:45Z	Luecken et al.
+theislab/scib-pipeline	add 1 to nn-index in kBET for knn type	Maren Büttner	2020-02-13T14:36:34Z	Luecken et al.
+theislab/scib-pipeline	comment out config file location	LuckyMD	2020-02-13T14:01:41Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	LuckyMD	2020-02-13T13:46:44Z	Luecken et al.
+theislab/scib-pipeline	added update_timestamp.py script to ensure snakemake doesn't rerun things without necessity	LuckyMD	2020-02-13T13:46:36Z	Luecken et al.
+theislab/scib-pipeline	set type of n_nn to int to avoid type errors	Maren Büttner	2020-02-12T12:06:38Z	Luecken et al.
+theislab/scib-pipeline	added a script to generate an empty h5ad file for integration failures to continue snakemake run	LuckyMD	2020-02-11T16:48:45Z	Luecken et al.
+theislab/scib-pipeline	deactivated hvg score for atac data	danielStrobl	2020-02-11T16:02:09Z	Luecken et al.
+theislab/scib-pipeline	changed to hvg_score	danielStrobl	2020-02-11T15:54:07Z	Luecken et al.
+theislab/scib-pipeline	removed useless lines	danielStrobl	2020-02-11T15:42:36Z	Luecken et al.
+theislab/scib-pipeline	checking for same gene set in hvg overlap function	danielStrobl	2020-02-11T15:41:24Z	Luecken et al.
+theislab/scib-pipeline	changed to n_vars	danielStrobl	2020-02-11T14:37:24Z	Luecken et al.
+theislab/scib-pipeline	tested and adapted hvg conversion metric	danielStrobl	2020-02-11T11:26:19Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-02-11T09:09:26Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-02-11T08:48:49Z	Luecken et al.
+theislab/scib-pipeline	changed simulations_1 integration task naming	LuckyMD	2020-02-07T16:59:36Z	Luecken et al.
+theislab/scib-pipeline	updated simulation 1 file name	LuckyMD	2020-02-07T16:49:03Z	Luecken et al.
+theislab/scib-pipeline	normalization script for simulations	LuckyMD	2020-02-07T14:44:39Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2020-02-07T13:48:51Z	Luecken et al.
+theislab/scib-pipeline	Delete knit_table.R	martaint	2020-02-07T13:48:15Z	Luecken et al.
+theislab/scib-pipeline	Delete vis_tab_IB.rmd	martaint	2020-02-07T13:48:03Z	Luecken et al.
+theislab/scib-pipeline	Delete vis_tab_IB.Rmd	martaint	2020-02-07T13:47:37Z	Luecken et al.
+theislab/scib-pipeline	do not turn nn_index matrix type into integers	Maren Büttner	2020-02-07T12:25:53Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	LuckyMD	2020-02-06T20:40:05Z	Luecken et al.
+theislab/scib-pipeline	reflect anndata 0.7 dependency in setup.py	LuckyMD	2020-02-06T20:39:52Z	Luecken et al.
+theislab/scib-pipeline	updated scvi function for anndata 0.7	LuckyMD	2020-02-06T20:39:21Z	Luecken et al.
+theislab/scib-pipeline	added memory_profiler to requirements as scIB won't load otherwise	LuckyMD	2020-02-06T19:25:01Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #79 from theislab/adapt_lisi_conos catch 'no params' error from conos in lisi	MalteDLuecken	2020-02-06T18:30:18Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	LuckyMD	2020-02-06T18:09:46Z	Luecken et al.
+theislab/scib-pipeline	removed double anndata in setup.py	LuckyMD	2020-02-06T18:09:16Z	Luecken et al.
+theislab/scib-pipeline	Iterate nn_index until last cell I checked the nn_index matrix and the output was 0 in the very last row of the matrix.	Maren Büttner	2020-02-06T16:36:55Z	Luecken et al.
+theislab/scib-pipeline	document and dependencies	Maren Büttner	2020-02-06T16:20:57Z	Luecken et al.
+theislab/scib-pipeline	add python version of simpson score comp	Maren Büttner	2020-02-06T16:13:18Z	Luecken et al.
+theislab/scib-pipeline	correct input for lisi scores	Maren Büttner	2020-02-06T13:35:51Z	Luecken et al.
+theislab/scib-pipeline	fix type of nn_index to 'int'	Maren Büttner	2020-02-06T13:11:34Z	Luecken et al.
+theislab/scib-pipeline	updated integration rule fot no_scale	Michaela Mueller	2020-02-06T12:48:45Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'snakemake_2' of github.com:theislab/scib	Michaela Mueller	2020-02-06T12:18:04Z	Luecken et al.
+theislab/scib-pipeline	added simulation as assay type	Michaela Mueller	2020-02-06T12:12:59Z	Luecken et al.
+theislab/scib-pipeline	catch 'no params' error from conos in lisi	Maren Büttner	2020-02-06T09:17:44Z	Luecken et al.
+theislab/scib-pipeline	typo immune human mouse scenario fixed in config	LuckyMD	2020-02-05T21:35:24Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	LuckyMD	2020-02-05T20:07:29Z	Luecken et al.
+theislab/scib-pipeline	added simulations and all methods to config file	LuckyMD	2020-02-05T20:04:45Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'snakemake_2' of https://github.com/theislab/Benchmarking_data_integration into snakemake_2	LuckyMD	2020-02-05T19:58:53Z	Luecken et al.
+theislab/scib-pipeline	fixed wrong path variable for CONOS conversion	Michaela Mueller	2020-02-04T18:35:53Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #64 from theislab/snakemake_2 Snakemake 2	MalteDLuecken	2020-02-04T12:57:18Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration into snakemake_2	LuckyMD	2020-02-04T12:43:05Z	Luecken et al.
+theislab/scib-pipeline	adapt batch_key and label_key in lisi	Maren Büttner	2020-02-04T12:38:24Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'snakemake_2' of https://github.com/theislab/Benchmarking_data_integration into snakemake_2	LuckyMD	2020-02-04T12:18:25Z	Luecken et al.
+theislab/scib-pipeline	made adata.X dense by default for trvaep	LuckyMD	2020-02-04T12:18:11Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration into snakemake_2	LuckyMD	2020-02-04T12:12:12Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #78 from theislab/fix_lisi_neighbors catch unexpected neighbors in LISI score and kBET	MalteDLuecken	2020-02-04T12:09:32Z	Luecken et al.
+theislab/scib-pipeline	fix typos	Maren Büttner	2020-02-04T12:07:39Z	Luecken et al.
+theislab/scib-pipeline	exclude scaling for flagged methods	Michaela Mueller	2020-02-04T12:01:02Z	Luecken et al.
+theislab/scib-pipeline	fix call by reference and adjust nn_matrix	Maren Büttner	2020-02-04T10:50:10Z	Luecken et al.
+theislab/scib-pipeline	catch unexpected neighbors in LISI score and kBET We observed that the number of nearest neighbors is sometimes less than the expected number. In these cases, we skip the cell and report (if verbose) the number of omitted cells.	Maren Büttner	2020-02-04T09:04:36Z	Luecken et al.
+theislab/scib-pipeline	added no_scale flag in config, not used yet though	LuckyMD	2020-02-04T08:34:10Z	Luecken et al.
+theislab/scib-pipeline	removed spaces	LuckyMD	2020-02-04T08:33:55Z	Luecken et al.
+theislab/scib-pipeline	add conversion environment to convert RDS to h5ad files	LuckyMD	2020-02-04T06:43:36Z	Luecken et al.
+theislab/scib-pipeline	removed unnecessary packages from setup.py	LuckyMD	2020-02-03T22:57:47Z	Luecken et al.
+theislab/scib-pipeline	fixed indent issue liger config.yaml	LuckyMD	2020-02-03T21:20:26Z	Luecken et al.
+theislab/scib-pipeline	fixed harmony indenting issue in config.yaml	LuckyMD	2020-02-03T21:16:04Z	Luecken et al.
+theislab/scib-pipeline	resolved merge conflicts	LuckyMD	2020-02-03T21:14:06Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #77 from theislab/readConos2 convert metadata for readConos	MalteDLuecken	2020-02-03T21:13:26Z	Luecken et al.
+theislab/scib-pipeline	updated trvaep batch size to make it run	LuckyMD	2020-02-03T21:12:54Z	Luecken et al.
+theislab/scib-pipeline	added harmony as R method	LuckyMD	2020-02-03T21:12:23Z	Luecken et al.
+theislab/scib-pipeline	fixed concatenating	danielStrobl	2020-02-03T21:09:46Z	Luecken et al.
+theislab/scib-pipeline	update setup.py	Git-admin	2020-02-03T19:16:42Z	Luecken et al.
+theislab/scib-pipeline	add LICENSE.txt and setup.cfg that are required to create pip package	Git-admin	2020-02-03T18:59:23Z	Luecken et al.
+theislab/scib-pipeline	updated author list on setup.py	LuckyMD	2020-02-03T18:36:54Z	Luecken et al.
+theislab/scib-pipeline	convert metadata for readConos	danielStrobl	2020-02-03T18:09:03Z	Luecken et al.
+theislab/scib-pipeline	changed default python environment and removed separate conversion env	LuckyMD	2020-02-03T17:53:24Z	Luecken et al.
+theislab/scib-pipeline	fixed metrics.py script output to match snakemake expected output	LuckyMD	2020-02-03T08:24:40Z	Luecken et al.
+theislab/scib-pipeline	fixed obs names change error bug in metrics script	LuckyMD	2020-02-03T00:12:43Z	Luecken et al.
+theislab/scib-pipeline	debugged readConos duplicate mkdirs	LuckyMD	2020-02-03T00:00:20Z	Luecken et al.
+theislab/scib-pipeline	fixed issue if conos write path already exists	LuckyMD	2020-01-31T18:37:04Z	Luecken et al.
+theislab/scib-pipeline	fixed bug in python runIntegration.py without timing	LuckyMD	2020-01-31T17:18:10Z	Luecken et al.
+theislab/scib-pipeline	added conda env for all python processes	LuckyMD	2020-01-31T16:32:21Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration into snakemake_2	LuckyMD	2020-01-31T15:57:39Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #76 from theislab/pcr_scaling_fix PCR scaling clipping	MalteDLuecken	2020-01-31T13:47:55Z	Luecken et al.
+theislab/scib-pipeline	added lisi scaling rule	LuckyMD	2020-01-31T13:46:13Z	Luecken et al.
+theislab/scib-pipeline	debugged snakemake_2 restructure	LuckyMD	2020-01-31T13:20:25Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'snakemake_2' of https://github.com/theislab/scib into snakemake_2	Johann Hawe	2020-01-31T12:37:07Z	Luecken et al.
+theislab/scib-pipeline	Implemented separate rules for R and python based integration.	Hawe	2020-01-31T12:36:13Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration into snakemake_2	LuckyMD	2020-01-31T12:31:51Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #62 from theislab/scale_LISI scale LISI scores to min - max	MalteDLuecken	2020-01-31T12:06:34Z	Luecken et al.
+theislab/scib-pipeline	set k0 in kBET only for large matrices that's a performance optimization, because setting super large k0 values in kBET will slow down kBET tremendously.	Maren Büttner	2020-01-31T12:02:47Z	Luecken et al.
+theislab/scib-pipeline	clipped cell cycle and pcr batch scores at 0	LuckyMD	2020-01-31T10:16:47Z	Luecken et al.
+theislab/scib-pipeline	scale only lisi	Maren Büttner	2020-01-31T10:13:22Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #73 from theislab/kbet_bugfix Kbet bugfix	Maren Büttner	2020-01-31T10:01:21Z	Luecken et al.
+theislab/scib-pipeline	generalise scaling of halfopen support	Maren Büttner	2020-01-31T10:00:43Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #74 from theislab/pcr_fix PCR fix	MalteDLuecken	2020-01-31T09:57:20Z	Luecken et al.
+theislab/scib-pipeline	changed scaling of pcr_comparison for batch effect evaluation	LuckyMD	2020-01-31T09:52:04Z	Luecken et al.
+theislab/scib-pipeline	add upper limit for neighbourhood size	Maren Büttner	2020-01-31T09:42:17Z	Luecken et al.
+theislab/scib-pipeline	fix length of neighbourhood size There was a similar issue with in the LISI scores, which did not show up in kBET computation, yet. However, the fix is the same and I added it preventatively.	Maren Büttner	2020-01-31T09:31:39Z	Luecken et al.
+theislab/scib-pipeline	Scale iLISI and cLISI with min/max additionally, we catch the case where all scores are the same.	Maren Büttner	2020-01-31T08:55:37Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #71 from theislab/readConos Read conos	MalteDLuecken	2020-01-31T08:45:52Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #72 from theislab/scale_visualisation Scale visualisation displays metrics and computes joint scores over min/max scaled metrics.	Maren Büttner	2020-01-31T08:43:10Z	Luecken et al.
+theislab/scib-pipeline	Remove scales package and replace rescale function	Maren Büttner	2020-01-31T08:29:57Z	Luecken et al.
+theislab/scib-pipeline	scale LISI scores separately per scenario	Maren Büttner	2020-01-30T15:55:15Z	Luecken et al.
+theislab/scib-pipeline	adjust scaling for LISI scores We assume that the scores have been scaled in the scIB/metrics.py call (scale=True).	Maren Büttner	2020-01-30T15:06:55Z	Luecken et al.
+theislab/scib-pipeline	Compute overall score based on scaled metrics In this modification of the data prep script for visualisation, we scale the metrics in a separate matrix, compute a scaled overall score while keeping the original score of all metrics. Please note that if a metric has no variance, it is scaled to 0.5 by default.	Maren Büttner	2020-01-30T10:33:57Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into readConos	danielStrobl	2020-01-29T22:11:06Z	Luecken et al.
+theislab/scib-pipeline	extended and bugfixed readConos function	danielStrobl	2020-01-29T22:08:29Z	Luecken et al.
+theislab/scib-pipeline	fixed hvg file naming	Your Name	2020-01-29T21:02:59Z	Luecken et al.
+theislab/scib-pipeline	added liger to config	Your Name	2020-01-29T20:50:49Z	Luecken et al.
+theislab/scib-pipeline	fixed merge conflicts	Your Name	2020-01-29T19:13:10Z	Luecken et al.
+theislab/scib-pipeline	changed runMethods.R location	Your Name	2020-01-29T19:09:31Z	Luecken et al.
+theislab/scib-pipeline	added assay as paramter for distinguishing ATAC and expression	Michaela Mueller	2020-01-29T19:07:44Z	Luecken et al.
+theislab/scib-pipeline	fixed HVG input for R and moved R scripts	Michaela Mueller	2020-01-29T19:07:43Z	Luecken et al.
+theislab/scib-pipeline	getting HVG file for R integration methodsin snakemake	Michaela Mueller	2020-01-29T18:55:19Z	Luecken et al.
+theislab/scib-pipeline	bugfix: removed unused scale parameter	Michaela Mueller	2020-01-29T18:55:19Z	Luecken et al.
+theislab/scib-pipeline	using different environment for R integration methods	Michaela Mueller	2020-01-29T18:55:19Z	Luecken et al.
+theislab/scib-pipeline	added conos and combat, fixed trvae output type in config	Michaela Mueller	2020-01-29T18:53:03Z	Luecken et al.
+theislab/scib-pipeline	added progress messages to preprocessing	Michaela Mueller	2020-01-29T18:53:03Z	Luecken et al.
+theislab/scib-pipeline	restructured: preparation twice per dataset and setting	Michaela Mueller	2020-01-29T18:53:03Z	Luecken et al.
+theislab/scib-pipeline	extended for split preprocessing and integration as well as using R script vs. python script	Michaela Mueller	2020-01-29T18:48:45Z	Luecken et al.
+theislab/scib-pipeline	restructured Snakemake pipeline, dryrun on old runIntegration script	Michaela Mueller	2020-01-29T18:46:38Z	Luecken et al.
+theislab/scib-pipeline	extended for split preprocessing and integration as well as using R script vs. python script	Michaela Mueller	2020-01-29T18:22:19Z	Luecken et al.
+theislab/scib-pipeline	restructured Snakemake pipeline, dryrun on old runIntegration script	Michaela Mueller	2020-01-29T18:22:19Z	Luecken et al.
+theislab/scib-pipeline	added merge scripts for results tables	Michaela Mueller	2020-01-29T18:22:19Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #70 from theislab/moveRscript Move rscript	MalteDLuecken	2020-01-29T18:18:31Z	Luecken et al.
+theislab/scib-pipeline	removed space	Your Name	2020-01-29T18:17:28Z	Luecken et al.
+theislab/scib-pipeline	cleaned runMethods.R	Your Name	2020-01-29T18:15:54Z	Luecken et al.
+theislab/scib-pipeline	removed deprecated files	danielStrobl	2020-01-29T18:13:32Z	Luecken et al.
+theislab/scib-pipeline	moved r running script to scripts and solved relative path problem	danielStrobl	2020-01-29T18:07:25Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #68 from theislab/saveSeurat_fix changed naming of hvg file in saveSeurat function	MalteDLuecken	2020-01-29T17:41:40Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #66 from theislab/liger LIGER	MalteDLuecken	2020-01-29T17:40:21Z	Luecken et al.
+theislab/scib-pipeline	added assay as paramter for distinguishing ATAC and expression	Michaela Mueller	2020-01-29T17:24:39Z	Luecken et al.
+theislab/scib-pipeline	fixed HVG input for R and moved R scripts	Michaela Mueller	2020-01-29T17:24:06Z	Luecken et al.
+theislab/scib-pipeline	Updates from Marta	Maren Büttner	2020-01-29T16:30:37Z	Luecken et al.
+theislab/scib-pipeline	added liger fix by overwriting counts	Your Name	2020-01-29T15:05:36Z	Luecken et al.
+theislab/scib-pipeline	removed deprecated files	danielStrobl	2020-01-29T14:45:19Z	Luecken et al.
+theislab/scib-pipeline	moved r running script to scripts and solved relative path problem	danielStrobl	2020-01-29T14:44:00Z	Luecken et al.
+theislab/scib-pipeline	revert scaling of LISI scores to 0 - 1 We apply the LISI score scaling as implemented in the `master` branch. If any of the scores exceeds its limits, we have the option to rescale it based on all scenarios once all metrics have been collected.	Maren Büttner	2020-01-29T09:47:41Z	Luecken et al.
+theislab/scib-pipeline	do not invert cLISI score upon scaling	Maren Büttner	2020-01-29T08:37:45Z	Luecken et al.
+theislab/scib-pipeline	invert cLISI score if scale=True	Maren Büttner	2020-01-29T08:36:20Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #69 from theislab/postScript created postprocessing script	MalteDLuecken	2020-01-28T23:52:48Z	Luecken et al.
+theislab/scib-pipeline	created postprocessing script	danielStrobl	2020-01-28T20:44:12Z	Luecken et al.
+theislab/scib-pipeline	changed naming of hvg file in saveSeurat function	danielStrobl	2020-01-28T20:36:45Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #67 from theislab/saveSeurat_fix added counts layer to saveSeurat function	MalteDLuecken	2020-01-28T20:13:50Z	Luecken et al.
+theislab/scib-pipeline	added counts layer to saveSeurat function	danielStrobl	2020-01-28T18:06:31Z	Luecken et al.
+theislab/scib-pipeline	bug fix liger	Your Name	2020-01-28T17:45:31Z	Luecken et al.
+theislab/scib-pipeline	liger fix if counts aren't passed	Your Name	2020-01-28T17:40:59Z	Luecken et al.
+theislab/scib-pipeline	mapped X_EMB to X_emb in saveSeurat	Your Name	2020-01-28T16:59:46Z	Luecken et al.
+theislab/scib-pipeline	Bring output to the correct format.	Maren Büttner	2020-01-28T14:50:34Z	Luecken et al.
+theislab/scib-pipeline	bug fix	Maren Büttner	2020-01-28T14:41:23Z	Luecken et al.
+theislab/scib-pipeline	scale LISI score using a csv file as input The LISI score is the median over all observed scores in a sample, where the values range from 1 to some maximum value. A scaling that uses the highest median value in one scenario mean that we assign the highest possible score to the best performing method. Thus, the reported LISI score does not show, if the method performed well overall. We tweak this a little bit by using a minimal interval of length 1 for scaling.	Maren Büttner	2020-01-28T14:37:50Z	Luecken et al.
+theislab/scib-pipeline	solved merge conflicts	Your Name	2020-01-28T14:29:45Z	Luecken et al.
+theislab/scib-pipeline	scale snakemake metrics output file - skeleton	Maren Büttner	2020-01-28T14:19:50Z	Luecken et al.
+theislab/scib-pipeline	added liger to runMethods.R	Your Name	2020-01-28T14:19:48Z	Luecken et al.
+theislab/scib-pipeline	liger function works	Your Name	2020-01-28T14:17:58Z	Luecken et al.
+theislab/scib-pipeline	Remove scaling of lisi scores	Maren Büttner	2020-01-28T13:56:15Z	Luecken et al.
+theislab/scib-pipeline	got first half of liger running	Your Name	2020-01-28T11:09:44Z	Luecken et al.
+theislab/scib-pipeline	added liger function skeleton	Your Name	2020-01-28T11:09:44Z	Luecken et al.
+theislab/scib-pipeline	getting HVG file for R integration methodsin snakemake	Michaela Mueller	2020-01-27T23:05:35Z	Luecken et al.
+theislab/scib-pipeline	bugfix: removed unused scale parameter	Michaela Mueller	2020-01-27T22:56:04Z	Luecken et al.
+theislab/scib-pipeline	using different environment for R integration methods	Michaela Mueller	2020-01-27T22:55:20Z	Luecken et al.
+theislab/scib-pipeline	added benchmark command to Snakefile	Michaela Mueller	2020-01-27T22:30:02Z	Luecken et al.
+theislab/scib-pipeline	added conos and combat, fixed trvae output type in config	Michaela Mueller	2020-01-27T21:32:55Z	Luecken et al.
+theislab/scib-pipeline	added progress messages to preprocessing	Michaela Mueller	2020-01-27T21:32:08Z	Luecken et al.
+theislab/scib-pipeline	restructured: preparation twice per dataset and setting	Michaela Mueller	2020-01-27T21:31:30Z	Luecken et al.
+theislab/scib-pipeline	merge conflict solved	Michaela Mueller	2020-01-27T20:32:33Z	Luecken et al.
+theislab/scib-pipeline	fixed syntax error	Michaela Mueller	2020-01-27T20:29:45Z	Luecken et al.
+theislab/scib-pipeline	extended for split preprocessing and integration as well as using R script vs. python script	Michaela Mueller	2020-01-27T20:29:44Z	Luecken et al.
+theislab/scib-pipeline	restructured Snakemake pipeline, dryrun on old runIntegration script	Michaela Mueller	2020-01-27T20:29:44Z	Luecken et al.
+theislab/scib-pipeline	added merge scripts for results tables	Michaela Mueller	2020-01-27T20:29:44Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #65 from theislab/pp_fixes fixed saveSeurat	MalteDLuecken	2020-01-27T20:03:17Z	Luecken et al.
+theislab/scib-pipeline	bugfixing	danielStrobl	2020-01-27T19:39:16Z	Luecken et al.
+theislab/scib-pipeline	got first half of liger running	Your Name	2020-01-27T19:22:13Z	Luecken et al.
+theislab/scib-pipeline	fixed saveSeurat	danielStrobl	2020-01-27T17:49:11Z	Luecken et al.
+theislab/scib-pipeline	added liger function skeleton	Your Name	2020-01-27T16:30:58Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	Your Name	2020-01-27T16:22:18Z	Luecken et al.
+theislab/scib-pipeline	fixed sparse import in saveSeurat	Your Name	2020-01-27T16:21:59Z	Luecken et al.
+theislab/scib-pipeline	fixed typo in runConos function	LuckyMD	2020-01-27T16:07:24Z	Luecken et al.
+theislab/scib-pipeline	fixed typo in runSeurat	Your Name	2020-01-27T16:05:24Z	Luecken et al.
+theislab/scib-pipeline	extended for split preprocessing and integration as well as using R script vs. python script	Michaela Mueller	2020-01-25T02:33:21Z	Luecken et al.
+theislab/scib-pipeline	restructured Snakemake pipeline, dryrun on old runIntegration script	Michaela Mueller	2020-01-25T01:10:08Z	Luecken et al.
+theislab/scib-pipeline	added merge scripts for results tables	Michaela Mueller	2020-01-25T01:09:02Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #63 from theislab/R_fixes moved harmony embedding to X_emb	MalteDLuecken	2020-01-24T17:25:37Z	Luecken et al.
+theislab/scib-pipeline	moved harmony embedding to X_emb	danielStrobl	2020-01-24T17:22:26Z	Luecken et al.
+theislab/scib-pipeline	scale LISI scores to min - max	Maren Büttner	2020-01-24T15:10:45Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #54 from theislab/R_fixes R fixes	MalteDLuecken	2020-01-24T14:58:07Z	Luecken et al.
+theislab/scib-pipeline	fixed small bug in readSeurat	danielStrobl	2020-01-24T08:18:17Z	Luecken et al.
+theislab/scib-pipeline	missing bracket in pp	danielStrobl	2020-01-23T22:19:51Z	Luecken et al.
+theislab/scib-pipeline	added missing changes in preprocessing script	danielStrobl	2020-01-23T22:18:11Z	Luecken et al.
+theislab/scib-pipeline	moved seurat saving to pp function	danielStrobl	2020-01-23T21:07:33Z	Luecken et al.
+theislab/scib-pipeline	small fixes	danielStrobl	2020-01-23T20:58:01Z	Luecken et al.
+theislab/scib-pipeline	harmony	danielStrobl	2020-01-23T20:54:32Z	Luecken et al.
+theislab/scib-pipeline	removed seurat and conos from python integration script	danielStrobl	2020-01-23T17:26:50Z	Luecken et al.
+theislab/scib-pipeline	reverted deleting seurat and conos	danielStrobl	2020-01-23T17:25:24Z	Luecken et al.
+theislab/scib-pipeline	moved scaling to PP script, added all genes as anchors for seurat run without hvg selection	danielStrobl	2020-01-23T16:55:40Z	Luecken et al.
+theislab/scib-pipeline	rebased to current master	danielStrobl	2020-01-23T15:52:24Z	Luecken et al.
+theislab/scib-pipeline	removed seurat and conos from python module	danielStrobl	2020-01-23T15:41:42Z	Luecken et al.
+theislab/scib-pipeline	r script for running R methods, tested	danielStrobl	2020-01-23T12:13:40Z	Luecken et al.
+theislab/scib-pipeline	updated trvaep to defaults	Your Name	2020-01-23T09:55:31Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #61 from theislab/trvaep Added Trvaep	MalteDLuecken	2020-01-22T15:20:07Z	Luecken et al.
+theislab/scib-pipeline	changed trvaep integration function to new tutorial for batch integration	Your Name	2020-01-21T21:52:30Z	Luecken et al.
+theislab/scib-pipeline	reconstruct data in trvaep by mapping to dominant batch	Your Name	2020-01-21T17:05:47Z	Luecken et al.
+theislab/scib-pipeline	set random seed for trvaep	Your Name	2020-01-21T16:55:24Z	Luecken et al.
+theislab/scib-pipeline	added trvaep fix for newest version	Your Name	2020-01-21T16:39:46Z	Luecken et al.
+theislab/scib-pipeline	buxfixing for preprocessing	danielStrobl	2020-01-21T15:17:41Z	Luecken et al.
+theislab/scib-pipeline	added first draft of trvaep function	Your Name	2020-01-21T13:42:20Z	Luecken et al.
+theislab/scib-pipeline	added hvg selection to pp script	Daniel Strobl	2020-01-21T11:18:54Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #46 from theislab/isolated_label_score Isolated label score	MalteDLuecken	2020-01-20T22:57:32Z	Luecken et al.
+theislab/scib-pipeline	split preprocessing and integration, added option for no timing, added hvg option to seurat	Daniel Strobl	2020-01-20T22:23:50Z	Luecken et al.
+theislab/scib-pipeline	moved script test outside of package	Michaela Mueller	2020-01-20T19:57:26Z	Luecken et al.
+theislab/scib-pipeline	fixed array_equal with strings issue	Your Name	2020-01-20T18:39:17Z	Luecken et al.
+theislab/scib-pipeline	set defaults for parameters	Michaela Mueller	2020-01-20T12:17:04Z	Luecken et al.
+theislab/scib-pipeline	using correct adata for isolated label score in all metrics function	Michaela Mueller	2020-01-19T17:27:42Z	Luecken et al.
+theislab/scib-pipeline	rename adata copy in isolated label score	Michaela Mueller	2020-01-19T16:59:24Z	Luecken et al.
+theislab/scib-pipeline	renamed score variables in all metrics function	Michaela Mueller	2020-01-19T16:43:01Z	Luecken et al.
+theislab/scib-pipeline	fixed default batch number for isolated label score	Michaela Mueller	2020-01-19T16:32:03Z	Luecken et al.
+theislab/scib-pipeline	integrated isolated label score into metrics script and tested	Michaela Mueller	2020-01-18T22:25:32Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'test_metrics' into isolated_label_score	Michaela Mueller	2020-01-18T21:40:57Z	Luecken et al.
+theislab/scib-pipeline	integrated isolated score in all metrics function	Michaela Mueller	2020-01-18T21:40:01Z	Luecken et al.
+theislab/scib-pipeline	code review changes and testing	Michaela Mueller	2020-01-18T21:22:59Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #58 from theislab/combat added combat function	MalteDLuecken	2020-01-18T20:11:26Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into isolated_label_score	Michaela Mueller	2020-01-18T19:47:38Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #39 from theislab/scaling Scaling	MalteDLuecken	2020-01-17T22:27:18Z	Luecken et al.
+theislab/scib-pipeline	altered scaling function to leave input adata unchanged	Your Name	2020-01-17T22:16:12Z	Luecken et al.
+theislab/scib-pipeline	updated scaling and merge_adata functions to deal with sparse layers	Your Name	2020-01-17T22:11:22Z	Luecken et al.
+theislab/scib-pipeline	fixed typo	Your Name	2020-01-17T21:43:31Z	Luecken et al.
+theislab/scib-pipeline	fixed obs_names change	LuckyMD	2020-01-17T21:24:57Z	Luecken et al.
+theislab/scib-pipeline	return adata after scaling in runIntegration without inplace	LuckyMD	2020-01-17T16:12:01Z	Luecken et al.
+theislab/scib-pipeline	remove inplace operation for adata scaling function	LuckyMD	2020-01-17T16:10:10Z	Luecken et al.
+theislab/scib-pipeline	Fix lisi score uneven neighbour issue This modification should fix an issue with the LISI score, where an unexpected number of distance scores was tried to be written to the matrix of distances.	Maren Büttner	2020-01-17T16:03:03Z	Luecken et al.
+theislab/scib-pipeline	fix merge conflicts from rebase	LuckyMD	2020-01-17T15:36:50Z	Luecken et al.
+theislab/scib-pipeline	added scaling option and throw error for seurat hvg runs	LuckyMD	2020-01-17T15:34:22Z	Luecken et al.
+theislab/scib-pipeline	added test for scaling function	LuckyMD	2020-01-17T15:32:48Z	Luecken et al.
+theislab/scib-pipeline	fixed merge_adata to work with empty obs or var	LuckyMD	2020-01-17T15:32:48Z	Luecken et al.
+theislab/scib-pipeline	added scaling per batch function	LuckyMD	2020-01-17T15:32:48Z	Luecken et al.
+theislab/scib-pipeline	changed and sped up obs_names fix	Your Name	2020-01-17T13:54:11Z	Luecken et al.
+theislab/scib-pipeline	added combat function	LuckyMD	2020-01-17T13:13:55Z	Luecken et al.
+theislab/scib-pipeline	reduced interval to 0.02 for more accurate profiling	Your Name	2020-01-17T11:51:07Z	Luecken et al.
+theislab/scib-pipeline	changed default interval for R profiler	Your Name	2020-01-17T11:37:37Z	Luecken et al.
+theislab/scib-pipeline	fixed interval bug for profiler	LuckyMD	2020-01-17T11:32:39Z	Luecken et al.
+theislab/scib-pipeline	added profiling interval as input to R profiling function	Your Name	2020-01-17T11:28:31Z	Luecken et al.
+theislab/scib-pipeline	simplified R profiler test	LuckyMD	2020-01-17T11:22:42Z	Luecken et al.
+theislab/scib-pipeline	numpy is not imported, fixed	Kris	2020-01-17T11:14:19Z	Luecken et al.
+theislab/scib-pipeline	removed conos return bug integration.R and source path for testing R	LuckyMD	2020-01-17T10:54:53Z	Luecken et al.
+theislab/scib-pipeline	Change order of obs-renaming and sanity check of input files.	Maren Büttner	2020-01-14T15:08:30Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #57 from theislab/batch_label_fix Rename batch labels in adata post integration if necessary	Maren Büttner	2020-01-14T15:04:20Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into batch_label_fix	Maren Büttner	2020-01-14T15:03:21Z	Luecken et al.
+theislab/scib-pipeline	Check change in obsnames independently of batch relabeling	mbuttner	2020-01-14T13:59:18Z	Luecken et al.
+theislab/scib-pipeline	Check obsnames and try to rename	mbuttner	2020-01-13T13:01:18Z	Luecken et al.
+theislab/scib-pipeline	Fix adata_int.obs[batch_key] type as categorical	mbuttner	2020-01-10T17:02:39Z	Luecken et al.
+theislab/scib-pipeline	Overwrite batch label with pre-integration batch label.	mbuttner	2020-01-10T10:36:04Z	Luecken et al.
+theislab/scib-pipeline	Typo fix	mbuttner	2020-01-10T10:21:58Z	Luecken et al.
+theislab/scib-pipeline	Moved renaming of batch labels to scripts/metrics.py	mbuttner	2020-01-09T16:54:29Z	Luecken et al.
+theislab/scib-pipeline	Rename batch labels in adata post integration if necessary	mbuttner	2020-01-09T16:17:34Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #38 from theislab/metric_fixes Metric fixes	MalteDLuecken	2019-12-23T15:59:43Z	Luecken et al.
+theislab/scib-pipeline	removed hvg parameter from integration method call	mumichae	2019-12-23T11:19:08Z	Luecken et al.
+theislab/scib-pipeline	added documentation of LISI score functions	Michaela Mueller	2019-12-22T23:15:37Z	Luecken et al.
+theislab/scib-pipeline	removing HVG field after integration	Michaela Mueller	2019-12-22T22:48:34Z	Luecken et al.
+theislab/scib-pipeline	fixed description in PCR	Michaela Mueller	2019-12-21T11:05:09Z	Luecken et al.
+theislab/scib-pipeline	LISI score reusing kNN graph recomputed in scanpy	Michaela Mueller	2019-12-21T10:01:24Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metric_fixes' into test_metrics	Michaela Mueller	2019-12-21T01:46:09Z	Luecken et al.
+theislab/scib-pipeline	split LISI function by input type	Michaela Mueller	2019-12-21T01:23:55Z	Luecken et al.
+theislab/scib-pipeline	separated saving conos from running conos	danielStrobl	2019-12-20T23:13:13Z	Luecken et al.
+theislab/scib-pipeline	test cProfiler multithreading runtimes	danielStrobl	2019-12-20T22:42:18Z	Luecken et al.
+theislab/scib-pipeline	added test code for R function profiler with parallel code	LuckyMD	2019-12-20T17:21:50Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into metric_fixes	Michaela Mueller	2019-12-20T16:44:37Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metric_fixes' into test_metrics	Michaela Mueller	2019-12-20T15:01:08Z	Luecken et al.
+theislab/scib-pipeline	added more docs and fixed typos	Michaela Mueller	2019-12-20T14:46:18Z	Luecken et al.
+theislab/scib-pipeline	clustering fixes, omitted redundant function calls for testing	Michaela Mueller	2019-12-20T14:29:42Z	Luecken et al.
+theislab/scib-pipeline	added conos function	danielStrobl	2019-12-20T13:52:02Z	Luecken et al.
+theislab/scib-pipeline	added r scripts for seurat and conos, integrated into scIB	danielStrobl	2019-12-20T13:43:56Z	Luecken et al.
+theislab/scib-pipeline	cell cycle and PCR changes of code review	Michaela Mueller	2019-12-20T13:23:13Z	Luecken et al.
+theislab/scib-pipeline	bugfixes for conos, reading conos data, harmony	danielStrobl	2019-12-12T15:29:52Z	Luecken et al.
+theislab/scib-pipeline	test metrics script with function taking in output directory	Michaela Mueller	2019-12-12T12:51:32Z	Luecken et al.
+theislab/scib-pipeline	added adata to seurat conversion	danielStrobl	2019-12-10T23:58:27Z	Luecken et al.
+theislab/scib-pipeline	separate R functions for R integration methods	danielStrobl	2019-12-10T23:56:39Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metric_fixes' into test_metrics	Michaela Mueller	2019-12-04T16:29:20Z	Luecken et al.
+theislab/scib-pipeline	more comprehensive warning/error messages	Michaela Mueller	2019-12-03T16:19:00Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metric_fixes' into cc_variance_analysis	Michaela Mueller	2019-11-29T17:42:46Z	Luecken et al.
+theislab/scib-pipeline	return all intermediate results of cell cycle score in dataframe and changed lm scoring back due to negative values with r2_score	Michaela Mueller	2019-11-29T17:40:53Z	Luecken et al.
+theislab/scib-pipeline	update bbknn parameters	Maren Büttner	2019-11-29T15:50:28Z	Luecken et al.
+theislab/scib-pipeline	update bbknn parameters	Maren Büttner	2019-11-29T13:21:58Z	Luecken et al.
+theislab/scib-pipeline	bbknn larger neighborhoods for large datasets	mbuttner	2019-11-29T12:00:27Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metric_fixes' of github.com:theislab/Benchmarking_data_integration into metric_fixes	Michaela Mueller	2019-11-27T18:15:52Z	Luecken et al.
+theislab/scib-pipeline	added script for calling cell cycle only and saving values, cell cycle score returns dictionary of values, replaced lm.score() with sklearn.metrics.r2_score()	Michaela Mueller	2019-11-27T18:15:37Z	Luecken et al.
+theislab/scib-pipeline	more documentation of snakemake setup	Michaela Mueller	2019-11-27T18:08:34Z	Luecken et al.
+theislab/scib-pipeline	turn off neighborhood computation when running on knn output	Michaela Müller	2019-11-26T12:06:55Z	Luecken et al.
+theislab/scib-pipeline	added accuracy checks for metrics	Michaela Mueller	2019-11-22T20:08:02Z	Luecken et al.
+theislab/scib-pipeline	added documentation and more flexible definition of 'isolated label'	Michaela Mueller	2019-11-21T10:48:00Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #41 from theislab/seurat_fix Seurat implementation to keep var names	MalteDLuecken	2019-11-20T23:45:31Z	Luecken et al.
+theislab/scib-pipeline	final seurat fixes	Your Name	2019-11-20T23:44:25Z	Luecken et al.
+theislab/scib-pipeline	fixed bug	Your Name	2019-11-20T21:40:56Z	Luecken et al.
+theislab/scib-pipeline	fixed issues in SplitBatches for batches with levels 0 and 1	Your Name	2019-11-20T21:37:47Z	Luecken et al.
+theislab/scib-pipeline	fixed SCE conversion for seurat. Still have seurat errors	Your Name	2019-11-20T17:31:21Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metric_fixes' into isolated_label_score	Michaela Mueller	2019-11-20T15:48:12Z	Luecken et al.
+theislab/scib-pipeline	sorted indices to keep var names	LuckyMD	2019-11-20T15:25:57Z	Luecken et al.
+theislab/scib-pipeline	added random seed for dummy data	Michaela Mueller	2019-11-19T13:56:24Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metric_fixes' into isolated_label_score	Michaela Mueller	2019-11-19T13:49:55Z	Luecken et al.
+theislab/scib-pipeline	fixed cell cycle and PCR\n removed HVG computation from PCR and cell cycle effect, getting positive values for cell cycle effect	Michaela Mueller	2019-11-19T13:48:26Z	Luecken et al.
+theislab/scib-pipeline	added option to evaluate with silhouette score	Michaela Müller	2019-11-06T14:32:29Z	Luecken et al.
+theislab/scib-pipeline	isolated label score working on test set	Michaela Müller	2019-11-06T00:05:12Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metric_fixes' of github.com:theislab/Benchmarking_data_integration into isolated_label_score	Michaela Müller	2019-11-05T21:38:27Z	Luecken et al.
+theislab/scib-pipeline	added isolated label skeleton	Michaela Müller	2019-11-05T21:38:15Z	Luecken et al.
+theislab/scib-pipeline	fixed view problem for cell cycle score on embedding	Michaela Mueller	2019-11-05T21:33:08Z	Luecken et al.
+theislab/scib-pipeline	more verbose error message for cell cycle scores	Michaela Mueller	2019-11-04T18:31:46Z	Luecken et al.
+theislab/scib-pipeline	more generic Snakefile for metric computation	Michaela Mueller	2019-11-04T18:31:26Z	Luecken et al.
+theislab/scib-pipeline	removed HVG selection for PC regression and adapted tests accordingly	Michaela Mueller	2019-11-04T18:31:16Z	Luecken et al.
+theislab/scib-pipeline	introduced new tests and changed file structure	Michaela Müller	2019-10-31T17:18:58Z	Luecken et al.
+theislab/scib-pipeline	changed clustering function for isolated label score + basic functionality for score	Michaela Müller	2019-10-31T17:18:18Z	Luecken et al.
+theislab/scib-pipeline	tests for all metrics apart from kbet and lisi	Michaela Müller	2019-10-28T11:11:35Z	Luecken et al.
+theislab/scib-pipeline	Cleaned up label matching notebook	danielStrobl	2019-10-23T07:44:13Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration into metric_fixes	Michaela Mueller	2019-10-18T13:48:36Z	Luecken et al.
+theislab/scib-pipeline	LISI R package modified for knn-graph input	mbuttner	2019-10-09T13:33:00Z	Luecken et al.
+theislab/scib-pipeline	change anndata object conversion to seurat object to retain var names	Your Name	2019-10-08T18:07:02Z	Luecken et al.
+theislab/scib-pipeline	added config for snakemake workflow	Michaela Mueller	2019-10-08T17:35:47Z	Luecken et al.
+theislab/scib-pipeline	updated results	Michaela Mueller	2019-10-08T17:29:40Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration into metric_fixes	Michaela Mueller	2019-10-08T17:28:35Z	Luecken et al.
+theislab/scib-pipeline	Update setup.py Install error, change from packages=['scIB', 'scanpy'], to packages=['scIB'], because scanpy directory doesn't exist in scIB	Kris	2019-10-04T13:46:22Z	Luecken et al.
+theislab/scib-pipeline	results for MCA and TM	Michaela Mueller	2019-10-01T09:46:35Z	Luecken et al.
+theislab/scib-pipeline	created function	martaint	2019-09-28T09:45:39Z	Luecken et al.
+theislab/scib-pipeline	started analysing outputs	Michaela Mueller	2019-09-27T16:16:32Z	Luecken et al.
+theislab/scib-pipeline	added scaling option and throw error for seurat hvg runs	LuckyMD	2019-09-27T10:47:21Z	Luecken et al.
+theislab/scib-pipeline	added test for scaling function	LuckyMD	2019-09-27T10:37:59Z	Luecken et al.
+theislab/scib-pipeline	fixed merge_adata to work with empty obs or var	LuckyMD	2019-09-27T10:37:47Z	Luecken et al.
+theislab/scib-pipeline	added scaling per batch function	LuckyMD	2019-09-27T10:37:20Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into metric_fixes	Michaela Mueller	2019-09-27T09:39:06Z	Luecken et al.
+theislab/scib-pipeline	built snakemake pipeline for metrics	Michaela Mueller	2019-09-27T09:33:46Z	Luecken et al.
+theislab/scib-pipeline	fixed cell cycle file read issue	Michaela Mueller	2019-09-27T09:32:38Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #35 from theislab/scvi Add SCVI integration	MalteDLuecken	2019-09-26T17:57:15Z	Luecken et al.
+theislab/scib-pipeline	debugged scvi	Your Name	2019-09-26T17:50:56Z	Luecken et al.
+theislab/scib-pipeline	with prettier legend	martaint	2019-09-26T15:05:58Z	Luecken et al.
+theislab/scib-pipeline	with legend	martaint	2019-09-24T13:15:37Z	Luecken et al.
+theislab/scib-pipeline	improved	martaint	2019-09-24T08:50:24Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #31 from theislab/metrics Metrics calculation is added to master	MalteDLuecken	2019-09-20T08:34:04Z	Luecken et al.
+theislab/scib-pipeline	LISI score knn adapted perplexity to floor(#nn/3)	mbuttner	2019-09-19T16:27:11Z	Luecken et al.
+theislab/scib-pipeline	kBET test on full feature space successful, remove lisi score detailed output	mbuttner	2019-09-19T16:25:04Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of github.com:theislab/Benchmarking_data_integration into metrics	Michaela Mueller	2019-09-18T22:43:30Z	Luecken et al.
+theislab/scib-pipeline	fixed missing hvg keys	Michaela Mueller	2019-09-18T22:43:28Z	Luecken et al.
+theislab/scib-pipeline	moved n_hvg_tmp and added info about smaller batches	danielStrobl	2019-09-18T21:19:56Z	Luecken et al.
+theislab/scib-pipeline	removed whitespaces from metric rownames	Michaela Mueller	2019-09-18T19:56:36Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of github.com:theislab/Benchmarking_data_integration into metrics	Michaela Mueller	2019-09-18T19:45:31Z	Luecken et al.
+theislab/scib-pipeline	regressing against cell cycle scores jointly	Michaela Mueller	2019-09-18T19:45:27Z	Luecken et al.
+theislab/scib-pipeline	Bugfix in kBET scaling	Maren Büttner	2019-09-18T19:38:14Z	Luecken et al.
+theislab/scib-pipeline	changed hvg_overlap to do hvg size per batch	danielStrobl	2019-09-18T19:25:46Z	Luecken et al.
+theislab/scib-pipeline	merged	Michaela Mueller	2019-09-18T18:32:21Z	Luecken et al.
+theislab/scib-pipeline	cell cycle working, revisited PCR and specific HVG selection	Michaela Mueller	2019-09-18T18:29:34Z	Luecken et al.
+theislab/scib-pipeline	removed accidental apostrophe	LuckyMD	2019-09-18T17:33:04Z	Luecken et al.
+theislab/scib-pipeline	added scvi function to script and integration.py	LuckyMD	2019-09-18T17:30:50Z	Luecken et al.
+theislab/scib-pipeline	Scaled kBET and LISI to 1 good and 0 bad	mbuttner	2019-09-18T15:29:34Z	Luecken et al.
+theislab/scib-pipeline	Metrics script LISI option changed to True	mbuttner	2019-09-18T15:19:12Z	Luecken et al.
+theislab/scib-pipeline	LISI score debugged and scaled (0 good, 1 bad)	mbuttner	2019-09-18T15:17:47Z	Luecken et al.
+theislab/scib-pipeline	tested LISI score implementation for knn	mbuttner	2019-09-18T13:28:26Z	Luecken et al.
+theislab/scib-pipeline	kBET knn implementation tested, LISI knn implementation scheduled for testing	mbuttner	2019-09-18T10:14:35Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of https://github.com/theislab/Benchmarking_data_integration into metrics	mbuttner	2019-09-18T07:09:31Z	Luecken et al.
+theislab/scib-pipeline	cell cycle per batch (attempt)	Michaela Mueller	2019-09-17T23:14:51Z	Luecken et al.
+theislab/scib-pipeline	knn input to kBET, cluster-wise (scheduled for testing)	mbuttner	2019-09-17T12:50:04Z	Luecken et al.
+theislab/scib-pipeline	Fee metrics type variable in lisi and kBET functions	mbuttner	2019-09-17T12:19:52Z	Luecken et al.
+theislab/scib-pipeline	Add metrics type variable to metrics call	mbuttner	2019-09-17T12:16:59Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of https://github.com/theislab/Benchmarking_data_integration into metrics	mbuttner	2019-09-17T12:14:25Z	Luecken et al.
+theislab/scib-pipeline	Add type argument to metrics call	mbuttner	2019-09-17T12:10:56Z	Luecken et al.
+theislab/scib-pipeline	changed behaviour of hvg_overlap for min(genes)<n_hvg	danielStrobl	2019-09-16T15:29:13Z	Luecken et al.
+theislab/scib-pipeline	scaled functions	Michaela Mueller	2019-09-15T17:39:16Z	Luecken et al.
+theislab/scib-pipeline	increased verbosity and changed flags (!)	Michaela Mueller	2019-09-15T16:33:34Z	Luecken et al.
+theislab/scib-pipeline	removed cell cycle from preprocessing	Michaela Mueller	2019-09-15T14:18:23Z	Luecken et al.
+theislab/scib-pipeline	fixed merge conflict	Michaela Müller	2019-09-14T22:24:50Z	Luecken et al.
+theislab/scib-pipeline	making code more readable attempt	Michaela Müller	2019-09-14T22:13:34Z	Luecken et al.
+theislab/scib-pipeline	Updated LISI package NAMESPACE to import the correct Rcpp	mbuttner	2019-09-14T19:51:51Z	Luecken et al.
+theislab/scib-pipeline	Include LISI score in metrics	mbuttner	2019-09-14T19:03:31Z	Luecken et al.
+theislab/scib-pipeline	bug fix in kBET and prepare lisi_score run	mbuttner	2019-09-14T16:56:52Z	Luecken et al.
+theislab/scib-pipeline	rewrote hvg_overlap according to Malte's note	danielStrobl	2019-09-13T17:53:56Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #32 from theislab/test-kbet Catch NA return value from kBET Skeleton for lisi score.	Maren Büttner	2019-09-13T14:33:34Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of github.com:theislab/Benchmarking_data_integration into metrics	Michaela Mueller	2019-09-13T14:29:58Z	Luecken et al.
+theislab/scib-pipeline	finished last of comments	Michaela Mueller	2019-09-13T14:29:46Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of https://github.com/theislab/Benchmarking_data_integration into metrics	Your Name	2019-09-13T14:09:34Z	Luecken et al.
+theislab/scib-pipeline	changed hvg selection to match integrated data on pre; changed hvg selection to single batch approach when nohvg integrated data is used	Your Name	2019-09-13T14:07:25Z	Luecken et al.
+theislab/scib-pipeline	Catch NA return value from kBET	mbuttner	2019-09-13T13:41:58Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of github.com:theislab/Benchmarking_data_integration into metrics	Michaela Mueller	2019-09-13T13:31:53Z	Luecken et al.
+theislab/scib-pipeline	removed deprecated functions and fixed pcr_regression	Michaela Mueller	2019-09-13T13:31:46Z	Luecken et al.
+theislab/scib-pipeline	Compute average kBET score, ignoring NaNs	mbuttner	2019-09-13T12:53:41Z	Luecken et al.
+theislab/scib-pipeline	Solve kBET sparse to dense input	mbuttner	2019-09-13T12:39:30Z	Luecken et al.
+theislab/scib-pipeline	pcr_comparison adapted and used in script + little changes	Michaela Mueller	2019-09-13T12:37:53Z	Luecken et al.
+theislab/scib-pipeline	Metrics sparse to dense input for kBET	mbuttner	2019-09-13T12:31:12Z	Luecken et al.
+theislab/scib-pipeline	Create readme.txt	martaint	2019-09-13T12:16:23Z	Luecken et al.
+theislab/scib-pipeline	script for visualizing metrics	martaint	2019-09-13T12:15:38Z	Luecken et al.
+theislab/scib-pipeline	Create readme.txt	martaint	2019-09-13T12:14:03Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of github.com:theislab/Benchmarking_data_integration into metrics	Michaela Mueller	2019-09-13T11:46:13Z	Luecken et al.
+theislab/scib-pipeline	integrated cell cycle computation (not final for metric)	Michaela Mueller	2019-09-13T11:46:05Z	Luecken et al.
+theislab/scib-pipeline	Changed kBET_single to catch with NA output from kBET for small clusters	mbuttner	2019-09-13T10:15:22Z	Luecken et al.
+theislab/scib-pipeline	Changed k0 option for kBET in small environments	mbuttner	2019-09-13T09:58:25Z	Luecken et al.
+theislab/scib-pipeline	moved clustering into the metrics function	Michaela Mueller	2019-09-13T09:33:19Z	Luecken et al.
+theislab/scib-pipeline	small code review changes and removed silhouette comparison (ASW now only on integrated adata)	Michaela Mueller	2019-09-13T08:51:00Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of github.com:theislab/Benchmarking_data_integration into metrics	Michaela Mueller	2019-09-13T08:14:28Z	Luecken et al.
+theislab/scib-pipeline	removed clustering, fixed cluster_key issues	Michaela Mueller	2019-09-13T08:14:19Z	Luecken et al.
+theislab/scib-pipeline	all metrics working	Michaela Mueller	2019-09-13T08:13:34Z	Luecken et al.
+theislab/scib-pipeline	changed scgen 2.0 name to trvae in readme	MalteDLuecken	2019-09-12T23:00:40Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #29 from theislab/trvae added scgen 2.0 function as runScGen()	MalteDLuecken	2019-09-12T22:59:37Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration into trvae	Your Name	2019-09-12T22:58:54Z	Luecken et al.
+theislab/scib-pipeline	set non-computed metrics to None	Michaela Mueller	2019-09-12T13:59:33Z	Luecken et al.
+theislab/scib-pipeline	Change line 53 about args.hvgs is not None	Kridsadakorn Chaichoompu	2019-09-12T13:19:27Z	Luecken et al.
+theislab/scib-pipeline	handling missing hvg	Michaela Mueller	2019-09-12T13:15:27Z	Luecken et al.
+theislab/scib-pipeline	fixed calls with wrong keys	Michaela Mueller	2019-09-12T13:03:53Z	Luecken et al.
+theislab/scib-pipeline	fixed silly mistakes, package metrics_all function still buggy	Michaela Mueller	2019-09-12T10:37:50Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of github.com:theislab/Benchmarking_data_integration into metrics	Michaela Mueller	2019-09-12T10:29:45Z	Luecken et al.
+theislab/scib-pipeline	merge all metrics attempt	Michaela Müller	2019-09-12T10:28:26Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of github.com:theislab/Benchmarking_data_integration into metrics	Michaela Müller	2019-09-12T10:11:27Z	Luecken et al.
+theislab/scib-pipeline	improved cell cycle checking	Michaela Müller	2019-09-12T10:11:21Z	Luecken et al.
+theislab/scib-pipeline	changed group_key to label_key	Michaela Mueller	2019-09-12T10:08:50Z	Luecken et al.
+theislab/scib-pipeline	add type to output prefix	Michaela Mueller	2019-09-12T09:59:37Z	Luecken et al.
+theislab/scib-pipeline	added prefix to output files	Michaela Mueller	2019-09-12T09:39:29Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of github.com:theislab/Benchmarking_data_integration into metrics	Michaela Mueller	2019-09-12T09:26:17Z	Luecken et al.
+theislab/scib-pipeline	added pandas dataframe index to output	Michaela Mueller	2019-09-12T09:26:13Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of https://github.com/theislab/Benchmarking_data_integration into metrics	mbuttner	2019-09-12T09:14:56Z	Luecken et al.
+theislab/scib-pipeline	more flag bugfixes	Michaela Mueller	2019-09-12T09:14:27Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of https://github.com/theislab/Benchmarking_data_integration into metrics Added a stability option in clustering.py	mbuttner	2019-09-12T09:11:19Z	Luecken et al.
+theislab/scib-pipeline	Run pp.neighbors in clustering.py if not existing	mbuttner	2019-09-12T09:10:03Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of github.com:theislab/Benchmarking_data_integration into metrics	Michaela Mueller	2019-09-12T08:48:06Z	Luecken et al.
+theislab/scib-pipeline	fixed HVG flags	Michaela Mueller	2019-09-12T08:48:03Z	Luecken et al.
+theislab/scib-pipeline	adapted clustering metrics (NMI, silhouette etc.) to only run on integrated data	Michaela Mueller	2019-09-12T08:43:23Z	Luecken et al.
+theislab/scib-pipeline	Add pp.neighbors to clustering.py	mbuttner	2019-09-12T08:37:14Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'metrics' of github.com:theislab/Benchmarking_data_integration into metrics	Michaela Mueller	2019-09-12T07:34:07Z	Luecken et al.
+theislab/scib-pipeline	bugfixes on wrong keys and fixed missing knn computation	Michaela Mueller	2019-09-12T07:34:03Z	Luecken et al.
+theislab/scib-pipeline	Changed batch_key from None to batch_key in reduced_data	mbuttner	2019-09-11T17:03:52Z	Luecken et al.
+theislab/scib-pipeline	Changed check for hvg variable in preprocessing	mbuttner	2019-09-11T17:00:07Z	Luecken et al.
+theislab/scib-pipeline	changed name of scgen to trvae, debugged code	LuckyMD	2019-09-11T16:51:27Z	Luecken et al.
+theislab/scib-pipeline	different embeddings possible for uncorrected vs. integrated data in silhouette score	Michaela Mueller	2019-09-11T16:51:15Z	Luecken et al.
+theislab/scib-pipeline	changed standard embedding storage to adata.obsm['X_emb'], updated scGen function	LuckyMD	2019-09-11T16:38:40Z	Luecken et al.
+theislab/scib-pipeline	fixed missing groups for batch issue	Michaela Mueller	2019-09-11T15:36:17Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into metrics	Michaela Müller	2019-09-11T13:13:41Z	Luecken et al.
+theislab/scib-pipeline	bugfixes on metrics script and functions, silhouette modified to compare different adatas, running on example dataset	Michaela Müller	2019-09-11T13:13:04Z	Luecken et al.
+theislab/scib-pipeline	rewritten function (needs testing)	Michaela Müller	2019-09-10T00:41:57Z	Luecken et al.
+theislab/scib-pipeline	hvg_batch function for reduce data	Michaela Müller	2019-09-10T00:41:34Z	Luecken et al.
+theislab/scib-pipeline	revisiting all metrics in progress	Michaela Mueller	2019-09-09T22:08:27Z	Luecken et al.
+theislab/scib-pipeline	splitBatches() now returns adata objects instead of views	LuckyMD	2019-09-09T14:17:04Z	Luecken et al.
+theislab/scib-pipeline	added scvi function skeleton	LuckyMD	2019-09-09T14:15:47Z	Luecken et al.
+theislab/scib-pipeline	add bbknn to scAEspy It's a dimensionality reduction technique that was shown to work with BBKNN, rather than alone	MalteDLuecken	2019-09-09T09:51:21Z	Luecken et al.
+theislab/scib-pipeline	Added another tool to README	MalteDLuecken	2019-09-09T09:23:43Z	Luecken et al.
+theislab/scib-pipeline	returned correct object and added some comments	LuckyMD	2019-09-06T15:22:44Z	Luecken et al.
+theislab/scib-pipeline	added scgen 2.0 function as runScGen()	LuckyMD	2019-09-06T15:17:44Z	Luecken et al.
+theislab/scib-pipeline	added MCA sample annotation	Michaela Mueller	2019-09-05T18:42:06Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Michaela Mueller	2019-09-05T14:57:59Z	Luecken et al.
+theislab/scib-pipeline	script for all metrics of 1 adata refined and tested	Michaela Mueller	2019-09-05T14:57:55Z	Luecken et al.
+theislab/scib-pipeline	metrics more robust + small bugfixes	Michaela Mueller	2019-09-05T14:57:04Z	Luecken et al.
+theislab/scib-pipeline	add print output for hvg_batch()	LuckyMD	2019-09-05T12:58:08Z	Luecken et al.
+theislab/scib-pipeline	fixed bug in hvg_batch	LuckyMD	2019-09-05T12:49:02Z	Luecken et al.
+theislab/scib-pipeline	removed run_bbknn.py	Michaela Mueller	2019-09-05T12:20:22Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #22 from theislab/hvg_batch added hvg_batch() function to select HVGs shared by batches	MalteDLuecken	2019-09-05T11:59:30Z	Luecken et al.
+theislab/scib-pipeline	removed random print statement	LuckyMD	2019-09-05T11:58:57Z	Luecken et al.
+theislab/scib-pipeline	started script for all metrics	Michaela Müller	2019-09-05T11:14:14Z	Luecken et al.
+theislab/scib-pipeline	updated hvg_batch function description	LuckyMD	2019-09-05T10:03:57Z	Luecken et al.
+theislab/scib-pipeline	fixed bugs in hvg_batch. No sorting of vals in batch-n and returning appended vals	LuckyMD	2019-09-05T10:00:49Z	Luecken et al.
+theislab/scib-pipeline	removed group/groups parameter	LuckyMD	2019-09-05T09:27:09Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'hvg_batch' of https://github.com/theislab/Benchmarking_data_integration into hvg_batch	LuckyMD	2019-09-05T09:10:16Z	Luecken et al.
+theislab/scib-pipeline	fixed bug for nbatch2_dispersions definition	LuckyMD	2019-09-05T09:10:07Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' into hvg_batch	MalteDLuecken	2019-09-05T08:25:02Z	Luecken et al.
+theislab/scib-pipeline	removed min_genes parameter	LuckyMD	2019-09-05T08:21:06Z	Luecken et al.
+theislab/scib-pipeline	changed order of parameters passed to hvg_batch	LuckyMD	2019-09-05T08:20:41Z	Luecken et al.
+theislab/scib-pipeline	scgen fix refined	Michaela Müller	2019-09-04T17:38:48Z	Luecken et al.
+theislab/scib-pipeline	change how many genes per batch are considered and remove limit on n_batches	LuckyMD	2019-09-04T17:36:24Z	Luecken et al.
+theislab/scib-pipeline	removed max_genes_hvg parametere not needed for hvg_batch	LuckyMD	2019-09-04T17:20:17Z	Luecken et al.
+theislab/scib-pipeline	modified runIntegration to use hvg_batch function	LuckyMD	2019-09-04T17:18:31Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration into hvg_batch	LuckyMD	2019-09-04T17:16:20Z	Luecken et al.
+theislab/scib-pipeline	added adataOut parameter to hvg_batch and hvg_intersect again	LuckyMD	2019-09-04T17:13:47Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Michaela Müller	2019-09-04T16:59:52Z	Luecken et al.
+theislab/scib-pipeline	runintegration corrected for scgencall	Michaela Müller	2019-09-04T16:59:49Z	Luecken et al.
+theislab/scib-pipeline	added hvg_batch() function to select HVGs shared by batches	LuckyMD	2019-09-04T16:33:57Z	Luecken et al.
+theislab/scib-pipeline	update runScGen, added louvain clustering in the function	Kridsadakorn Chaichoompu	2019-09-04T16:07:18Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	Kridsadakorn Chaichoompu	2019-09-04T14:04:13Z	Luecken et al.
+theislab/scib-pipeline	scanorama and harmony fixed	danielStrobl	2019-09-04T13:50:09Z	Luecken et al.
+theislab/scib-pipeline	wrong indentation fixed	danielStrobl	2019-09-04T13:36:44Z	Luecken et al.
+theislab/scib-pipeline	fixed seurat	danielStrobl	2019-09-04T13:34:30Z	Luecken et al.
+theislab/scib-pipeline	Fix hvg arg as str bug	mbuttner	2019-09-04T12:46:10Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	Kridsadakorn Chaichoompu	2019-09-04T12:32:13Z	Luecken et al.
+theislab/scib-pipeline	case hvg arg as int in runIntegration script	LuckyMD	2019-09-04T12:11:07Z	Luecken et al.
+theislab/scib-pipeline	added step_size as a parameter for HVG_intersect function	LuckyMD	2019-09-04T11:09:56Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #21 from theislab/atac_adaptation Atac adaptation	MalteDLuecken	2019-09-04T10:05:39Z	Luecken et al.
+theislab/scib-pipeline	changed flag for setting max genes	LuckyMD	2019-09-04T10:02:04Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration into atac_adaptation	LuckyMD	2019-09-04T09:49:06Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #20 from theislab/hvg_selection HVG intersect function	MalteDLuecken	2019-09-04T09:48:02Z	Luecken et al.
+theislab/scib-pipeline	added line breaks for exception	LuckyMD	2019-09-04T09:47:14Z	Luecken et al.
+theislab/scib-pipeline	added parameter specification	LuckyMD	2019-09-04T09:42:42Z	Luecken et al.
+theislab/scib-pipeline	added max_genes_hvg parameter to allow higher feature number in atac-seq data	LuckyMD	2019-09-04T09:40:27Z	Luecken et al.
+theislab/scib-pipeline	added min_genes wanted in hvg intersection and error handling	LuckyMD	2019-09-04T09:34:37Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	Kridsadakorn Chaichoompu	2019-09-04T09:31:37Z	Luecken et al.
+theislab/scib-pipeline	changed hvg_intersection function to improve efficiency	LuckyMD	2019-09-04T09:15:48Z	Luecken et al.
+theislab/scib-pipeline	set hvg threshold to 500 to prevent bad practice use	MalteDLuecken	2019-09-03T16:42:51Z	Luecken et al.
+theislab/scib-pipeline	enabled hvg to be 0 for no-hvg script	MalteDLuecken	2019-09-03T16:36:52Z	Luecken et al.
+theislab/scib-pipeline	Made hvg option take a value that defaults to 2000 Added this for atac-seq extension that will use 10k+ features for integration.	MalteDLuecken	2019-09-03T16:34:47Z	Luecken et al.
+theislab/scib-pipeline	fixed preprocessing merge leftovers	danielStrobl	2019-09-03T14:47:00Z	Luecken et al.
+theislab/scib-pipeline	merged	danielStrobl	2019-09-03T13:13:43Z	Luecken et al.
+theislab/scib-pipeline	fixed hvg bug	danielStrobl	2019-09-03T13:05:13Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2019-09-03T12:59:57Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2019-09-03T12:58:49Z	Luecken et al.
+theislab/scib-pipeline	update .gitignore	Kridsadakorn Chaichoompu	2019-09-02T14:17:07Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2019-09-02T14:03:43Z	Luecken et al.
+theislab/scib-pipeline	Create README.txt	martaint	2019-09-02T14:03:14Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2019-08-30T14:19:20Z	Luecken et al.
+theislab/scib-pipeline	Data pre-processing notebooks upload	mbuttner	2019-08-30T12:17:16Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2019-08-29T10:15:57Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2019-08-29T10:15:11Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2019-08-29T10:14:26Z	Luecken et al.
+theislab/scib-pipeline	Add files via upload	martaint	2019-08-29T10:13:23Z	Luecken et al.
+theislab/scib-pipeline	Delete MCA_PBMCs_1.ipynb	martaint	2019-08-29T10:12:37Z	Luecken et al.
+theislab/scib-pipeline	Move files to new directory	martaint	2019-08-29T10:09:05Z	Luecken et al.
+theislab/scib-pipeline	Create README.txt	martaint	2019-08-27T15:07:47Z	Luecken et al.
+theislab/scib-pipeline	Create README.txt	martaint	2019-08-27T15:07:15Z	Luecken et al.
+theislab/scib-pipeline	Create README.txt	martaint	2019-08-27T15:06:36Z	Luecken et al.
+theislab/scib-pipeline	Create README.txt	martaint	2019-08-27T15:05:41Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Michaela Mueller	2019-08-23T19:02:29Z	Luecken et al.
+theislab/scib-pipeline	all metrics finally working	Michaela Mueller	2019-08-23T19:02:22Z	Luecken et al.
+theislab/scib-pipeline	scGen adata merge issue solved	Michaela Mueller	2019-08-23T17:52:45Z	Luecken et al.
+theislab/scib-pipeline	little fixes	Michaela Mueller	2019-08-23T16:56:40Z	Luecken et al.
+theislab/scib-pipeline	default resolution parameters ranging up to 2	Michaela Mueller	2019-08-23T16:54:19Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	danielStrobl	2019-08-23T16:07:45Z	Luecken et al.
+theislab/scib-pipeline	added text file of cell type mapping	danielStrobl	2019-08-23T16:07:30Z	Luecken et al.
+theislab/scib-pipeline	silhouette score revisited	Michaela Mueller	2019-08-23T09:47:48Z	Luecken et al.
+theislab/scib-pipeline	merged	danielStrobl	2019-08-23T06:53:41Z	Luecken et al.
+theislab/scib-pipeline	added adata output to hvg	danielStrobl	2019-08-23T06:49:39Z	Luecken et al.
+theislab/scib-pipeline	added runnable integration script	danielStrobl	2019-08-23T06:39:48Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Michaela Mueller	2019-08-22T18:16:59Z	Luecken et al.
+theislab/scib-pipeline	PC regression only on R2 values, consistent with R; all_metrics still constructing	Michaela Mueller	2019-08-22T18:16:48Z	Luecken et al.
+theislab/scib-pipeline	usability: short aliases, more parameters for functions, more consistency checking	Michaela Mueller	2019-08-22T18:15:32Z	Luecken et al.
+theislab/scib-pipeline	mouse bone marrow - erythrocyte trajectory	martaint	2019-08-22T15:50:49Z	Luecken et al.
+theislab/scib-pipeline	updated README and issues	Michaela Mueller	2019-08-22T15:06:55Z	Luecken et al.
+theislab/scib-pipeline	combat works	Michaela Mueller	2019-08-22T09:06:05Z	Luecken et al.
+theislab/scib-pipeline	solved merge conflict: moved hvg_overlap function within script	Michaela Mueller	2019-08-22T08:51:36Z	Luecken et al.
+theislab/scib-pipeline	PCR completely in python - attempt	Michaela Mueller	2019-08-22T08:43:59Z	Luecken et al.
+theislab/scib-pipeline	reordered functions	Michaela Mueller	2019-08-22T06:26:03Z	Luecken et al.
+theislab/scib-pipeline	changed hvg intersection and added hvg overlap score	danielStrobl	2019-08-21T15:45:33Z	Luecken et al.
+theislab/scib-pipeline	mca+tm label mapping finished	danielStrobl	2019-08-21T13:28:50Z	Luecken et al.
+theislab/scib-pipeline	NMI time comparison	Michaela Mueller	2019-08-21T13:14:02Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Michaela Mueller	2019-08-21T10:35:05Z	Luecken et al.
+theislab/scib-pipeline	kBET for clusters, cell cycle on scores + bugfixes	Michaela Mueller	2019-08-21T10:34:56Z	Luecken et al.
+theislab/scib-pipeline	matrix import to rpy2 issue	Michaela Mueller	2019-08-21T09:51:01Z	Luecken et al.
+theislab/scib-pipeline	final	martaint	2019-08-21T08:13:28Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Michaela Mueller	2019-08-21T07:26:55Z	Luecken et al.
+theislab/scib-pipeline	clustering optimised over NMI	Michaela Mueller	2019-08-21T07:26:41Z	Luecken et al.
+theislab/scib-pipeline	HVG with batch debugged	Michaela Mueller	2019-08-21T07:19:01Z	Luecken et al.
+theislab/scib-pipeline	Bone Marrow - check erythrocytes trajectory	martaint	2019-08-20T16:06:16Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	danielStrobl	2019-08-20T15:48:35Z	Luecken et al.
+theislab/scib-pipeline	annotation matching tm/mca	danielStrobl	2019-08-20T15:48:29Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Michaela Mueller	2019-08-20T13:34:51Z	Luecken et al.
+theislab/scib-pipeline	modified stratified HVG selection to use batch key	Michaela Mueller	2019-08-20T13:34:43Z	Luecken et al.
+theislab/scib-pipeline	scGEN notebook rerun	Michaela Müller	2019-08-20T08:02:30Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Michaela Mueller	2019-08-19T17:17:04Z	Luecken et al.
+theislab/scib-pipeline	wrapped different NMI methods + documented	Michaela Mueller	2019-08-19T17:16:56Z	Luecken et al.
+theislab/scib-pipeline	using interscection HVG method + little fix in preprocessing script	Michaela Mueller	2019-08-19T17:16:26Z	Luecken et al.
+theislab/scib-pipeline	started label merging of TM and mouse atlas and merged the files	danielStrobl	2019-08-19T17:12:19Z	Luecken et al.
+theislab/scib-pipeline	integration qsub script	Michaela Mueller	2019-08-19T15:33:26Z	Luecken et al.
+theislab/scib-pipeline	fixed nan removal in 10X	Michaela Mueller	2019-08-19T15:32:27Z	Luecken et al.
+theislab/scib-pipeline	PC Regression runtime improved by using HVG PCA in scanpy + added kBET with subsampling	Michaela Mueller	2019-08-19T15:31:35Z	Luecken et al.
+theislab/scib-pipeline	added optional flags for preprocessing script	danielStrobl	2019-08-16T15:22:03Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	danielStrobl	2019-08-16T15:08:04Z	Luecken et al.
+theislab/scib-pipeline	changes for seurat and todense function	danielStrobl	2019-08-16T15:07:45Z	Luecken et al.
+theislab/scib-pipeline	normalisation.py -> preprocessing.py	Michaela Mueller	2019-08-16T14:54:39Z	Luecken et al.
+theislab/scib-pipeline	kbet and cell cycle in progress	Michaela Mueller	2019-08-16T14:53:54Z	Luecken et al.
+theislab/scib-pipeline	Merge remote-tracking branch 'refs/remotes/origin/master'	Michaela Mueller	2019-08-16T14:25:43Z	Luecken et al.
+theislab/scib-pipeline	preprocessing for MCA, Tabula muris revisited and debugged	Michaela Mueller	2019-08-16T14:25:37Z	Luecken et al.
+theislab/scib-pipeline	added sge script for normalising complete folder of adata files	danielStrobl	2019-08-16T14:01:41Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	danielStrobl	2019-08-16T11:32:16Z	Luecken et al.
+theislab/scib-pipeline	added sparse to dense for rpy2	danielStrobl	2019-08-16T11:31:59Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Michaela Mueller	2019-08-14T16:54:31Z	Luecken et al.
+theislab/scib-pipeline	cell cycle effect started	Michaela Mueller	2019-08-14T16:54:22Z	Luecken et al.
+theislab/scib-pipeline	new Tabula muris annotation preprocessing	Michaela Mueller	2019-08-14T16:53:35Z	Luecken et al.
+theislab/scib-pipeline	mousePBMCs from MCA - sample 1	martaint	2019-08-14T15:12:57Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Michaela Müller	2019-08-14T12:51:31Z	Luecken et al.
+theislab/scib-pipeline	added normalisation script	Michaela Müller	2019-08-14T12:51:24Z	Luecken et al.
+theislab/scib-pipeline	MCA file reading, annotation and splitting + separate Normalistation	ICB Michaela Müller	2019-08-14T09:55:19Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Daniel Strobl	2019-08-14T07:49:09Z	Luecken et al.
+theislab/scib-pipeline	simplified running nb	Daniel Strobl	2019-08-14T07:48:17Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	danielStrobl	2019-08-13T15:24:06Z	Luecken et al.
+theislab/scib-pipeline	preprocessing of tabula muris	danielStrobl	2019-08-13T15:23:47Z	Luecken et al.
+theislab/scib-pipeline	full Sun sample 1	martaint	2019-08-13T14:41:11Z	Luecken et al.
+theislab/scib-pipeline	moved 3K PBMC dataset	Michaela Müller	2019-08-13T12:25:20Z	Luecken et al.
+theislab/scib-pipeline	mouse atlas preprocessing started	ICB Michaela Müller	2019-08-13T12:00:15Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Michaela Müller	2019-08-13T09:10:18Z	Luecken et al.
+theislab/scib-pipeline	PC regression for covariates	Michaela Müller	2019-08-13T09:10:12Z	Luecken et al.
+theislab/scib-pipeline	added pcr hvg metric function	Daniel Strobl	2019-08-13T08:53:51Z	Luecken et al.
+theislab/scib-pipeline	kBET tested	Michaela Müller	2019-08-12T17:19:10Z	Luecken et al.
+theislab/scib-pipeline	preprocessing working for 3KPBMC	Michaela Müller	2019-08-12T13:40:29Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	danielStrobl	2019-08-12T08:59:15Z	Luecken et al.
+theislab/scib-pipeline	fixed error in preprocessing	danielStrobl	2019-08-12T08:58:30Z	Luecken et al.
+theislab/scib-pipeline	environment exported	Michaela Müller	2019-08-12T08:57:25Z	Luecken et al.
+theislab/scib-pipeline	little changes	Michaela Müller	2019-08-12T08:48:29Z	Luecken et al.
+theislab/scib-pipeline	check sizes in computeSumFactors	martaint	2019-08-08T14:59:27Z	Luecken et al.
+theislab/scib-pipeline	Labels harmonized	martaint	2019-08-07T15:12:23Z	Luecken et al.
+theislab/scib-pipeline	Improved annotation (possibly final)	martaint	2019-08-06T13:09:37Z	Luecken et al.
+theislab/scib-pipeline	Merge pull request #7 from theislab/martaint-patch-1 Improved QC + annotation	martaint	2019-08-05T12:36:33Z	Luecken et al.
+theislab/scib-pipeline	Improved QC + annotation	martaint	2019-08-05T12:33:53Z	Luecken et al.
+theislab/scib-pipeline	added scANVI and scAlign to README	LuckyMD	2019-08-05T06:36:34Z	Luecken et al.
+theislab/scib-pipeline	Create install.md	mumichae	2019-08-04T17:31:53Z	Luecken et al.
+theislab/scib-pipeline	QC plotting functions	Michaela Müller	2019-08-04T17:27:29Z	Luecken et al.
+theislab/scib-pipeline	first notebook 10X PBMCs	martaint	2019-08-01T16:14:56Z	Luecken et al.
+theislab/scib-pipeline	Delete 10xPBMCs.ipynb	martaint	2019-08-01T16:13:15Z	Luecken et al.
+theislab/scib-pipeline	first notebook 10X PBMCs	martaint	2019-08-01T16:11:22Z	Luecken et al.
+theislab/scib-pipeline	created folder structure for data pre-processing	LuckyMD	2019-08-01T15:55:00Z	Luecken et al.
+theislab/scib-pipeline	added metrics to example nb	danielStrobl	2019-08-01T15:01:05Z	Luecken et al.
+theislab/scib-pipeline	fixed not working anndata2ri activation, started comparsion notebook	danielStrobl	2019-08-01T13:16:57Z	Luecken et al.
+theislab/scib-pipeline	fixed bug and conos	danielStrobl	2019-08-01T08:59:16Z	Luecken et al.
+theislab/scib-pipeline	merge	Michaela Müller	2019-07-30T14:41:30Z	Luecken et al.
+theislab/scib-pipeline	solved merge conflict	Michaela Müller	2019-07-30T14:38:52Z	Luecken et al.
+theislab/scib-pipeline	merging	Michaela Müller	2019-07-30T14:35:24Z	Luecken et al.
+theislab/scib-pipeline	revisited NMI and added different implementations	Michaela Müller	2019-07-30T14:28:37Z	Luecken et al.
+theislab/scib-pipeline	changed NMI to sklearn	danielStrobl	2019-07-30T13:58:40Z	Luecken et al.
+theislab/scib-pipeline	merged metrics file	danielStrobl	2019-07-30T11:42:35Z	Luecken et al.
+theislab/scib-pipeline	added runtime and memory analysis function	danielStrobl	2019-07-30T11:33:47Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	Michaela Müller	2019-07-30T09:12:46Z	Luecken et al.
+theislab/scib-pipeline	reordered notebooks	Michaela Müller	2019-07-30T09:12:35Z	Luecken et al.
+theislab/scib-pipeline	refined metric functions and added ARI	Michaela Müller	2019-07-30T09:11:47Z	Luecken et al.
+theislab/scib-pipeline	added working hvg selection	ICB Daniel Christopher Strobl	2019-07-29T14:11:10Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	Michaela Müller	2019-07-29T12:55:49Z	Luecken et al.
+theislab/scib-pipeline	added NMI to metrics	Michaela Müller	2019-07-29T12:55:14Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of github.com:theislab/Benchmarking_data_integration	Daniel Strobl	2019-07-29T12:41:08Z	Luecken et al.
+theislab/scib-pipeline	started conos and hvg selection	Daniel Strobl	2019-07-29T12:40:48Z	Luecken et al.
+theislab/scib-pipeline	paga with overlap	Michaela Müller	2019-07-26T13:35:26Z	Luecken et al.
+theislab/scib-pipeline	fixed import errors and added metrics	Michaela Müller	2019-07-25T14:22:17Z	Luecken et al.
+theislab/scib-pipeline	fixed integration methods	Michaela Müller	2019-07-25T10:09:47Z	Luecken et al.
+theislab/scib-pipeline	notebooks for debugging and testing	Michaela Müller	2019-07-25T08:50:51Z	Luecken et al.
+theislab/scib-pipeline	restructured to python module structure	Michaela Müller	2019-07-25T08:50:25Z	Luecken et al.
+theislab/scib-pipeline	pushed wrong file	Daniel Strobl	2019-07-24T15:41:12Z	Luecken et al.
+theislab/scib-pipeline	harmony	Daniel Strobl	2019-07-24T15:38:15Z	Luecken et al.
+theislab/scib-pipeline	tested harmony, should work now	Daniel Strobl	2019-07-24T15:36:23Z	Luecken et al.
+theislab/scib-pipeline	Added batch parameter to seurat and removed hvg from BBKNN again	Daniel Strobl	2019-07-24T11:52:39Z	Luecken et al.
+theislab/scib-pipeline	Merge branch 'master' of https://github.com/theislab/Benchmarking_data_integration	Michaela Müller	2019-07-24T10:40:20Z	Luecken et al.
+theislab/scib-pipeline	added seurat and fixed summarise counts	Michaela Müller	2019-07-24T10:40:08Z	Luecken et al.
+theislab/scib-pipeline	added highly variable genes for bbknn pca	Daniel Strobl	2019-07-24T10:31:49Z	Luecken et al.
+theislab/scib-pipeline	solved merge conflict	Michaela Müller	2019-07-23T17:54:57Z	Luecken et al.
+theislab/scib-pipeline	added scGen, still incomplete	Michaela Müller	2019-07-23T17:51:54Z	Luecken et al.
+theislab/scib-pipeline	Added links to methods	Daniel Strobl	2019-07-23T14:25:14Z	Luecken et al.
+theislab/scib-pipeline	changed to correct output for MNN	Daniel Strobl	2019-07-23T13:54:11Z	Luecken et al.
+theislab/scib-pipeline	added MNN, BBKNN; added function to check for HVG	Daniel Strobl	2019-07-23T13:53:08Z	Luecken et al.
+theislab/scib-pipeline	changed file structure	Michaela Müller	2019-07-23T10:36:13Z	Luecken et al.
+theislab/scib-pipeline	Started integration methods (scanorama)	Daniel Strobl	2019-07-23T10:30:31Z	Luecken et al.
+theislab/scib-pipeline	added further data scenario extensions	LuckyMD	2019-07-16T08:55:39Z	Luecken et al.
+theislab/scib-pipeline	added strategy to README file	LuckyMD	2019-07-16T08:51:56Z	Luecken et al.
+theislab/scib-pipeline	Initial commit	MalteDLuecken	2019-07-16T08:40:09Z	Luecken et al.

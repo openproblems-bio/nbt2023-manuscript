@@ -1,4 +1,4 @@
-- name: Tran et al. 2020
+- name: Tran et al.
   repository: JinmiaoChenLab/Batch-effect-removal-benchmarking
   methods:
   - BBKNN
@@ -8,12 +8,12 @@
   - Liger
   - Limma
   - MDD-ResNet
-  - MNN
+  - mnnCorrect
   - Scanorama
   - scGen
   - scMerge
-  - Seurat 2
-  - Seurat 3
+  - Seurat v2
+  - Seurat v3
   - ZINB-WaVE
   metrics:
   - Batch ASW
@@ -28,7 +28,7 @@
   methods:
   - Harmony
   - scMerge
-  - Seurat 2
+  - Seurat v2
   metrics: Clustering Accuracy
   dates:
     name:
@@ -44,9 +44,9 @@
   - ComBat
   - fastMNN
   - Harmony
-  - MNN
+  - mnnCorrect
   - Scanorama
-  - Seurat 2
+  - Seurat v2
   metrics:
   - Batch entropy
   - Cell type entropy
@@ -61,21 +61,22 @@
   repository:
   - theislab/scib
   - theislab/scib-reproducibility
+  - theislab/scib-pipeline
   methods:
-  - KKBNN
+  - BBKNN
   - ComBat
   - DESC
   - fastMNN
   - Harmony
   - Liger
-  - MNN
+  - mnnCorrect
   - Saucie
   - Scanorama
-  - scanvi
+  - scanVI
   - scGen
-  - scvi
-  - Seurat 2
-  - Seurat 3
+  - scVI
+  - Seurat v2
+  - Seurat v3
   - trVAE
   metrics:
   - PCR batch
