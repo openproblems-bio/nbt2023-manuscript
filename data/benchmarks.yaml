@@ -1,0 +1,101 @@
+- name: Tran et al. 2020
+  repository: JinmiaoChenLab/Batch-effect-removal-benchmarking
+  methods:
+  - BBKNN
+  - ComBat
+  - fastMNN
+  - Harmony
+  - Liger
+  - Limma
+  - MDD-ResNet
+  - MNN
+  - Scanorama
+  - scGen
+  - scMerge
+  - Seurat 2
+  - Seurat 3
+  - ZINB-WaVE
+  metrics:
+  - Batch ASW
+  - kBET
+  - ARI
+  - LISI combined
+  dates:
+    name: Publication
+    date: '2020-01-16'
+- name: Mereu et al.
+  repository: ati-lz/HCA_Benchmarking
+  methods:
+  - Harmony
+  - scMerge
+  - Seurat 2
+  metrics: Clustering Accuracy
+  dates:
+    name:
+    - Preprint
+    - Publication
+    date:
+    - '2019-05-13'
+    - '2020-04-06'
+- name: Chazarra-Gil et al.
+  repository: cellgeni/batchbench
+  methods:
+  - BBKNN
+  - ComBat
+  - fastMNN
+  - Harmony
+  - MNN
+  - Scanorama
+  - Seurat 2
+  metrics:
+  - Batch entropy
+  - Cell type entropy
+  dates:
+    name:
+    - Preprint
+    - Publication
+    date:
+    - '2019-05-13'
+    - '2020-04-06'
+- name: Luecken et al.
+  repository:
+  - theislab/scib
+  - theislab/scib-reproducibility
+  methods:
+  - KKBNN
+  - ComBat
+  - DESC
+  - fastMNN
+  - Harmony
+  - Liger
+  - MNN
+  - Saucie
+  - Scanorama
+  - scanvi
+  - scGen
+  - scvi
+  - Seurat 2
+  - Seurat 3
+  - trVAE
+  metrics:
+  - PCR batch
+  - Batch ASW
+  - Graph iLISI
+  - Graph connectivity
+  - kBET
+  - NMI
+  - ARI
+  - Cell type ASW
+  - Isolated label F1
+  - Isolated label silhouette
+  - Graph cLISI
+  - Cell cycle conservation
+  - HVG conservation
+  - Trajectory conservation
+  dates:
+    name:
+    - Preprint
+    - Publication
+    date:
+    - '2020-05-27'
+    - '2021-12-23'
