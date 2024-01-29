@@ -38,12 +38,25 @@ overlapdf <- benchmark_crossing %>%
 
 # overlap plot
 g1 <- ggplot(overlapdf) +
-  geom_tile(aes(Metric, forcats::fct_rev(Method), fill = factor(n)), colour = "#CCCCCC", linewidth = 0.5) +
+  geom_tile(
+    aes(
+      Metric,
+      forcats::fct_rev(Method),
+      fill = factor(n)
+    ),
+    colour = "#CCCCCC",
+    linewidth = 0.3
+  ) +
   scale_fill_manual(values = palette) +
   scale_x_discrete(position = "top") +
-  labs(fill = "# studies", x = "Metrics", y = "Methods") +
+  labs(fill = "# studies", x = "Used metrics", y = "Benchmarked methods") +
   theme_bw() +
-  theme(axis.text.x = element_text(angle = 40, hjust = 0), legend.position = "bottom") +
+  theme(
+    axis.text.x = element_text(angle = 40, hjust = 0, size = 8),
+    axis.ticks = element_blank(),
+    panel.border = element_blank(),
+    legend.position = "bottom"
+  ) +
   coord_equal()
 
 # timeline plot
@@ -70,7 +83,10 @@ dates <-
   ) %>%
   mutate(
     date_dec = decimal_date(date),
-    y = factor(ifelse(type == "Method", "Methods", name), levels = c("Methods", rev(sort(map_chr(benchmarks, "name"))))),
+    y = factor(
+      ifelse(type == "Method", "Benchmarked\nmethods", name),
+      levels = c("Benchmarked\nmethods", rev(names))
+    ),
     event_type = factor(event_type, levels = c("First commit", "Preprint", "Publication", "Last commit"))
   )
 method_dates <- dates %>% filter(type == "Method")
@@ -89,22 +105,24 @@ g2 <- ggplot(dates, aes(date_dec, y)) +
     benchmark_dates %>% group_by(name) %>% slice(c(which.min(date), which.max(date)))
   ) +
   geom_point(aes(date_dec, y, colour = event_type), dates) +
-  ggbreak::scale_x_break(c(2006.75, 2015)) +
-  theme_classic() +
-  labs(x = NULL, colour = "Event") +
+  ggbreak::scale_x_break(c(2006.5, 2015.5)) +
+  labs(x = NULL, y = NULL, colour = "Event") +
   scale_x_continuous(
     limits = c(2006, 2026),
     breaks = yrs,
     labels = ifelse(yrs %% 2 == 0, sprintf("%4d", yrs), "")
   ) +
+  theme_bw() +
   theme(
-    axis.line.y = element_blank(),
-    axis.ticks.y = element_blank(),
-    axis.title.y = element_blank(),
-    axis.title.x.top = element_blank(),
-    axis.text.x.top = element_blank(),
+    axis.line.x = element_line(linewidth = ggplot2::rel(1), colour = "black"),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.border = element_blank(),
     axis.line.x.top = element_blank(),
     axis.ticks.x.top = element_blank(),
+    axis.title.x.top = element_blank(),
+    axis.text.x.top = element_blank(),
+    axis.y.ticks = element_blank(),
     legend.position = "bottom"
   ) +
   scale_color_brewer(palette = "Set1")
@@ -120,15 +138,24 @@ df <- tibble(
 
 g2_plus_tiles <- g2
 for (i in seq_len(nrow(df))) {
-  g2s <- ggplot(benchmark_crossing %>% filter(Name == df$name[[i]])) +
-    geom_tile(
-      aes(Metric, forcats::fct_rev(Method), fill = factor(n)),
-      linewidth = 0.5
+  g2s <-
+    ggplot(
+      benchmark_crossing %>% filter(Name == df$name[[i]]),
+      aes(
+        Metric,
+        forcats::fct_rev(Method),
+        fill = factor(n)
+      )
     ) +
+    geom_rect(
+      aes(xmin = xmin, xmax = xmax, ymin = ymin, ymax = ymax, x = NULL, y = NULL),
+      data.frame(xmin = 0, xmax = length(metrics) + 1, ymin = 0, ymax = length(methods) + 1),
+      fill = "#222222"
+    ) +
+    geom_raster() +
     scale_fill_manual(values = palette) +
     labs(x = NULL, y = NULL) +
     cowplot::theme_nothing() +
-    theme(plot.background = element_rect(fill = NA, colour = "#222222")) +
     coord_equal()
   g2_plus_tiles <- g2_plus_tiles + annotation_custom(
     grob = ggplotGrob(g2s),
@@ -140,15 +167,12 @@ for (i in seq_len(nrow(df))) {
 }
 
 gc <- patchwork::wrap_plots(
-  wrap_elements(full = g1),
-  patchwork::wrap_plots(
-    patchwork::plot_spacer(),
-    g2_plus_tiles,
-    ncol = 1,
-    heights = c(1, 4)
-  ),
+  g1,
+  # add a little bit of space at the top of the right plot
+  g2_plus_tiles + expand_limits(y = 7),
   nrow = 1,
   widths = c(5, 6)
 )
 ggsave("figures/figure1/fig1a.pdf", gc, width = 12, height = 5)
+ggsave("figures/figure1/fig1a.svg", gc, width = 12, height = 5)
 ggsave("figures/figure1/fig1a.png", gc, width = 12, height = 5)
