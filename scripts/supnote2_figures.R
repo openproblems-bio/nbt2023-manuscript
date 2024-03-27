@@ -1,4 +1,3 @@
-
 library(tidyverse)
 library(funkyheatmap)
 
@@ -73,8 +72,8 @@ walk(task_info_jsons, function(task_info_json) {
       ~Category, ~group, ~palette,
       "", "method", NA_character_,
       "Overall", "mean", "mean",
-      "Dataset", "dataset", "dataset",
-      "Metric", "metric", "metric"
+      ifelse(nrow(task_data$dataset_info) > 1, "Dataset", ""), "dataset", "dataset",
+      ifelse(nrow(task_data$metric_info) > 1, "Metric", ""), "metric", "metric"
     )
 
     palettes <- list(
@@ -127,7 +126,7 @@ walk(task_info_jsons, function(task_info_json) {
     )
 
     ggsave(paste0(figure_prefix, ".pdf"), g_all, width = g_all$width, height = g_all$height)
-    ggsave(paste0(figure_prefix, ".png"), g_all, width = g_all$width, height = g_all$height)
+    #ggsave(paste0(figure_prefix, ".png"), g_all, width = g_all$width, height = g_all$height)
   }, error = function(e) {
     cat("Error: ", e$message, "\n", sep = "")
   })
