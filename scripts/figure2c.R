@@ -134,3 +134,19 @@ g_all <- funky_heatmap(
 g_all
 
 ggsave(paste0(figure_prefix, ".pdf"), g_all, width = g_all$width, height = g_all$height)
+
+library(openxlsx2)
+
+wb <-
+  wb_workbook(title = "Data for Figure 2c") |>
+  wb_add_worksheet("Data") |>
+  wb_add_data("Data", data, col_names = TRUE) |>
+  wb_add_worksheet("Column info") |>
+  wb_add_data("Column info", column_info, col_names = TRUE) |>
+  wb_add_worksheet("Column groups") |>
+  wb_add_data("Column groups", column_groups, col_names = TRUE) |>
+  wb_add_worksheet("Palettes") |>
+  wb_add_data("Palettes", enframe(unlist(palettes)), col_names = TRUE) |>
+  wb_add_worksheet("Legends") |>
+  wb_add_data("Legends", legends %>% map_dfr(~ as_tibble(map(., function(x) paste(x, collapse = ",")))), col_names = TRUE) |>
+  wb_save(paste0(figure_prefix, "_data.xlsx"))
