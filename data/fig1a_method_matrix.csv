@@ -1,0 +1,20 @@
+,Batch ASW,kBET,ARI,LISI combined,Batch entropy,Cell type entropy,PCR batch,Graph iLISI,Graph connectivity,NMI,Cell type ASW,Isolated label F1,Isolated label silhouette,Graph cLISI,Cell cycle conservation,HVG conservation,Trajectory conservation,Clustering Accuracy
+BBKNN,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+ComBat,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+DESC,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0
+Harmony,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Liger,2,2,2,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0
+Limma,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MDD-ResNet,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saucie,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0
+Scanorama,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Seurat v2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Seurat v3,2,2,2,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0
+ZINB-WaVE,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fastMNN,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+mnnCorrect,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+scGen,2,2,2,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0
+scMerge,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scVI,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0
+scanVI,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0
+trVAE,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0
